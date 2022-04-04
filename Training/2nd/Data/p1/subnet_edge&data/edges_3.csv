@@ -1,0 +1,16 @@
+Source,Target,Type,Id,Weight
+0,2,Directed,0,1
+0,4,Directed,1,1
+0,10,Directed,2,1
+0,11,Directed,3,1
+0,12,Directed,4,1
+5,4,Directed,5,1
+5,10,Directed,6,1
+6,3,Directed,7,1
+8,1,Directed,8,1
+8,5,Directed,9,1
+8,7,Directed,10,1
+8,9,Directed,11,1
+8,12,Directed,12,1
+8,13,Directed,13,1
+9,1,Directed,14,1

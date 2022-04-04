@@ -1,0 +1,7 @@
+Source,Target,Type,Id,Weight
+0,1,Directed,0,1
+0,3,Directed,1,1
+0,4,Directed,2,1
+0,5,Directed,3,1
+0,7,Directed,4,1
+6,2,Directed,5,1

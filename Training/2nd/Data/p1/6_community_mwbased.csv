@@ -1,0 +1,5569 @@
+Id,Label,Weight,color,modularity_class
+0,The Exploited,12,u,46
+1,Special Duties,0,C,2
+2,Tricky,12,h,33
+3,PJ Harvey,22,O,14
+4,Bob Dylan,389,l,37
+5,Leonard Cohen,64,u,46
+6,The Gun Club,9,j,35
+7,Chrissie Hynde,6,u,46
+8,Crime & the City Solution,3,h,33
+9,Lesley Gore,8,u,46
+10,Massive Attack,32,u,46
+11,Nick Cave,22,A,0
+12,The Raincoats,10,u,46
+13,Pretenders,34,u,46
+14,Tom Waits,48,A,0
+15,Marianne Faithfull,13,u,46
+16,Patti Smith,45,A,0
+17,Sonic Youth,71,u,46
+18,Pere Ubu,26,u,46
+19,Pixies,72,u,46
+20,The Smiths,83,u,46
+21,X,31,u,46
+22,Captain Beefheart,34,O,14
+23,Bad Brains,36,j,35
+24,P.O.D.,2,u,46
+25,Black Flag,93,u,46
+26,Korn,37,u,46
+27,Faith No More,37,Z,25
+28,Eek-A-Mouse,10,u,46
+29,Santana,32,u,46
+30,Primus,17,h,33
+31,Metallica,112,u,46
+32,311,16,u,46
+33,Suicidal Tendencies,23,u,46
+34,Sepultura,21,u,46
+35,Extreme,3,u,46
+36,Tool,26,u,46
+37,Fishbone,22,u,46
+38,Jane's Addiction,40,u,46
+39,Living Colour,10,l,37
+40,Rage Against the Machine,29,u,46
+41,Red Hot Chili Peppers,39,u,46
+42,BÃ©la Fleck,11,u,46
+43,Tony Furtado,0,u,46
+44,Sam Bush,7,u,46
+45,Trey Anastasio,1,u,46
+46,Alice Cooper,68,Y,24
+47,Soundgarden,42,u,46
+48,Spinal Tap,10,O,14
+49,Blue Cheer,28,u,46
+50,Blue Ã–yster Cult,22,u,46
+51,Killing Joke,23,u,46
+52,Kiss,89,u,46
+53,Crazy Horse,15,u,46
+54,Led Zeppelin,221,u,46
+55,MC5,64,A,0
+56,Funkadelic,44,P,15
+57,Gene Simmons,9,Y,24
+58,Melvins,27,u,46
+59,Jimi Hendrix,201,A,0
+60,Neil Young,148,l,37
+61,Ohio Players,27,u,46
+62,Wipers,12,u,46
+63,Ramones,127,u,46
+64,Mountain,18,u,46
+65,The Stooges,116,u,46
+66,AC/DC,65,u,46
+67,Aerosmith,67,j,35
+68,Budgie,8,u,46
+69,The Beatles,615,c,28
+70,Black Sabbath,171,u,46
+71,Iron Butterfly,22,u,46
+72,The Velvet Underground,181,l,37
+73,Spice Girls,22,t,45
+74,t.A.T.u.,1,u,46
+75,Boney M.,6,u,46
+76,Gwen Stefani,17,s,44
+77,Britney Spears,29,s,44
+78,Tanya Tucker,19,u,46
+79,Pam Tillis,11,u,46
+80,Patty Loveless,18,u,46
+81,Bobbie Gentry,11,u,46
+82,The Judds,17,u,46
+83,Connie Smith,7,u,46
+84,Tammy Wynette,32,u,46
+85,Dolly Parton,49,u,46
+86,Janie Fricke,5,u,46
+87,Loretta Lynn,47,u,46
+88,Ray Price,30,v,47
+89,Skeeter Davis,7,u,46
+90,Lynn Anderson,11,u,46
+91,Soulfly,4,u,46
+92,All That Remains,3,u,46
+93,In Flames,7,u,46
+94,Biohazard,13,u,46
+95,Vision of Disorder,9,u,46
+96,Hatebreed,14,u,46
+97,At the Gates,12,a,26
+98,Olivier Messiaen,3,v,47
+99,GyÃ¶rgy KurtÃ¡g,0,v,47
+100,Daddy Yankee,1,u,46
+101,Speedy,1,u,46
+102,Spyro Gyra,8,u,46
+103,Allan Holdsworth,1,u,46
+104,Jo Stafford,12,v,47
+105,Allan Sherman,2,A,0
+106,Victor Borge,1,v,47
+107,Theodore Bikel,1,v,47
+108,Spike Jones,20,A,0
+109,Simon & Garfunkel,46,u,46
+110,Sergio Mendes,5,u,46
+111,The Beach Boys,186,u,46
+112,Les Baxter,8,v,47
+113,Caetano Veloso,13,u,46
+114,Burt Bacharach,63,u,46
+115,Baden Powell,5,v,47
+116,AntÃ´nio Carlos Jobim,34,u,46
+117,JoÃ£o Gilberto,27,u,46
+118,Frank Sinatra,71,u,46
+119,EdÃº Lobo,4,u,46
+120,John Cage,34,v,47
+121,Tangerine Dream,34,u,46
+122,Pink Floyd,142,j,35
+123,Miles Davis,160,u,46
+124,Terry Riley,34,u,46
+125,Jefferson Airplane,25,u,46
+126,Grateful Dead,60,u,46
+127,Joan Armatrading,12,u,46
+128,Tanita Tikaram,0,u,46
+129,TLC,37,u,46
+130,Total,0,u,46
+131,En Vogue,22,u,46
+132,Janet Jackson,59,u,46
+133,Mariah Carey,42,t,45
+134,R. Kelly,38,u,46
+135,Mary J. Blige,34,u,46
+136,Chaka Khan,37,u,46
+137,Whitney Houston,45,u,46
+138,Cream,91,u,46
+139,Pat Travers,0,u,46
+140,Elmore James,51,v,47
+141,Eric Clapton,46,u,46
+142,Deep Purple,95,u,46
+143,Jeff Beck,45,u,46
+144,Leslie West,3,v,47
+145,The Yardbirds,105,N,13
+146,Little Walter,20,v,47
+147,Robin Trower,9,u,46
+148,The Rolling Stones,319,d,29
+149,Barry Manilow,14,u,46
+150,Pablo Cruise,1,u,46
+151,America,16,u,46
+152,Poco,14,u,46
+153,Brand New,4,d,29
+154,Alexisonfire,0,u,46
+155,Sunny Day Real Estate,33,u,46
+156,Stone Temple Pilots,23,u,46
+157,Quicksand,11,u,46
+158,Joe,2,u,46
+159,Tank,2,u,46
+160,Leonard Bernstein,7,v,47
+161,Andrew Lloyd Webber,14,u,46
+162,Jule Styne,2,v,47
+163,George Martin,3,u,46
+164,Stephen Sondheim,4,v,47
+165,U-Roy,24,S,18
+166,Pato Banton,4,u,46
+167,Derrick Morgan,10,v,47
+168,Jimmy Cliff,35,T,19
+169,Aswad,15,u,46
+170,Steel Pulse,13,u,46
+171,Toots & the Maytals,33,u,46
+172,Desmond Dekker,22,u,46
+173,Prince Jazzbo,4,u,46
+174,Creedence Clearwater Revival,35,M,12
+175,Southern Culture on the Skids,1,A,0
+176,The Cramps,20,A,0
+177,Lynyrd Skynyrd,39,u,46
+178,Charlie Feathers,9,u,46
+179,Link Wray,22,u,46
+180,Sam the Sham & the Pharaohs,9,Q,16
+181,Screamin' Jay Hawkins,21,A,0
+182,Jerry Lee Lewis,53,v,47
+183,Brian Setzer,4,U,20
+184,Mojo Nixon,1,u,46
+185,Dave Edmunds,10,d,29
+186,ZZ Top,23,u,46
+187,Tony Joe White,7,u,46
+188,Keith Richards,15,j,35
+189,Johnny Cash,112,v,47
+190,The Ventures,10,u,46
+191,Molly Hatchet,7,u,46
+192,Cab Calloway,27,v,47
+193,T-Bone Walker,48,v,47
+194,Charlie Christian,35,v,47
+195,Tony Rebel,0,u,46
+196,T.S.O.L.,1,u,46
+197,The Dickies,13,u,46
+198,The Weirdos,11,u,46
+199,Steven Halpern,4,u,46
+200,Parijat,0,u,46
+201,George Duke,16,u,46
+202,T-Connection,0,u,46
+203,Paula Abdul,9,t,45
+204,Selena,13,t,45
+205,Cyndi Lauper,18,u,46
+206,Fito Olivares,1,u,46
+207,Madonna,77,G,6
+208,Donna Summer,34,u,46
+209,Gloria Estefan,16,t,45
+210,Los Tigres del Norte,8,u,46
+211,The Kinks,192,d,29
+212,Space,1,u,46
+213,The Who,149,N,13
+214,Syreeta,5,v,47
+215,Alicia Keys,6,u,46
+216,Natalie Cole,14,u,46
+217,Isaac Hayes,35,u,46
+218,D'Angelo,26,u,46
+219,Faith Evans,14,u,46
+220,Dionne Warwick,32,u,46
+221,Erykah Badu,19,u,46
+222,Sade,28,u,46
+223,Roberta Flack,35,u,46
+224,Marvin Gaye,169,j,35
+225,Prince,94,l,37
+226,Nina Simone,52,u,46
+227,The Sweet Inspirations,9,v,47
+228,Brenda Russell,7,u,46
+229,Stevie Wonder,138,u,46
+230,Maxwell,7,u,46
+231,Oleta Adams,1,u,46
+232,Aretha Franklin,95,u,46
+233,Allen Toussaint,22,v,47
+234,Slayer,69,u,46
+235,Pantera,37,a,26
+236,Iron Maiden,69,u,46
+237,Corrosion of Conformity,13,u,46
+238,Exhorder,1,u,46
+239,Judas Priest,73,u,46
+240,Van Halen,54,u,46
+241,Saint Vitus,10,u,46
+242,Venom,31,u,46
+243,Napalm Death,13,C,2
+244,Negative Approach,6,u,46
+245,Megadeth,24,u,46
+246,Ozzy Osbourne,27,u,46
+247,Anthrax,30,u,46
+248,MotÃ¶rhead,55,u,46
+249,Godflesh,7,u,46
+250,Annihilator,7,u,46
+251,Manowar,14,u,46
+252,Ted Nugent,23,d,29
+253,Testament,12,u,46
+254,Anvil,8,u,46
+255,Danzig,15,u,46
+256,System of a Down,7,u,46
+257,John Frusciante,8,u,46
+258,Rollins Band,8,u,46
+259,Nine Inch Nails,34,u,46
+260,Nirvana,111,u,46
+261,Neurosis,4,a,26
+262,Mr. Bungle,17,u,46
+263,Helmet,21,u,46
+264,Marilyn Manson,16,u,46
+265,T. Rex,71,l,37
+266,Chuck Berry,159,v,47
+267,Elvis Presley,166,u,46
+268,Donovan,38,u,46
+269,Little Richard,88,A,0
+270,The Paul Butterfield Blues Band,1,u,46
+271,Steppenwolf,24,u,46
+272,The Amboy Dukes,5,u,46
+273,King Crimson,50,u,46
+274,The Doors,74,j,35
+275,Laura Nyro,32,u,46
+276,Frank Zappa,63,O,14
+277,Vanilla Fudge,22,u,46
+278,John Barry,17,u,46
+279,The Pretty Things,19,d,29
+280,Tony Bennett,28,u,46
+281,Paolo Conte,5,u,46
+282,Ã‰dith Piaf,34,v,47
+283,Yves Montand,2,v,47
+284,Charles Aznavour,19,v,47
+285,Dave Brubeck,14,u,46
+286,Terry Gibbs,1,u,46
+287,Alice Coltrane,3,u,46
+288,John Coltrane,118,u,46
+289,Dexter Gordon,17,u,46
+290,Ravi Shankar,21,v,47
+291,Bud Powell,38,v,47
+292,McCoy Tyner,14,u,46
+293,Paul Oakenfold,5,u,46
+294,Robert Miles,1,u,46
+295,Paul van Dyk,4,u,46
+296,Pearl Jam,41,u,46
+297,Semisonic,4,u,46
+298,Paul Westerberg,9,u,46
+299,BoDeans,5,u,46
+300,Big Star,75,u,46
+301,The Connells,3,u,46
+302,Crowded House,14,u,46
+303,Foo Fighters,33,u,46
+304,Lindsey Buckingham,7,u,46
+305,Jimmy Buffett,18,u,46
+306,Matthew Sweet,6,u,46
+307,The Posies,3,u,46
+308,Tom Petty,39,k,36
+309,Marshall Crenshaw,7,j,35
+310,The Smithereens,7,u,46
+311,Todd Rundgren,28,u,46
+312,Gram Parsons,51,u,46
+313,Steely Dan,24,V,21
+314,Toto,8,u,46
+315,Bee Gees,49,u,46
+316,"Blood, Sweat & Tears",13,u,46
+317,Boz Scaggs,8,u,46
+318,Larry Carlton,5,u,46
+319,Chicago,15,u,46
+320,Jackson Browne,34,u,46
+321,The Doobie Brothers,14,u,46
+322,Loggins & Messina,1,v,47
+323,Orleans,2,u,46
+324,Manfred Mann,7,d,29
+325,Yes,43,u,46
+326,Elton John,76,l,37
+327,Herbie Hancock,31,u,46
+328,Harold Arlen,8,v,47
+329,Billie Holiday,106,v,47
+330,Billy Eckstine,33,v,47
+331,Dizzy Gillespie,61,v,47
+332,Joe Mooney,2,v,47
+333,Ella Fitzgerald,75,v,47
+334,Sarah Vaughan,45,v,47
+335,Charlie Parker,95,u,46
+336,Johnny Hartman,15,u,46
+337,Joe Williams,10,v,47
+338,Johnny Mercer,15,v,47
+339,Stan Getz,18,u,46
+340,Max Roach,28,v,47
+341,Stan Levey,1,v,47
+342,Stephanie Mills,6,u,46
+343,Alicia Myers,0,u,46
+344,Deniece Williams,10,u,46
+345,The Jones Girls,1,u,46
+346,Ray Charles,113,v,47
+347,Ali Farka TourÃ©,5,v,47
+348,Big Joe Williams,10,v,47
+349,John Lee Hooker,62,v,47
+350,Lightnin' Hopkins,35,v,47
+351,Compay Segundo,12,v,47
+352,Pablo MilanÃ©s,2,v,47
+353,Vicente FernÃ¡ndez,4,v,47
+354,Alicia Villarreal,0,u,46
+355,Luis Miguel,11,u,46
+356,Alejandro FernÃ¡ndez,4,u,46
+357,Alejandro Sanz,1,u,46
+358,Vassar Clements,11,u,46
+359,Alison Krauss & Union Station,0,u,46
+360,Ralph Stanley,20,v,47
+361,J.D. Crowe & the New South,5,u,46
+362,Steve Howe,3,v,47
+363,Brian May,3,u,46
+364,Jimmy Page,14,u,46
+365,George Harrison,13,u,46
+366,Rick Nielsen,2,u,46
+367,The Shadows,22,l,37
+368,Joe Satriani,8,u,46
+369,Smokey Robinson,84,u,46
+370,Pete Townshend,9,V,21
+371,Jaco Pastorius,8,u,46
+372,Tony Levin,2,u,46
+373,Jack Bruce,13,u,46
+374,The Five Satins,6,u,46
+375,The Delfonics,11,u,46
+376,The Five Keys,5,u,46
+377,The Impressions,30,u,46
+378,The Drifters,47,u,46
+379,Curtis Mayfield,73,u,46
+380,The Dells,17,v,47
+381,Gene Chandler,10,u,46
+382,Jerry Butler,24,u,46
+383,Brook Benton,10,u,46
+384,The Platters,37,u,46
+385,Pebbles,2,t,45
+386,Betty Wright,15,u,46
+387,Klymaxx,2,u,46
+388,Labelle,14,u,46
+389,The Supremes,33,u,46
+390,Minnie Riperton,32,u,46
+391,Atlantic Starr,6,u,46
+392,The Tams,6,v,47
+393,The Three Degrees,5,u,46
+394,Diana Ross,52,u,46
+395,Gloria Gaynor,10,u,46
+396,Sister Sledge,9,u,46
+397,New Edition,24,u,46
+398,The Pointer Sisters,10,u,46
+399,Bo Diddley,65,A,0
+400,The Trashmen,5,d,29
+401,The Champs,2,v,47
+402,Chubby Checker,7,u,46
+403,The Rivingtons,1,u,46
+404,The Kingsmen,15,u,46
+405,Blind Melon,9,u,46
+406,Papa Roach,5,u,46
+407,Kid Rock,15,u,46
+408,Fugazi,42,u,46
+409,Alice in Chains,44,u,46
+410,The Cult,10,u,46
+411,Sex Pistols,153,u,46
+412,Heart,19,u,46
+413,Misfits,27,u,46
+414,Ronnie Milsap,13,l,37
+415,T. Graham Brown,0,u,46
+416,Tower of Power,7,u,46
+417,Sharon Jones & the Dap-Kings,1,u,46
+418,The Mar-Keys,7,u,46
+419,Ike & Tina Turner,19,u,46
+420,James Brown,154,l,37
+421,Barbara Lynn,3,u,46
+422,Carla Thomas,11,u,46
+423,Fontella Bass,6,u,46
+424,Otis Redding,99,l,37
+425,The Memphis Horns,6,u,46
+426,Candi Staton,7,u,46
+427,Gladys Knight & the Pips,4,v,47
+428,Steve Cropper,4,u,46
+429,Irma Thomas,15,u,46
+430,Lyn Collins,2,v,47
+431,Etta James,37,u,46
+432,Was (Not Was),5,u,46
+433,Otis Clay,6,u,46
+434,The Mamas & the Papas,16,u,46
+435,Spanky & Our Gang,2,u,46
+436,The Four Freshmen,12,v,47
+437,The New Christy Minstrels,8,u,46
+438,Herman's Hermits,14,u,46
+439,The Flaming Lips,30,u,46
+440,Sparklehorse,7,h,33
+441,Galaxie 500,13,u,46
+442,R.E.M.,85,u,46
+443,The Replacements,58,u,46
+444,Guided by Voices,21,u,46
+445,The Boo Radleys,7,u,46
+446,Pavement,31,u,46
+447,Cracker,6,u,46
+448,Mojave 3,9,u,46
+449,Alkaline Trio,8,e,30
+450,Senses Fail,0,u,46
+451,Saves the Day,10,h,33
+452,Dag Nasty,8,v,47
+453,Youth of Today,4,u,46
+454,Cro-Mags,6,u,46
+455,Jawbreaker,26,d,29
+456,The Promise Ring,16,u,46
+457,Jawbox,19,u,46
+458,Sparta,0,u,46
+459,U2,81,u,46
+460,Government Issue,4,u,46
+461,Sheena Easton,9,t,45
+462,Patty Smyth,7,u,46
+463,Jody Watley,12,u,46
+464,Take That,17,u,46
+465,M People,4,t,45
+466,Howard Jones,9,u,46
+467,Leif Garrett,7,u,46
+468,Wham!,16,u,46
+469,Samantha Fox,5,t,45
+470,Lisa Stansfield,6,u,46
+471,Rick Astley,3,t,45
+472,New Kids on the Block,21,t,45
+473,The Partridge Family,13,u,46
+474,Ace of Base,17,t,45
+475,George Michael,22,u,46
+476,The Velvelettes,4,u,46
+477,Kylie Minogue,18,t,45
+478,Shalamar,9,u,46
+479,Menudo,11,u,46
+480,Sparks,20,u,46
+481,Jacques Brel,25,u,46
+482,Scott Walker,30,u,46
+483,The Stylistics,12,u,46
+484,Tracey Thorn,1,u,46
+485,Young Marble Giants,12,u,46
+486,SHeDAISY,0,u,46
+487,Jo Dee Messina,7,u,46
+488,Shania Twain,20,u,46
+489,Faith Hill,17,u,46
+490,Dixie Chicks,19,u,46
+491,Deana Carter,6,u,46
+492,Joni Mitchell,116,u,46
+493,Lorrie Morgan,13,u,46
+494,McBride & the Ride,1,u,46
+495,Martina McBride,16,u,46
+496,Mindy McCready,3,u,46
+497,Trisha Yearwood,12,u,46
+498,Terri Clark,4,u,46
+499,Sarah McLachlan,18,h,33
+500,Mary Chapin Carpenter,9,u,46
+501,Static-X,1,u,46
+502,Fear Factory,13,a,26
+503,Filter,4,u,46
+504,Ministry,26,u,46
+505,White Zombie,12,u,46
+506,Shed Seven,0,u,46
+507,Oasis,24,u,46
+508,The Stone Roses,27,u,46
+509,Slam Stewart,2,v,47
+510,Charles Mingus,26,u,46
+511,Erskine Hawkins,7,v,47
+512,Lennie Tristano,8,v,47
+513,Thelonious Monk,51,v,47
+514,Milt Hinton,5,v,47
+515,Buddy Collette,2,u,46
+516,Amos Milburn,12,v,47
+517,Taproot,0,u,46
+518,Candlebox,13,u,46
+519,Slipknot,8,u,46
+520,Creed,22,u,46
+521,Deftones,33,u,46
+522,Spineshank,0,u,46
+523,Traffic,23,u,46
+524,Spin Doctors,11,u,46
+525,Ten Years After,9,u,46
+526,Steve Miller Band,2,u,46
+527,The Band,82,j,35
+528,Bob Weir,11,j,35
+529,Bootsy Collins,17,u,46
+530,Edgar Winter,10,u,46
+531,War,14,u,46
+532,Jorma Kaukonen,6,u,46
+533,Van Morrison,63,A,0
+534,Little Feat,24,u,46
+535,Quicksilver Messenger Service,10,j,35
+536,The Allman Brothers Band,53,u,46
+537,Graham Central Station,10,u,46
+538,Chic,37,u,46
+539,Spandau Ballet,7,u,46
+540,Be Bop Deluxe,17,u,46
+541,Gary Numan,46,u,46
+542,Japan,14,u,46
+543,Sam Cooke,128,v,47
+544,David Bowie,238,l,37
+545,Brian Eno,135,u,46
+546,David Essex,11,u,46
+547,Ultravox,30,u,46
+548,Roxy Music,103,l,37
+549,Bad Religion,35,u,46
+550,All,7,u,46
+551,Generation X,11,u,46
+552,Redd Kross,2,u,46
+553,Tracy Bonham,1,m,38
+554,Pat Benatar,17,u,46
+555,Liz Phair,13,t,45
+556,Hole,12,m,38
+557,Tori Amos,23,u,46
+558,Travis Tritt,16,u,46
+559,Tracy Byrd,0,u,46
+560,Keith Whitley,21,u,46
+561,Ricky Van Shelton,11,u,46
+562,Vince Gill,29,u,46
+563,Johnny Paycheck,16,u,46
+564,Sammy Kershaw,2,u,46
+565,Randy Travis,35,u,46
+566,Brooks & Dunn,14,u,46
+567,Alan Jackson,27,u,46
+568,Clint Black,23,u,46
+569,Garth Brooks,38,u,46
+570,George Strait,47,u,46
+571,Teena Marie,19,u,46
+572,Tara Kemp,0,u,46
+573,Ferlin Husky,4,v,47
+574,Sheb Wooley,1,v,47
+575,Grant Lee Buffalo,10,u,46
+576,Palace,0,u,46
+577,Sonny Landreth,6,u,46
+578,Tab Benoit,0,u,46
+579,"Clarence ""Gatemouth"" Brown",13,v,47
+580,Dr. John,16,l,37
+581,Professor Longhair,18,v,47
+582,Albert Collins,15,u,46
+583,Albert King,36,u,46
+584,Stevie Ray Vaughan,16,u,46
+585,Buddy Guy,40,u,46
+586,American Head Charge,0,u,46
+587,Keith Jarrett,13,u,46
+588,Bob Dorough,5,u,46
+589,Horace Silver,32,v,47
+590,Stan Kenton,24,v,47
+591,Jay & the Americans,1,u,46
+592,Mose Allison,20,A,0
+593,Petula Clark,21,u,46
+594,Olivia Newton-John,9,u,46
+595,Anne Murray,12,u,46
+596,Helen Reddy,1,u,46
+597,Linda Ronstadt,31,u,46
+598,Stevie Nicks,19,u,46
+599,Kenny Burrell,13,u,46
+600,Stanley Jordan,3,u,46
+601,Carlos Santana,4,v,47
+602,Gabor Szabo,3,u,46
+603,George Benson,20,K,10
+604,Wes Montgomery,25,u,46
+605,Roy Buchanan,3,u,46
+606,All-4-One,4,u,46
+607,Bell Biv DeVoe,14,u,46
+608,Take 6,2,u,46
+609,Little Anthony & the Imperials,11,u,46
+610,The Tymes,1,v,47
+611,Guy,19,u,46
+612,The Chi-Lites,7,u,46
+613,Keith Sweat,25,u,46
+614,"Hank Williams, Jr.",28,u,46
+615,Trace Adkins,4,u,46
+616,Waylon Jennings,50,u,46
+617,Ricky Skaggs,18,u,46
+618,Merle Haggard,100,u,46
+619,Mickey Gilley,7,u,46
+620,Daryle Singletary,2,u,46
+621,Dwight Yoakam,17,u,46
+622,John Mayall,28,u,46
+623,The Rascals,9,u,46
+624,Georgie Fame,14,A,0
+625,Yusef Lateef,5,u,46
+626,The Byrds,158,u,46
+627,The Animals,39,d,29
+628,Them,14,d,29
+629,Taylor Dayne,1,t,45
+630,Sister Carol,0,u,46
+631,Marcia Griffiths,7,u,46
+632,Everclear,12,u,46
+633,American Hi-Fi,0,u,46
+634,Tadd Dameron,6,v,47
+635,Stanley Turrentine,7,u,46
+636,Sonny Rollins,29,u,46
+637,Gene Ammons,8,u,46
+638,Don Byas,15,u,46
+639,Lowell Fulson,2,v,47
+640,Illinois Jacquet,11,v,47
+641,The Blues Brothers,2,u,46
+642,Cheech & Chong,7,u,46
+643,Twisted Sister,14,u,46
+644,Def Leppard,28,u,46
+645,Scorpions,19,u,46
+646,Status Quo,9,l,37
+647,The Rutles,3,u,46
+648,Stealers Wheel,1,u,46
+649,Soul Coughing,8,u,46
+650,TV on the Radio,0,u,46
+651,The Fall,31,A,0
+652,Frank Black,15,u,46
+653,Dinosaur Jr.,35,u,46
+654,Joy Division,84,u,46
+655,Public Image Ltd.,28,u,46
+656,Jan Hammer,3,u,46
+657,Peter Gabriel,44,u,46
+658,Thee Oh Sees,2,u,46
+659,The J.B.'s,17,l,37
+660,Stanton Moore,0,u,46
+661,Idris Muhammad,1,u,46
+662,Marcus Miller,5,u,46
+663,Jimmy Smith,20,v,47
+664,Patrick O'Hearn,0,u,46
+665,Kitaro,6,u,46
+666,Edgar Froese,3,u,46
+667,Harold Budd,12,u,46
+668,Rick Wakeman,9,u,46
+669,Mannheim Steamroller,9,u,46
+670,Liz Story,2,u,46
+671,Vangelis,13,u,46
+672,Gordon Lightfoot,13,u,46
+673,Stan Rogers,1,u,46
+674,Tom Paxton,24,u,46
+675,Patsy Cline,50,u,46
+676,Bobby Darin,20,u,46
+677,Eagles,42,u,46
+678,David Allan Coe,17,u,46
+679,Glen Campbell,22,u,46
+680,The Collins Kids,5,u,46
+681,Wanda Jackson,19,u,46
+682,Melba Montgomery,6,u,46
+683,Brenda Lee,22,u,46
+684,George Jones,77,v,47
+685,Paul Simon,50,u,46
+686,Shawn Colvin,11,u,46
+687,Bonnie Raitt,29,u,46
+688,Chris Smither,2,u,46
+689,Carly Simon,17,u,46
+690,Dusty Springfield,32,u,46
+691,Dan Fogelberg,8,u,46
+692,Carole King,54,l,37
+693,Fleetwood Mac,47,u,46
+694,Don Henley,12,u,46
+695,James Taylor,53,u,46
+696,Judee Sill,8,u,46
+697,Rosanne Cash,10,u,46
+698,Judy Collins,16,u,46
+699,Richard Thompson,11,u,46
+700,Rickie Lee Jones,16,h,33
+701,Willis Alan Ramsey,5,u,46
+702,The Roches,8,u,46
+703,John Hiatt,9,u,46
+704,Leon Russell,10,V,21
+705,Kate & Anna McGarrigle,12,u,46
+706,Dave Mason,12,u,46
+707,Solomon Burke,26,Y,24
+708,Wilson Pickett,38,l,37
+709,The Isley Brothers,46,l,37
+710,Booker T. Jones,15,u,46
+711,Lee Dorsey,14,v,47
+712,Teenage Fanclub,11,u,46
+713,Travis,6,u,46
+714,Paul Weller,13,J,9
+715,Paul McCartney,29,l,37
+716,Supergrass,7,u,46
+717,Smashing Pumpkins,30,u,46
+718,The Lightning Seeds,7,u,46
+719,James,9,u,46
+720,Echo & the Bunnymen,40,u,46
+721,Ride,18,u,46
+722,Jeff Buckley,24,u,46
+723,Radiohead,55,u,46
+724,The Verve,14,u,46
+725,Feeder,3,u,46
+726,Del Amitri,6,u,46
+727,Manic Street Preachers,7,u,46
+728,Sister Rosetta Tharpe,13,v,47
+729,Muddy Waters,113,v,47
+730,Ella Mae Morse,1,v,47
+731,Shawn Mullins,0,u,46
+732,Stephen Stills,12,u,46
+733,Indigo Girls,10,u,46
+734,Kris Kristofferson,27,u,46
+735,Jim Croce,9,u,46
+736,Alan Parsons,6,u,46
+737,Starcastle,0,u,46
+738,Genesis,37,u,46
+739,Jon Anderson,1,u,46
+740,The Moody Blues,30,u,46
+741,"Emerson, Lake & Palmer",17,u,46
+742,Eddie Fisher,4,u,46
+743,Tab Hunter,2,u,46
+744,The Guess Who,11,u,46
+745,Spirit of the West,1,u,46
+746,"Crosby, Stills & Nash",33,u,46
+747,Fairport Convention,30,u,46
+748,The Clancy Brothers,15,v,47
+749,Chico O'Farrill,2,v,47
+750,Paquito D'Rivera,2,u,46
+751,Bebo ValdÃ©s,1,v,47
+752,Lee Konitz,6,u,46
+753,Oliver Nelson,7,u,46
+754,Tito Puente,21,v,47
+755,Shirley Caesar,14,v,47
+756,Tramaine Hawkins,0,v,47
+757,Kitty Wells,33,v,47
+758,The Maddox Brothers & Rose,15,v,47
+759,Red Foley,18,v,47
+760,Hank Williams,184,v,47
+761,Patti Page,6,u,46
+762,Eddy Arnold,18,v,47
+763,Roy Acuff,50,v,47
+764,Kay Starr,7,v,47
+765,Transvision Vamp,0,u,46
+766,Blondie,62,u,46
+767,The Clash,136,j,35
+768,Christy Moore,8,u,46
+769,Paul Brady,1,u,46
+770,Tommy Makem,8,v,47
+771,Trans-Siberian Orchestra,0,u,46
+772,Boston,26,u,46
+773,Enigma,3,u,46
+774,Rush,33,u,46
+775,Kansas,8,u,46
+776,Marillion,3,u,46
+777,Renaissance,9,u,46
+778,Sister Hazel,0,u,46
+779,Duran Duran,28,u,46
+780,Counting Crows,19,u,46
+781,Blues Traveler,14,u,46
+782,The Outlaws,4,u,46
+783,Styx,20,l,37
+784,Tracy Chapman,18,u,46
+785,Tasmin Archer,0,u,46
+786,Elvis Costello,59,A,0
+787,Taste,0,u,46
+788,SisqÃ³,1,u,46
+789,Blackstreet,10,u,46
+790,Bobby Brown,30,u,46
+791,Boyz II Men,26,u,46
+792,Michael Jackson,101,l,37
+793,Kenny Rogers,19,j,35
+794,Billy Joe Shaver,18,u,46
+795,Emmylou Harris,39,u,46
+796,Rodney Crowell,14,u,46
+797,David Frizzell,6,u,46
+798,Charlie Daniels,18,u,46
+799,Shaun Cassidy,0,u,46
+800,Television Personalities,7,u,46
+801,Badfinger,27,u,46
+802,The Clean,14,u,46
+803,Beat Happening,17,u,46
+804,Flamin' Groovies,15,d,29
+805,Love,33,u,46
+806,The Jesus and Mary Chain,35,j,35
+807,The Only Ones,12,u,46
+808,Orange Juice,19,u,46
+809,The Pastels,9,u,46
+810,1910 Fruitgum Company,5,u,46
+811,Moby Grape,14,u,46
+812,Wreckless Eric,5,u,46
+813,The Church,8,u,46
+814,Squeeze,27,u,46
+815,New York Dolls,59,c,28
+816,Buffalo Springfield,37,u,46
+817,Bill Withers,33,u,46
+818,Aloe Blacc,0,u,46
+819,Sevendust,2,u,46
+820,Amel Larrieux,2,u,46
+821,Anita Baker,21,u,46
+822,Tavares,0,u,46
+823,Andy Williams,13,u,46
+824,Tony Orlando,0,u,46
+825,Sweet Honey in the Rock,4,u,46
+826,Graham Nash,8,u,46
+827,Don McLean,10,u,46
+828,John Lennon,40,l,37
+829,Richie Havens,14,J,9
+830,Buffy Sainte-Marie,11,u,46
+831,Phoebe Snow,10,u,46
+832,Odetta,25,v,47
+833,The Action,10,u,46
+834,Small Faces,30,u,46
+835,The Move,25,u,46
+836,The Zombies,55,c,28
+837,The Blue Nile,7,u,46
+838,Alpha,1,G,6
+839,Jimmy Webb,14,u,46
+840,Portishead,27,H,7
+841,New Order,74,u,46
+842,Ennio Morricone,30,v,47
+843,James Cotton,9,u,46
+844,Paul Gonsalves,0,u,46
+845,Ben Webster,19,v,47
+846,King Tubby,26,u,46
+847,Alpha Blondy,9,u,46
+848,Barrington Levy,12,u,46
+849,Gregory Isaacs,20,u,46
+850,Peter Tosh,35,S,18
+851,Burning Spear,15,u,46
+852,Sly & Robbie,18,u,46
+853,"Lee ""Scratch"" Perry",48,O,14
+854,Junior Murvin,7,u,46
+855,Tenacious D,0,u,46
+856,Dio,18,u,46
+857,Guns N' Roses,31,u,46
+858,Ween,10,u,46
+859,Ronnie James Dio,2,v,47
+860,Neil Diamond,20,u,46
+861,Sixpence None the Richer,3,u,46
+862,The Innocence Mission,4,u,46
+863,The La's,5,u,46
+864,Cowboy Junkies,10,u,46
+865,"10,000 Maniacs",14,u,46
+866,The Sundays,6,u,46
+867,The Cranberries,3,u,46
+868,Gladys Knight,36,u,46
+869,Patti LaBelle,26,u,46
+870,The Shangri-Las,32,u,46
+871,The Ronettes,27,u,46
+872,Darlene Love,4,v,47
+873,Tina Turner,27,u,46
+874,Doris Troy,7,u,46
+875,Ruth Brown,22,u,46
+876,Lorraine Ellison,7,u,46
+877,Sly & the Family Stone,67,u,46
+878,Terence Trent D'Arby,13,u,46
+879,Billy Preston,11,u,46
+880,Al Green,78,u,46
+881,Commodores,13,u,46
+882,Cameo,16,u,46
+883,Teresa Brewer,0,v,47
+884,Patti Austin,11,u,46
+885,Eartha Kitt,9,v,47
+886,Tammi Terrell,8,u,46
+887,Carmen McRae,13,u,46
+888,Dinah Washington,45,u,46
+889,Nancy Wilson,10,u,46
+890,Quincy Jones,31,u,46
+891,Shirley Bassey,12,u,46
+892,Patti LuPone,1,u,46
+893,Ethel Merman,9,v,47
+894,Liza Minnelli,11,u,46
+895,Julie Andrews,10,v,47
+896,Kenny Clarke,7,v,47
+897,Paul Motian,1,u,46
+898,Joe Lovano,4,u,46
+899,Roy Haynes,11,u,46
+900,Bill Evans,37,u,46
+901,Philly Joe Jones,11,v,47
+902,Roger,6,u,46
+903,Teddy Riley,8,u,46
+904,Kim Weston,5,u,46
+905,Janis Ian,10,u,46
+906,Rufus,11,u,46
+907,Mary Wells,20,u,46
+908,Linda Jones,2,v,47
+909,Mike Oldfield,16,u,46
+910,Paul Hardcastle,0,u,46
+911,Paradise Lost,0,u,46
+912,Witchfinder General,5,u,46
+913,Bolt Thrower,2,u,46
+914,The Housemartins,9,u,46
+915,Stars,0,u,46
+916,The House of Love,9,u,46
+917,The Cure,80,u,46
+918,Pet Shop Boys,25,u,46
+919,The Lemonheads,9,u,46
+920,Thompson Twins,9,u,46
+921,Belly,2,u,46
+922,Saint Etienne,17,u,46
+923,The Human League,28,u,46
+924,Stars of the Lid,0,u,46
+925,Bette Midler,16,u,46
+926,Engelbert Humperdinck,13,u,46
+927,"Lambert, Hendricks & Ross",7,u,46
+928,Pat Boone,14,u,46
+929,Peter Allen,1,v,47
+930,Neil Sedaka,15,u,46
+931,Mel TormÃ©,18,v,47
+932,Paul Anka,8,u,46
+933,Steve Lawrence,4,u,46
+934,Frankie Valli,5,u,46
+935,Liberace,7,u,46
+936,Tad,0,u,46
+937,Ambrosia,0,u,46
+938,Crystal Gayle,21,u,46
+939,Jeannie C. Riley,7,u,46
+940,Kathy Mattea,10,u,46
+941,Reba McEntire,20,u,46
+942,Hazel Dickens,11,v,47
+943,Delbert McClinton,8,u,46
+944,Juice Newton,6,u,46
+945,June Carter Cash,11,u,46
+946,The Lovin' Spoonful,21,u,46
+947,The Hollies,45,l,37
+948,"Peter, Paul and Mary",10,u,46
+949,John Sebastian,6,u,46
+950,Dillard & Clark,6,u,46
+951,...And You Will Know Us by the Trail of Dead,0,u,46
+952,Television,50,u,46
+953,Swans,11,h,33
+954,The Birthday Party,13,u,46
+955,Blonde Redhead,6,p,41
+956,Unwound,1,u,46
+957,Mission of Burma,23,u,46
+958,Butthole Surfers,15,u,46
+959,Slint,13,u,46
+960,Elvin Jones,15,u,46
+961,Shelly Manne,5,u,46
+962,Don Lamond,1,v,47
+963,John Cale,14,u,46
+964,Lou Reed,58,l,37
+965,Roky Erickson,9,P,15
+966,The 13th Floor Elevators,20,A,0
+967,Albert Ayler,12,u,46
+968,The Fugs,24,A,0
+969,Brandy,22,u,46
+970,Amerie,1,u,46
+971,Skunk Anansie,0,u,46
+972,Chumbawamba,5,u,46
+973,Tears for Fears,10,u,46
+974,Bauhaus,20,u,46
+975,Van der Graaf Generator,14,u,46
+976,Slade,29,u,46
+977,Kate Bush,36,u,46
+978,Ray Barretto,7,u,46
+979,Sheila E.,0,u,46
+980,Mongo Santamaria,14,v,47
+981,Willie Bobo,3,u,46
+982,Sky,0,u,46
+983,Slim Harpo,23,u,46
+984,B.B. King,54,u,46
+985,Jimmy Reed,55,u,46
+986,Howlin' Wolf,99,v,47
+987,"Bobby ""Blue"" Bland",21,u,46
+988,Teddy Pendergrass,35,u,46
+989,Jimmy Witherspoon,9,v,47
+990,Jackie Wilson,54,u,46
+991,Clarence Carter,5,u,46
+992,Ben E. King,20,u,46
+993,Eddie Floyd,8,l,37
+994,Johnnie Taylor,8,u,46
+995,Lou Rawls,13,A,0
+996,O.V. Wright,12,u,46
+997,Percy Sledge,12,u,46
+998,Tom Lehrer,8,v,47
+999,Shel Silverstein,5,A,0
+1000,Slim Gaillard,16,v,47
+1001,Bob Wills,40,v,47
+1002,Tennessee Ernie Ford,7,v,47
+1003,Merle Travis,14,v,47
+1004,Louis Jordan,53,v,47
+1005,Jack Johnson,9,u,46
+1006,Slightly Stoopid,0,u,46
+1007,G. Love & Special Sauce,8,h,33
+1008,Descendents,35,u,46
+1009,The Suicide Machines,5,e,30
+1010,The Toasters,8,u,46
+1011,Sublime,15,f,31
+1012,Agent Orange,5,u,46
+1013,Dead Kennedys,34,u,46
+1014,Sizzla,1,u,46
+1015,Shabba Ranks,13,u,46
+1016,Cocoa Tea,7,u,46
+1017,UB40,8,u,46
+1018,Richie Spice,5,u,46
+1019,Yellowman,13,u,46
+1020,Ziggy Marley,5,u,46
+1021,Beenie Man,7,S,18
+1022,Freddie McGregor,4,u,46
+1023,Shelby Lynne,4,u,46
+1024,Sheryl Crow,17,u,46
+1025,Billy Joe Royal,3,u,46
+1026,Carlene Carter,7,u,46
+1027,Lyle Lovett,7,A,0
+1028,Janis Joplin,35,u,46
+1029,Nanci Griffith,9,u,46
+1030,Melissa Etheridge,11,u,46
+1031,k.d. lang,3,u,46
+1032,Bon Jovi,16,u,46
+1033,Slaughter,0,u,46
+1034,David Lee Roth,16,u,46
+1035,Whitesnake,7,u,46
+1036,Sammy Hagar,14,u,46
+1037,Paul Collins,3,u,46
+1038,Tommy James & the Shondells,7,u,46
+1039,Yaz,10,u,46
+1040,Amber,0,u,46
+1041,Booker Little,5,u,46
+1042,Terence Blanchard,0,u,46
+1043,Lee Morgan,8,u,46
+1044,Woody Shaw,6,u,46
+1045,Clifford Brown,15,u,46
+1046,Freddie Hubbard,14,u,46
+1047,Eric Dolphy,13,u,46
+1048,Art Blakey,36,v,47
+1049,Wynton Marsalis,3,u,46
+1050,Doris Day,11,u,46
+1051,Shelley Fabares,1,u,46
+1052,Trick Pony,0,u,46
+1053,Lonestar,3,u,46
+1054,Restless Heart,6,u,46
+1055,Toby Keith,10,u,46
+1056,Bruce Springsteen,70,u,46
+1057,Willie Nelson,66,u,46
+1058,Tim McGraw,22,u,46
+1059,Highway 101,1,u,46
+1060,Joe Diffie,1,u,46
+1061,Alabama,31,u,46
+1062,Buck Owens,42,u,46
+1063,Slash,2,j,35
+1064,Eddie Hazel,6,u,46
+1065,Johnny Thunders,8,d,29
+1066,Rory Gallagher,8,u,46
+1067,Mick Ronson,4,u,46
+1068,Shenandoah,6,u,46
+1069,The Oak Ridge Boys,11,v,47
+1070,Stephen Malkmus,0,u,46
+1071,The Flying Burrito Brothers,37,u,46
+1072,Bert Jansch,26,u,46
+1073,Sleep,6,u,46
+1074,Celtic Frost,18,u,46
+1075,Pentagram,11,u,46
+1076,Hawkwind,21,u,46
+1077,Ani DiFranco,14,u,46
+1078,Tegan and Sara,0,u,46
+1079,Concrete Blonde,9,u,46
+1080,Ben Folds,19,u,46
+1081,Fiona Apple,22,u,46
+1082,Mary Margaret O'Hara,2,u,46
+1083,The Tragically Hip,5,u,46
+1084,Bratmobile,4,u,46
+1085,Throwing Muses,10,u,46
+1086,Dave Van Ronk,22,u,46
+1087,Chuck Mangione,10,u,46
+1088,Chet Baker,21,u,46
+1089,Maynard Ferguson,3,v,47
+1090,Art Farmer,4,u,46
+1091,Cannonball Adderley,26,u,46
+1092,Herb Alpert,6,u,46
+1093,Herbie Mann,9,u,46
+1094,Tribal Tech,0,u,46
+1095,Jean-Luc Ponty,3,u,46
+1096,Mahavishnu Orchestra,15,u,46
+1097,Weather Report,17,u,46
+1098,Return to Forever,7,u,46
+1099,Discharge,12,u,46
+1100,Saxon,11,u,46
+1101,Angel Witch,3,u,46
+1102,Fear,10,u,46
+1103,Patty Griffin,7,u,46
+1104,Bruce Cockburn,12,u,46
+1105,Arlo Guthrie,7,u,46
+1106,Daniel Lanois,4,u,46
+1107,Dave Matthews Band,18,u,46
+1108,Kreator,5,u,46
+1109,Amon Amarth,0,u,46
+1110,Bathory,14,u,46
+1111,Percy Faith,3,v,47
+1112,Paul Mauriat,0,v,47
+1113,Ten Foot Pole,0,u,46
+1114,Temple of the Dog,2,u,46
+1115,Hoyt Axton,11,V,21
+1116,? & the Mysterians,17,j,35
+1117,The Troggs,13,d,29
+1118,The Standells,12,l,37
+1119,Don Covay,16,l,37
+1120,Death,14,u,46
+1121,Terrorizer,0,u,46
+1122,Steps Ahead,0,u,46
+1123,The KLF,6,u,46
+1124,Stereo MC's,0,u,46
+1125,808 State,22,u,46
+1126,Dottie West,4,u,46
+1127,Shelly West,0,u,46
+1128,Stephen Bishop,0,u,46
+1129,Bread,14,u,46
+1130,Ted Hawkins,0,u,46
+1131,Paul Rodgers,0,v,47
+1132,10cc,15,u,46
+1133,Sherbet,0,u,46
+1134,Ken Boothe,16,u,46
+1135,Stephen Marley,0,u,46
+1136,Rita Marley,6,u,46
+1137,John Holt,19,T,19
+1138,Dennis Brown,15,u,46
+1139,Bunny Wailer,17,T,19
+1140,Amon Tobin,0,u,46
+1141,Eddie Palmieri,12,u,46
+1142,Tom ZÃ©,8,u,46
+1143,Shirley Collins,13,u,46
+1144,Alan Lomax,10,v,47
+1145,Amy Grant,16,u,46
+1146,Melissa Manchester,2,u,46
+1147,Debby Boone,2,u,46
+1148,Gov't Mule,2,u,46
+1149,Tea Leaf Green,0,u,46
+1150,Hot Tuna,10,u,46
+1151,Phish,12,u,46
+1152,Skindred,0,u,46
+1153,Gang of Four,41,u,46
+1154,The Police,51,u,46
+1155,Kraftwerk,108,u,46
+1156,Trio,3,u,46
+1157,Soul II Soul,9,u,46
+1158,Grace Jones,9,u,46
+1159,Depeche Mode,49,u,46
+1160,Neneh Cherry,13,u,46
+1161,The Specials,28,S,18
+1162,Siouxsie and the Banshees,39,u,46
+1163,Slave,3,u,46
+1164,Parliament,48,u,46
+1165,Larry Levan,12,v,47
+1166,Shep Pettibone,2,v,47
+1167,Tom Moulton,2,v,47
+1168,Falco,7,u,46
+1169,Technotronic,1,u,46
+1170,Kirk Whalum,3,u,46
+1171,Steve Cole,0,u,46
+1172,David Sanborn,7,u,46
+1173,"Grover Washington, Jr.",13,u,46
+1174,The Apples in Stereo,4,u,46
+1175,Kaleidoscope,2,v,47
+1176,The Turtles,14,u,46
+1177,XTC,33,u,46
+1178,Silver Apples,25,l,37
+1179,The Left Banke,21,u,46
+1180,Van Dyke Parks,13,O,14
+1181,Sebadoh,24,u,46
+1182,My Bloody Valentine,51,u,46
+1183,Terrance Simien,0,u,46
+1184,Sleater-Kinney,7,n,39
+1185,Babes in Toyland,7,u,46
+1186,L7,6,u,46
+1187,Courtney Love,3,u,46
+1188,Delta 5,4,u,46
+1189,The Slits,14,u,46
+1190,X-Ray Spex,15,u,46
+1191,Bikini Kill,9,u,46
+1192,The Go-Betweens,13,u,46
+1193,Elastica,11,m,38
+1194,Elliott Smith,28,h,33
+1195,Andrew Bird,3,h,33
+1196,Eels,12,h,33
+1197,Morphine,1,A,0
+1198,StÃ©phane Grappelli,9,v,47
+1199,Skid Row,3,u,46
+1200,Cheap Trick,56,u,46
+1201,MÃ¶tley CrÃ¼e,27,u,46
+1202,Loverboy,6,u,46
+1203,Quiet Riot,6,u,46
+1204,Hanoi Rocks,11,u,46
+1205,Terry Allen,7,u,46
+1206,Gary Stewart,13,u,46
+1207,Doug Sahm,9,A,0
+1208,Ramblin' Jack Elliott,29,v,47
+1209,Buddy Holly,97,j,35
+1210,Townes Van Zandt,30,u,46
+1211,John Prine,25,u,46
+1212,Stereolab,16,u,46
+1213,Steve Reich,24,v,47
+1214,The Free Design,9,u,46
+1215,Chrome,14,u,46
+1216,Cocteau Twins,40,u,46
+1217,Serge Gainsbourg,22,u,46
+1218,FranÃ§oise Hardy,9,u,46
+1219,The Rockets,2,u,46
+1220,Martin Denny,7,u,46
+1221,Neu!,29,u,46
+1222,Os Mutantes,15,u,46
+1223,Yoko Ono,10,I,8
+1224,Arthur Lyman,3,u,46
+1225,Cabaret Voltaire,22,u,46
+1226,Can,51,u,46
+1227,Henry Mancini,19,v,47
+1228,The Association,10,u,46
+1229,China Crisis,2,u,46
+1230,France Gall,5,u,46
+1231,Philip Glass,13,u,46
+1232,Brigitte Fontaine,2,u,46
+1233,Skin Yard,0,u,46
+1234,Bob Seger,22,d,29
+1235,Paula Cole,2,u,46
+1236,Christine McVie,5,u,46
+1237,Jane Siberry,6,u,46
+1238,Suzanne Vega,22,u,46
+1239,SinÃ©ad O'Connor,13,u,46
+1240,Smokie Norful,2,u,46
+1241,Kirk Franklin,11,u,46
+1242,BeBe & CeCe Winans,6,u,46
+1243,Donny Hathaway,31,u,46
+1244,The Staple Singers,16,u,46
+1245,Terry Stafford,0,u,46
+1246,Paulina Rubio,5,t,45
+1247,VerÃ³nica Castro,2,v,47
+1248,Lucia Mendez,1,v,47
+1249,Ana Gabriel,2,u,46
+1250,Sleeping at Last,0,p,41
+1251,BjÃ¶rk,43,l,37
+1252,Terry Callier,12,J,9
+1253,Wayne Shorter,9,u,46
+1254,Pete Seeger,47,v,47
+1255,Pharoah Sanders,10,u,46
+1256,The New Lost City Ramblers,7,v,47
+1257,"Oscar Brown, Jr.",10,A,0
+1258,Shinedown,5,u,46
+1259,Saliva,3,u,46
+1260,Jerry Cantrell,11,u,46
+1261,Lester Young,51,v,47
+1262,Paul Quinichette,0,v,47
+1263,Magic Sam,8,u,46
+1264,Jimmy Rogers,6,v,47
+1265,Willie Dixon,37,v,47
+1266,Slim Smith,1,u,46
+1267,Sneaker Pimps,10,F,5
+1268,Everything But the Girl,19,u,46
+1269,Primal Scream,19,u,46
+1270,Orchestral Manoeuvres in the Dark,22,u,46
+1271,The Modern Jazz Quartet,8,u,46
+1272,The 5th Dimension,16,u,46
+1273,Johnny Rivers,4,V,21
+1274,Sloan,6,u,46
+1275,The 88,0,u,46
+1276,Terry Jacks,0,u,46
+1277,Smokey Robinson & the Miracles,15,u,46
+1278,Larry Williams,6,v,47
+1279,Sam & Dave,25,u,46
+1280,The Temptations,55,u,46
+1281,Slim Whitman,6,v,47
+1282,Roy Rogers,18,v,47
+1283,Trixter,0,u,46
+1284,Smash Mouth,0,u,46
+1285,Billy Idol,9,u,46
+1286,Green Day,65,B,1
+1287,Madness,25,T,19
+1288,The English Beat,17,T,19
+1289,INXS,16,u,46
+1290,Joe Jackson,16,u,46
+1291,Shocking Blue,1,u,46
+1292,Terry Reid,6,u,46
+1293,Steve Winwood,16,u,46
+1294,Robert Wyatt,18,u,46
+1295,Rod Stewart,29,u,46
+1296,Tim Hardin,31,j,35
+1297,Tim Buckley,25,u,46
+1298,Cal Tjader,9,u,46
+1299,Frankie Miller,2,v,47
+1300,Ronnie Lane,9,u,46
+1301,Mick Jagger,17,d,29
+1302,Wings,7,l,37
+1303,Tesla,10,u,46
+1304,Billy Squier,16,u,46
+1305,Rainbow,19,u,46
+1306,Ace Frehley,4,j,35
+1307,Mott the Hoople,29,l,37
+1308,UFO,10,u,46
+1309,Peggy Lee,29,v,47
+1310,Nelson Riddle,5,v,47
+1311,Anita O'Day,17,v,47
+1312,Keely Smith,9,v,47
+1313,Lena Horne,22,v,47
+1314,Fats Domino,51,v,47
+1315,The Marvelettes,13,u,46
+1316,Carl Perkins,51,v,47
+1317,Eddie Cochran,43,v,47
+1318,Gene Vincent,36,l,37
+1319,Free,32,u,46
+1320,Joe Tex,9,u,46
+1321,The Spencer Davis Group,5,u,46
+1322,The Rubinoos,4,u,46
+1323,Jellyfish,11,u,46
+1324,The Plimsouls,3,u,46
+1325,The Soft Boys,14,u,46
+1326,The Wedding Present,7,u,46
+1327,Johnny Mandel,3,v,47
+1328,AndrÃ© Previn,0,u,46
+1329,Oscar Peterson,26,u,46
+1330,Slowdive,6,u,46
+1331,The Durutti Column,14,u,46
+1332,The Primitives,1,u,46
+1333,Pale Saints,3,u,46
+1334,Talk Talk,23,u,46
+1335,Shirley Horn,4,u,46
+1336,Maxine Sullivan,8,v,47
+1337,Tevin Campbell,7,u,46
+1338,Babyface,24,u,46
+1339,Al B. Sure!,14,u,46
+1340,The O'Jays,24,u,46
+1341,Jim Morrison,4,u,46
+1342,Roy Hamilton,3,v,47
+1343,Nat King Cole,65,v,47
+1344,James Cleveland,17,v,47
+1345,Johnny Ace,12,u,46
+1346,Craig Armstrong,3,u,46
+1347,Steve Jablonsky,0,u,46
+1348,AndraÃ© Crouch,16,u,46
+1349,Procol Harum,17,u,46
+1350,Sodom,6,u,46
+1351,Thin Lizzy,40,u,46
+1352,Accept,8,u,46
+1353,KC & the Sunshine Band,9,u,46
+1354,Anastacia,1,t,45
+1355,Destiny's Child,16,u,46
+1356,Jennifer Lopez,9,t,45
+1357,Annie Lennox,18,u,46
+1358,ABBA,26,u,46
+1359,The Jam,43,u,46
+1360,J.J. Cale,15,V,21
+1361,The Monkees,20,u,46
+1362,Blur,20,u,46
+1363,Smog,7,u,46
+1364,Nick Drake,60,u,46
+1365,R. Stevie Moore,2,u,46
+1366,Michael Hurley,6,u,46
+1367,Daniel Johnston,15,u,46
+1368,Simian,0,u,46
+1369,Mercury Rev,14,u,46
+1370,Air,13,u,46
+1371,The United States of America,4,u,46
+1372,The Everly Brothers,53,u,46
+1373,Ladysmith Black Mambazo,5,u,46
+1374,Jackson C. Frank,13,u,46
+1375,Fela Kuti,23,u,46
+1376,Fred Neil,37,v,47
+1377,Johnny Maestro,1,v,47
+1378,Dion,17,u,46
+1379,The Righteous Brothers,13,u,46
+1380,The Moonglows,18,v,47
+1381,Miriam Makeba,10,v,47
+1382,Milton Nascimento,13,u,46
+1383,The Cadillacs,9,u,46
+1384,Youssou N'Dour,5,u,46
+1385,King Sunny Ade,4,v,47
+1386,Andy Gibb,0,u,46
+1387,Snot,0,u,46
+1388,Smoke City,0,o,40
+1389,Maria BethÃ¢nia,5,u,46
+1390,Gilberto Gil,7,u,46
+1391,Iris DeMent,4,u,46
+1392,The Be Good Tanyas,0,u,46
+1393,Uncle Tupelo,19,u,46
+1394,Jean Ritchie,14,v,47
+1395,The Beat,0,u,46
+1396,Software,0,u,46
+1397,Wynona Carr,2,v,47
+1398,Dorothy Norwood,2,v,47
+1399,Tex Williams,4,v,47
+1400,Robyn,4,t,45
+1401,Sophie Ellis-Bextor,0,u,46
+1402,Susan Ashton,0,u,46
+1403,Phil Ochs,20,u,46
+1404,Steve Goodman,9,u,46
+1405,Tom Rush,7,v,47
+1406,Woody Guthrie,80,v,47
+1407,Jerry Jeff Walker,9,u,46
+1408,Triumph,3,u,46
+1409,Grand Funk Railroad,28,u,46
+1410,Wishbone Ash,14,u,46
+1411,Paul Thorn,0,u,46
+1412,Texas,4,u,46
+1413,Ry Cooder,12,u,46
+1414,Aztec Camera,9,u,46
+1415,Son Seals,1,u,46
+1416,Earl Hooker,5,v,47
+1417,"Johnny ""Guitar"" Watson",12,v,47
+1418,The Beautiful South,3,u,46
+1419,Electric Light Orchestra,27,u,46
+1420,Morrissey,23,u,46
+1421,Bobby Womack,23,u,46
+1422,Roy Brown,34,v,47
+1423,Kenny Chesney,15,u,46
+1424,Andy Griggs,0,u,46
+1425,Mark Chesnutt,2,u,46
+1426,Billy Dean,2,u,46
+1427,Montgomery Gentry,1,u,46
+1428,Suzi Quatro,7,u,46
+1429,Tommy Roe,8,u,46
+1430,Gary Glitter,9,u,46
+1431,Super Cat,6,u,46
+1432,Horace Andy,14,u,46
+1433,I-Roy,6,T,19
+1434,Buju Banton,6,u,46
+1435,Supertramp,4,u,46
+1436,Barclay James Harvest,5,u,46
+1437,Siedah Garrett,0,u,46
+1438,Andy Kim,1,v,47
+1439,The Archies,11,u,46
+1440,The Crystals,6,v,47
+1441,Little Eva,3,v,47
+1442,The Chills,2,u,46
+1443,Superchunk,13,u,46
+1444,Let's Active,4,u,46
+1445,HÃ¼sker DÃ¼,49,u,46
+1446,The Undertones,12,u,46
+1447,Steve Earle,20,u,46
+1448,Joe Ely,13,u,46
+1449,John Anderson,12,u,46
+1450,Jessi Colter,5,u,46
+1451,NRBQ,13,u,46
+1452,The Pogues,17,h,33
+1453,Tom T. Hall,16,u,46
+1454,Guy Clark,19,u,46
+1455,Levon Helm,11,j,35
+1456,Paul Young,0,u,46
+1457,Billy Paul,8,u,46
+1458,Joe Cocker,10,P,15
+1459,ABC,13,u,46
+1460,Harold Melvin & the Blue Notes,7,u,46
+1461,Ann Peebles,17,u,46
+1462,Erroll Garner,22,v,47
+1463,Andrew Hill,4,u,46
+1464,Barry Harris,3,u,46
+1465,The Flamingos,20,v,47
+1466,The Belmonts,0,u,46
+1467,The Clovers,15,v,47
+1468,The Duprees,1,u,46
+1469,The Skyliners,1,v,47
+1470,The Fleetwoods,7,u,46
+1471,Paw,0,u,46
+1472,King Missile,8,u,46
+1473,Talking Heads,68,u,46
+1474,They Might Be Giants,24,A,0
+1475,Warren Zevon,9,A,0
+1476,Violent Femmes,16,u,46
+1477,Suicide,42,u,46
+1478,Wire,60,u,46
+1479,Throbbing Gristle,23,u,46
+1480,DNA,4,u,46
+1481,The Four Aces,1,v,47
+1482,The Ink Spots,21,v,47
+1483,The Mills Brothers,35,v,47
+1484,Barry White,30,u,46
+1485,Hot Chocolate,7,u,46
+1486,Roy Ayers,10,u,46
+1487,Gil Scott-Heron,13,A,0
+1488,Peabo Bryson,9,u,46
+1489,Enchantment,1,v,47
+1490,Johnny Mathis,22,u,46
+1491,Maria Muldaur,6,u,46
+1492,Mavis Staples,3,u,46
+1493,Hank Snow,19,v,47
+1494,Big Mama Thornton,13,v,47
+1495,LaVern Baker,11,u,46
+1496,Sick of It All,11,u,46
+1497,Minor Threat,47,u,46
+1498,Murphy's Law,2,u,46
+1499,Agnostic Front,15,u,46
+1500,Gorilla Biscuits,6,u,46
+1501,Sonny & Cher,5,u,46
+1502,Peaches & Herb,1,u,46
+1503,Steve Harley,3,u,46
+1504,Billy Fury,11,u,46
+1505,Shriekback,1,u,46
+1506,Andy Black,1,X,23
+1507,Shonen Knife,4,u,46
+1508,Joan Jett & the Blackhearts,3,v,47
+1509,Jonathan Richman,18,u,46
+1510,The Go-Go's,6,u,46
+1511,Shooter Jennings,0,u,46
+1512,Dire Straits,18,u,46
+1513,Robert Earl Keen,10,u,46
+1514,Silk,0,u,46
+1515,Jodeci,27,u,46
+1516,Full Force,5,u,46
+1517,Montell Jordan,8,u,46
+1518,Smoking Popes,6,a,26
+1519,7 Seconds,16,C,2
+1520,The Cars,38,u,46
+1521,Big Black,17,u,46
+1522,Queen,77,l,37
+1523,Ric Ocasek,7,u,46
+1524,Steve Kuhn,3,u,46
+1525,Hank Jones,10,v,47
+1526,George Shearing,11,u,46
+1527,Cecil Taylor,8,u,46
+1528,Marty Robbins,21,u,46
+1529,Sonny James,0,u,46
+1530,Jim Reeves,20,v,47
+1531,Sonny Clark,1,v,47
+1532,Sonny Sharrock,3,u,46
+1533,Ornette Coleman,45,u,46
+1534,The Bellamy Brothers,0,u,46
+1535,The Statler Brothers,5,u,46
+1536,Brewer & Shipley,1,v,47
+1537,Perry Como,15,v,47
+1538,Steve Tyrell,0,v,47
+1539,Hamza el Din,8,v,47
+1540,Bad Company,31,u,46
+1541,Dead Boys,10,u,46
+1542,Dead Moon,6,l,37
+1543,Minutemen,18,u,46
+1544,Hurt,4,u,46
+1545,Victor Jara,2,v,47
+1546,Silvio RodrÃ­guez,2,v,47
+1547,Andy MontaÃ±ez,3,v,47
+1548,The Alarm,0,u,46
+1549,The Bats,1,u,46
+1550,Split Enz,13,u,46
+1551,The Bobby Fuller Four,5,u,46
+1552,Social Distortion,19,u,46
+1553,D.O.A.,8,u,46
+1554,Snow Patrol,0,u,46
+1555,Crash Test Dummies,9,u,46
+1556,The Cardigans,11,u,46
+1557,Coldplay,31,u,46
+1558,Mogwai,3,u,46
+1559,Allan Jones,1,v,47
+1560,Eydie Gorme,2,u,46
+1561,Frankie Laine,6,v,47
+1562,Vic Damone,5,u,46
+1563,Dean Martin,26,v,47
+1564,Johnnie Ray,11,u,46
+1565,Bobby Charles,7,v,47
+1566,Duane Eddy,20,u,46
+1567,Lefty Frizzell,36,v,47
+1568,Ronnie Hawkins,4,u,46
+1569,P.P. Arnold,1,v,47
+1570,Soft Cell,13,u,46
+1571,Shirley Ellis,1,v,47
+1572,Gloria Jones,1,v,47
+1573,Iggy Pop,50,u,46
+1574,Angie Stone,4,u,46
+1575,Betty Davis,11,u,46
+1576,Lamont Dozier,4,u,46
+1577,Cissy Houston,8,u,46
+1578,Lalah Hathaway,10,u,46
+1579,Jamiroquai,9,u,46
+1580,Lenny Kravitz,11,u,46
+1581,Ashford & Simpson,4,u,46
+1582,Willie Mitchell,7,u,46
+1583,Regina Belle,6,u,46
+1584,The Undisputed Truth,4,u,46
+1585,Frankie Lymon,11,u,46
+1586,Jan & Dean,9,u,46
+1587,Davy Graham,26,u,46
+1588,The Associates,6,u,46
+1589,The Damned,45,Y,24
+1590,Hot Water Music,7,u,46
+1591,Pegboy,7,u,46
+1592,Screeching Weasel,8,a,26
+1593,Naked Raygun,6,u,46
+1594,Operation Ivy,21,T,19
+1595,The Offspring,10,u,46
+1596,Avail,7,h,33
+1597,Propagandhi,4,h,33
+1598,Faces,32,u,46
+1599,The Bluetones,0,u,46
+1600,Pulp,10,u,46
+1601,Soilwork,0,u,46
+1602,Meshuggah,4,u,46
+1603,Entombed,9,a,26
+1604,Survivor,0,u,46
+1605,Journey,22,u,46
+1606,Sonny Stitt,15,u,46
+1607,Fats Navarro,14,v,47
+1608,Blind Boy Fuller,7,v,47
+1609,Sonny Terry,3,v,47
+1610,Big Walter Horton,4,v,47
+1611,Sonny Boy Williamson I,8,v,47
+1612,The Ataris,0,B,1
+1613,Face to Face,5,B,1
+1614,Barenaked Ladies,15,u,46
+1615,Less Than Jake,8,Q,16
+1616,Weezer,40,u,46
+1617,Pennywise,17,B,1
+1618,NOFX,29,B,1
+1619,Built to Spill,7,u,46
+1620,Lagwagon,8,P,15
+1621,Down by Law,2,u,46
+1622,Richard Hell,13,I,8
+1623,The Vandals,15,u,46
+1624,Johnny Otis,10,v,47
+1625,Songs: Ohia,2,h,33
+1626,"Bonnie ""Prince"" Billy",4,u,46
+1627,Red House Painters,13,u,46
+1628,Swell,1,u,46
+1629,Steve Roach,2,u,46
+1630,Cluster,8,u,46
+1631,Popol Vuh,9,v,47
+1632,The Black Dahlia Murder,0,u,46
+1633,Morbid Angel,9,u,46
+1634,Audioslave,2,u,46
+1635,Screaming Trees,11,u,46
+1636,Mudhoney,14,u,46
+1637,Green River,4,u,46
+1638,The Sound,2,u,46
+1639,Andrew W.K.,0,Z,25
+1640,Europe,5,u,46
+1641,Obituary,1,a,26
+1642,Foreigner,13,u,46
+1643,Nino Rota,7,v,47
+1644,Angelo Badalamenti,5,v,47
+1645,Bernard Herrmann,16,v,47
+1646,Solange,0,u,46
+1647,Patrice Rushen,3,u,46
+1648,The Kingston Trio,21,u,46
+1649,The Blues Project,5,u,46
+1650,Incubus,9,u,46
+1651,Audiovent,0,u,46
+1652,The Beta Band,2,u,46
+1653,The Incredible String Band,22,u,46
+1654,Beck,27,u,46
+1655,Moby,6,u,46
+1656,Jethro Tull,14,u,46
+1657,The Chantels,12,v,47
+1658,Angel,0,u,46
+1659,Jerry Lewis,2,v,47
+1660,Steve Martin,10,u,46
+1661,Richard Pryor,9,u,46
+1662,Monty Python,2,v,47
+1663,George Carlin,12,u,46
+1664,The Smothers Brothers,4,u,46
+1665,Susan Tedeschi,2,u,46
+1666,Koko Taylor,6,u,46
+1667,Big Brother & the Holding Company,7,u,46
+1668,Robert Cray,4,u,46
+1669,Junior Wells,9,u,46
+1670,Groove Armada,4,u,46
+1671,The Avalanches,2,u,46
+1672,DJ Shadow,18,u,46
+1673,The Spinners,19,u,46
+1674,The Dave Clark Five,15,u,46
+1675,Roy Orbison,47,u,46
+1676,Steven Curtis Chapman,7,u,46
+1677,Keith Green,5,u,46
+1678,Michael W. Smith,15,u,46
+1679,Angela McCluskey,0,o,40
+1680,Macy Gray,3,u,46
+1681,Sandy Denny,13,u,46
+1682,Beth Orton,21,J,9
+1683,Malvina Reynolds,8,v,47
+1684,Steve Wariner,11,u,46
+1685,Chet Atkins,42,v,47
+1686,Charley Pride,12,u,46
+1687,Don Williams,18,u,46
+1688,Marilyn Monroe,12,u,46
+1689,The Shirelles,20,u,46
+1690,The Music Machine,8,u,46
+1691,The Chocolate Watchband,6,u,46
+1692,Nico,22,u,46
+1693,Beth Hart,1,u,46
+1694,Swell Maps,10,u,46
+1695,J.B. Lenoir,12,v,47
+1696,Otis Rush,26,u,46
+1697,Celia Cruz,21,v,47
+1698,Angela Carrasco,0,v,47
+1699,Bill Monroe,59,v,47
+1700,The Louvin Brothers,28,v,47
+1701,Doc Watson,23,u,46
+1702,Leo Kottke,7,u,46
+1703,John Renbourn,6,u,46
+1704,John Fahey,21,u,46
+1705,Bukka White,8,v,47
+1706,Burl Ives,21,v,47
+1707,Grant Green,7,u,46
+1708,Sweetback,0,u,46
+1709,Otis Spann,12,v,47
+1710,Branford Marsalis,0,u,46
+1711,Jackie McLean,8,u,46
+1712,Joe Henderson,6,u,46
+1713,Los Lobos,7,i,34
+1714,Steve Vai,2,u,46
+1715,Eddie Van Halen,6,u,46
+1716,John McLaughlin,10,u,46
+1717,Robert Fripp,20,u,46
+1718,Al Di Meola,3,u,46
+1719,The Mars Volta,1,f,31
+1720,Egg,2,u,46
+1721,Shuggie Otis,9,u,46
+1722,Billy Cobham,4,u,46
+1723,Kyuss,7,u,46
+1724,Utopia,3,u,46
+1725,David Grisman,7,u,46
+1726,Mike Marshall,0,u,46
+1727,Bernadette Peters,9,u,46
+1728,Sutton Foster,0,u,46
+1729,The Ames Brothers,3,v,47
+1730,Dick Hyman,3,v,47
+1731,Suzanne Ciani,2,v,47
+1732,Berlin,4,u,46
+1733,Soulive,0,u,46
+1734,Jimmy McGriff,3,u,46
+1735,The Crusaders,4,u,46
+1736,"Medeski, Martin & Wood",4,u,46
+1737,The Brand New Heavies,3,u,46
+1738,Incognito,3,u,46
+1739,Joe Sample,8,u,46
+1740,The Big Bopper,3,P,15
+1741,Beth Nielsen Chapman,0,u,46
+1742,The Jordanaires,10,v,47
+1743,Johnny Burnette,12,v,47
+1744,Jim & Jesse,11,v,47
+1745,The Stanley Brothers,27,v,47
+1746,Edwin Starr,4,u,46
+1747,Barrett Strong,6,j,35
+1748,William Bell,5,u,46
+1749,Bill Doggett,6,v,47
+1750,Syl Johnson,3,u,46
+1751,Brenton Wood,3,u,46
+1752,Joe Simon,6,u,46
+1753,Joan Baez,35,u,46
+1754,Billy Bragg,19,u,46
+1755,John Gorka,3,u,46
+1756,Willie Nile,4,u,46
+1757,Greg Brown,8,u,46
+1758,Keith Urban,6,u,46
+1759,Blake Shelton,1,u,46
+1760,Gary Allan,3,u,46
+1761,Earl Thomas Conley,9,u,46
+1762,Vern Gosdin,10,u,46
+1763,Guitar Slim,14,v,47
+1764,Thad Jones,3,u,46
+1765,Randy Newman,35,V,21
+1766,Gerry Mulligan,14,u,46
+1767,Gil Evans,36,u,46
+1768,The Buckinghams,9,u,46
+1769,John Martyn,17,u,46
+1770,Prefab Sprout,9,u,46
+1771,Susannah McCorkle,3,u,46
+1772,Sylvia Telles,6,v,47
+1773,Margaret Whiting,4,v,47
+1774,Blossom Dearie,8,v,47
+1775,Elis Regina,14,u,46
+1776,June Christy,5,v,47
+1777,Steven Wright,3,u,46
+1778,Bob Newhart,4,v,47
+1779,James Carr,6,u,46
+1780,John Mellencamp,18,k,36
+1781,Silverstein,0,h,33
+1782,Sum 41,8,B,1
+1783,The Get Up Kids,17,u,46
+1784,Jimmy Eat World,30,B,1
+1785,Marine Girls,1,u,46
+1786,The Big Wu,0,u,46
+1787,Silverchair,2,u,46
+1788,The Black Crowes,8,u,46
+1789,The Marshall Tucker Band,12,u,46
+1790,James Gang,12,u,46
+1791,Eric Burdon,11,d,29
+1792,John Fogerty,9,O,14
+1793,Rare Earth,7,u,46
+1794,Humble Pie,20,u,46
+1795,Derek & the Dominos,10,u,46
+1796,Lowell George,1,u,46
+1797,Savoy Brown,5,j,35
+1798,Buddy Miles,5,u,46
+1799,Blancmange,2,u,46
+1800,KMFDM,8,u,46
+1801,Soulwax,1,u,46
+1802,Atreyu,0,u,46
+1803,Madball,2,v,47
+1804,Cradle of Filth,7,u,46
+1805,Refused,10,u,46
+1806,Debbie Reynolds,6,v,47
+1807,Julie London,10,u,46
+1808,Nana Mouskouri,8,u,46
+1809,Marlene Dietrich,14,v,47
+1810,Barbra Streisand,17,u,46
+1811,Blu Cantrell,0,u,46
+1812,Toni Braxton,14,u,46
+1813,Betty Carter,5,u,46
+1814,Switchfoot,3,u,46
+1815,Jars of Clay,4,u,46
+1816,Live,16,u,46
+1817,Petra,11,u,46
+1818,MxPx,13,h,33
+1819,dc Talk,6,u,46
+1820,Simple Plan,1,R,17
+1821,Fastball,7,u,46
+1822,Rancid,13,T,19
+1823,blink-182,36,B,1
+1824,Bowling for Soup,13,u,46
+1825,Yellow Magic Orchestra,14,u,46
+1826,Susumu Yokota,0,u,46
+1827,Betty Harris,5,u,46
+1828,Big Maybelle,9,v,47
+1829,The Blackbyrds,2,u,46
+1830,Simple Minds,5,u,46
+1831,Magazine,11,u,46
+1832,Kool & the Gang,16,u,46
+1833,Steven Tyler,3,u,46
+1834,Robert Plant,20,u,46
+1835,Gary Moore,5,u,46
+1836,David Gilmour,6,u,46
+1837,Peter Green,6,u,46
+1838,Meat Puppets,18,u,46
+1839,Soul Asylum,9,u,46
+1840,The Call,7,u,46
+1841,Canned Heat,11,Y,24
+1842,Sin Bandera,1,u,46
+1843,The Angels,2,u,46
+1844,The Lost Trailers,0,u,46
+1845,The Charlie Daniels Band,4,v,47
+1846,Maurice Jarre,7,v,47
+1847,Thievery Corporation,5,G,6
+1848,Bent,0,g,32
+1849,J.J. Johnson,4,u,46
+1850,Bob Brookmeyer,1,u,46
+1851,Jack Kerouac,10,A,0
+1852,Roy Harper,12,u,46
+1853,The Monks,11,d,29
+1854,The Red Krayola,9,u,46
+1855,The Seeds,25,u,46
+1856,Peter Hammill,12,u,46
+1857,Charlotte Church,0,t,45
+1858,The Corrs,1,t,45
+1859,CÃ©line Dion,16,u,46
+1860,Sarah Brightman,6,u,46
+1861,Natalie Imbruglia,9,m,38
+1862,Luciano Pavarotti,8,v,47
+1863,Cecilia Bartoli,1,v,47
+1864,Andrea Bocelli,6,u,46
+1865,Loreena McKennitt,6,u,46
+1866,Enya,6,u,46
+1867,The Manhattans,4,u,46
+1868,Carpenters,14,u,46
+1869,Gerry & the Pacemakers,12,u,46
+1870,The Cowsills,7,u,46
+1871,The Beau Brummels,20,u,46
+1872,Lou Christie,2,u,46
+1873,Marco Antonio SolÃ­s,6,u,46
+1874,Chayanne,1,u,46
+1875,Miguel BosÃ©,1,v,47
+1876,The Fixx,6,u,46
+1877,Augustus Pablo,8,u,46
+1878,Jackie Mittoo,7,u,46
+1879,The Wailers,15,u,46
+1880,Carmen Miranda,11,v,47
+1881,Beth Carvalho,0,v,47
+1882,Elizeth Cardoso,5,v,47
+1883,Louis Prima,9,v,47
+1884,Big Bad Voodoo Daddy,0,U,20
+1885,"Harry Connick, Jr.",9,U,20
+1886,Eden Ahbez,0,u,46
+1887,Bloodstone,0,u,46
+1888,The Andrews Sisters,6,v,47
+1889,Rosemary Clooney,17,v,47
+1890,Dan Hicks & His Hot Licks,4,v,47
+1891,The Fantastic Four,0,u,46
+1892,Don Omar,3,u,46
+1893,Aventura,0,u,46
+1894,Monchy & Alexandra,1,v,47
+1895,Wynonie Harris,23,v,47
+1896,Conflict,8,u,46
+1897,The Casualties,0,C,2
+1898,U.K. Subs,10,u,46
+1899,The Headhunters,1,v,47
+1900,Azymuth,0,u,46
+1901,Tamba Trio,1,u,46
+1902,Deodato,4,u,46
+1903,Marcos Valle,7,u,46
+1904,Blue States,0,o,40
+1905,David Axelrod,7,u,46
+1906,The Chambers Brothers,2,u,46
+1907,The Coasters,22,u,46
+1908,B*Witched,0,u,46
+1909,Backstreet Boys,14,t,45
+1910,Debbie Gibson,9,t,45
+1911,The Skatalites,29,u,46
+1912,Bob Andy,2,u,46
+1913,Bob Moses,0,u,46
+1914,Rahsaan Roland Kirk,8,u,46
+1915,Bilal,2,u,46
+1916,Eddie Kendricks,2,v,47
+1917,B-Movie,1,u,46
+1918,Bleu Edmondson,0,u,46
+1919,The Flying Lizards,0,u,46
+1920,Devo,19,u,46
+1921,The Residents,13,A,0
+1922,B.J. Thomas,2,u,46
+1923,Charlie Rich,15,u,46
+1924,Bill Anderson,0,v,47
+1925,Betty Buckley,1,u,46
+1926,Betty Everett,1,u,46
+1927,Long John Baldry,2,v,47
+1928,Pentangle,8,u,46
+1929,Bob Mould,7,u,46
+1930,Brian Wilson,18,u,46
+1931,Del Shannon,13,u,46
+1932,Dr. Feelgood,18,j,35
+1933,Percy Mayfield,22,v,47
+1934,Brinsley Schwarz,12,u,46
+1935,Dan Penn,10,u,46
+1936,Colin Blunstone,8,u,46
+1937,Charlie Louvin,5,v,47
+1938,The Faint,1,F,5
+1939,Eurythmics,19,u,46
+1940,Love and Rockets,5,u,46
+1941,The The,7,u,46
+1942,A Flock of Seagulls,9,u,46
+1943,Death in Vegas,6,F,5
+1944,Thomas Dolby,9,u,46
+1945,The Chords,0,u,46
+1946,Little Willie John,14,v,47
+1947,The Lettermen,4,u,46
+1948,Bernie Worrell,1,u,46
+1949,The Sonics,15,l,37
+1950,King Curtis,16,u,46
+1951,Bleeding Through,1,u,46
+1952,Emperor,4,a,26
+1953,B.T. Express,0,u,46
+1954,The Explosion,0,u,46
+1955,The Business,4,u,46
+1956,Blitz,4,u,46
+1957,Autograph,0,u,46
+1958,The Coral,0,u,46
+1959,Julian Cope,6,u,46
+1960,The Proclaimers,7,u,46
+1961,The Strokes,17,u,46
+1962,The Teardrop Explodes,16,u,46
+1963,Stereophonics,3,u,46
+1964,Mungo Jerry,2,u,46
+1965,The Jackson 5,32,u,46
+1966,The Whispers,8,u,46
+1967,The Brothers Johnson,3,u,46
+1968,DeBarge,6,u,46
+1969,Morris Day,4,u,46
+1970,The Modern Lovers,25,u,46
+1971,Freddie Jackson,4,u,46
+1972,Luther Vandross,38,u,46
+1973,Lionel Richie,12,u,46
+1974,Jon Lucien,7,M,12
+1975,Baaba Maal,4,u,46
+1976,Manu Dibango,7,u,46
+1977,Hugh Masekela,5,u,46
+1978,Orchestra Baobab,2,v,47
+1979,The Penguins,9,v,47
+1980,Johnny Kidd & the Pirates,11,u,46
+1981,Dick Dale,16,u,46
+1982,Beulah,4,u,46
+1983,Yo La Tengo,15,u,46
+1984,Babylon A.D.,0,u,46
+1985,Mike Seeger,6,u,46
+1986,Bachman-Turner Overdrive,10,u,46
+1987,Bobby Rydell,1,u,46
+1988,Avant,0,u,46
+1989,Brian McKnight,19,u,46
+1990,Avalon,0,u,46
+1991,The Clientele,0,u,46
+1992,The Walker Brothers,5,u,46
+1993,Felt,5,u,46
+1994,Chad & Jeremy,1,u,46
+1995,Frankie Avalon,5,u,46
+1996,Bobby Sherman,2,u,46
+1997,Circle Jerks,22,u,46
+1998,The Vibrators,3,u,46
+1999,Stiff Little Fingers,20,u,46
+2000,Blue Rodeo,2,u,46
+2001,Ian Tyson,5,u,46
+2002,My Chemical Romance,8,u,46
+2003,The Receiving End of Sirens,0,u,46
+2004,The Ravens,5,v,47
+2005,The Hooters,0,u,46
+2006,Jimmy Martin,10,u,46
+2007,Flatt & Scruggs,32,u,46
+2008,Chuck Willis,2,v,47
+2009,Bill Henderson,0,v,47
+2010,Dick Haymes,2,v,47
+2011,Michael Ball,1,u,46
+2012,Biffy Clyro,0,u,46
+2013,Jeff Lynne,8,u,46
+2014,"Bobby ""Boris"" Pickett",0,v,47
+2015,Ahmad Jamal,19,u,46
+2016,Bob James,9,u,46
+2017,Vince Guaraldi,6,u,46
+2018,Les McCann,9,V,21
+2019,Ramsey Lewis,11,u,46
+2020,Wynton Kelly,7,u,46
+2021,Gene Harris,4,u,46
+2022,The Congos,7,u,46
+2023,Yabby You,1,v,47
+2024,Bobby Bare,10,u,46
+2025,Conway Twitty,30,u,46
+2026,The Flys,0,u,46
+2027,Paul Bley,8,u,46
+2028,Barney Kessel,14,v,47
+2029,Bola Sete,1,v,47
+2030,Tal Farlow,14,v,47
+2031,The Field Mice,2,u,46
+2032,Billy Lee Riley,9,v,47
+2033,Cisco Houston,10,v,47
+2034,Ewan MacColl,28,v,47
+2035,Roscoe Holcomb,14,v,47
+2036,Elizabeth Cotten,16,v,47
+2037,John Jacob Niles,6,v,47
+2038,Mississippi Sheiks,3,v,47
+2039,SeÃ¡n Ã“ Riada,3,v,47
+2040,The Chieftains,14,v,47
+2041,Los Fabulosos Cadillacs,3,u,46
+2042,BabasÃ³nicos,0,u,46
+2043,Oscar Lopez,2,v,47
+2044,ManÃ¡,11,u,46
+2045,The Chemical Brothers,19,u,46
+2046,Happy Mondays,25,u,46
+2047,Big Audio Dynamite,18,u,46
+2048,This Mortal Coil,3,u,46
+2049,M/A/R/R/S,7,u,46
+2050,The Bobbettes,2,v,47
+2051,Marty Stuart,3,u,46
+2052,Eddie Rabbitt,12,u,46
+2053,Joe Walsh,7,l,37
+2054,Jimmy Raney,5,v,47
+2055,Johnny Smith,5,v,47
+2056,B2K,2,u,46
+2057,Kenny G,4,u,46
+2058,Jeff Lorber,1,u,46
+2059,John Klemmer,5,u,46
+2060,Lee Ritenour,3,u,46
+2061,Narada Michael Walden,3,v,47
+2062,Kashif,2,v,47
+2063,Hank Crawford,8,u,46
+2064,Tom Scott,2,u,46
+2065,Lydia Lunch,8,u,46
+2066,The Runaways,19,u,46
+2067,Girlschool,3,u,46
+2068,Peggy Seeger,5,v,47
+2069,Paul Desmond,1,u,46
+2070,Bob Marley & the Wailers,5,u,46
+2071,Eddie Money,12,u,46
+2072,Peter Frampton,7,u,46
+2073,Meat Loaf,9,u,46
+2074,Night Ranger,3,u,46
+2075,Montrose,10,u,46
+2076,Asia,5,u,46
+2077,The Dubliners,10,v,47
+2078,The Irish Rovers,1,v,47
+2079,Bill Keith,0,v,47
+2080,Earl Scruggs,3,v,47
+2081,Roger Miller,16,u,46
+2082,Johnny Horton,14,v,47
+2083,Harry Chapin,8,u,46
+2084,John Denver,8,u,46
+2085,Dick Gregory,2,v,47
+2086,Bill Cosby,9,u,46
+2087,Mel Brooks,3,v,47
+2088,Gossip,0,u,46
+2089,'Til Tuesday,4,u,46
+2090,The Breeders,6,u,46
+2091,The White Stripes,10,u,46
+2092,Big Mountain,0,u,46
+2093,Third World,1,u,46
+2094,The Selecter,10,T,19
+2095,Israel Vibration,5,u,46
+2096,Tommy James,3,v,47
+2097,The Greenhornes,0,u,46
+2098,The Fugitives,1,v,47
+2099,The Gories,4,j,35
+2100,Ian & Sylvia,18,u,46
+2101,The Modernaires,2,v,47
+2102,The Pied Pipers,3,v,47
+2103,Il Divo,0,u,46
+2104,Michael Crawford,3,u,46
+2105,Bill Callahan,0,u,46
+2106,Ernest Tubb,52,v,47
+2107,The Kentucky Headhunters,1,u,46
+2108,REO Speedwagon,13,u,46
+2109,Ikon,0,u,46
+2110,Martin Gore,1,u,46
+2111,Psychic TV,7,u,46
+2112,Circa Survive,0,u,46
+2113,Finch,2,u,46
+2114,UnderÃ¸ath,2,u,46
+2115,The Handsome Family,0,h,33
+2116,Delaney & Bonnie,7,u,46
+2117,The Gap Band,5,u,46
+2118,"Earth, Wind & Fire",35,u,46
+2119,Archie Bell & the Drells,9,u,46
+2120,Bob Schneider,0,h,33
+2121,Bill Fay,0,u,46
+2122,Dave Bartholomew,8,v,47
+2123,Lloyd Price,8,v,47
+2124,Kelly Rowland,1,u,46
+2125,Beverley Knight,4,u,46
+2126,The Cleftones,1,u,46
+2127,Jon Foreman,0,u,46
+2128,The Limeliters,6,u,46
+2129,Bill Frisell,3,u,46
+2130,Jim Hall,7,u,46
+2131,Gary Burton,4,u,46
+2132,Pat Martino,8,u,46
+2133,Bobby Day,2,v,47
+2134,Jesse Belvin,4,v,47
+2135,The Hives,0,u,46
+2136,The Electric Prunes,4,u,46
+2137,The Real Kids,6,u,46
+2138,Lyres,3,u,46
+2139,Bill Bruford,0,u,46
+2140,Soft Machine,23,u,46
+2141,Skinny Puppy,14,u,46
+2142,John Tesh,1,u,46
+2143,Ken Elkinson,0,u,46
+2144,Mikey Dread,1,u,46
+2145,Cornell Campbell,3,u,46
+2146,Alton Ellis,16,u,46
+2147,The Jeff Healey Band,0,u,46
+2148,Chris Rea,7,u,46
+2149,Johnny Winter,17,u,46
+2150,Bob Sinclar,1,u,46
+2151,Bad Manners,7,T,19
+2152,Prince Buster,17,A,0
+2153,Millie Small,1,v,47
+2154,Roxette,4,t,45
+2155,Natalie Merchant,4,u,46
+2156,Sophie B. Hawkins,1,t,45
+2157,The Waterboys,11,u,46
+2158,Ian Hunter,9,l,37
+2159,Prince Far I,6,u,46
+2160,Billy Ray Cyrus,5,u,46
+2161,David Gates,2,v,47
+2162,"Richard ""Groove"" Holmes",2,u,46
+2163,Cowboy Troy,0,u,46
+2164,Jerry Reed,7,u,46
+2165,Big & Rich,2,u,46
+2166,Junior Parker,8,v,47
+2167,Brownie McGhee,4,v,47
+2168,The Meters,29,u,46
+2169,Bad English,0,u,46
+2170,Ivie Anderson,4,v,47
+2171,Bobby Short,2,v,47
+2172,Information Society,0,u,46
+2173,Heaven 17,4,u,46
+2174,The Art of Noise,16,O,14
+2175,King Pleasure,3,v,47
+2176,Slim & Slam,1,v,47
+2177,Bobby Vee,2,u,46
+2178,Youth Group,0,u,46
+2179,Badly Drawn Boy,3,o,40
+2180,Alphaville,5,u,46
+2181,The Commitments,0,u,46
+2182,Johnny Nash,4,v,47
+2183,Body Count,6,u,46
+2184,The Communards,0,u,46
+2185,Culture Club,11,u,46
+2186,Inner Circle,1,u,46
+2187,Bounty Killer,2,u,46
+2188,Frankie Paul,9,u,46
+2189,Wayne Smith,6,u,46
+2190,Max Romeo,4,T,19
+2191,A Certain Ratio,8,u,46
+2192,Billy Joel,23,l,37
+2193,Larry Norman,8,l,37
+2194,Phil Keaggy,2,u,46
+2195,Insane Clown Posse,0,u,46
+2196,Rob Zombie,10,Y,24
+2197,GWAR,6,u,46
+2198,Kevin Ayers,9,u,46
+2199,The Bonzo Dog Band,10,O,14
+2200,The Living End,0,u,46
+2201,Midnight Oil,5,u,46
+2202,The Reverend Horton Heat,4,Y,24
+2203,Stray Cats,1,j,35
+2204,Kesha,1,t,45
+2205,Peaches,4,u,46
+2206,The Crew Cuts,1,v,47
+2207,Billy Gilman,0,u,46
+2208,John Michael Montgomery,7,u,46
+2209,Boys Don't Cry,0,u,46
+2210,The Libertines,5,u,46
+2211,Sham 69,21,u,46
+2212,Johnny Thunders & the Heartbreakers,10,d,29
+2213,Anti-Nowhere League,5,u,46
+2214,Gerry Rafferty,7,u,46
+2215,Paul Winter,3,v,47
+2216,Deuter,3,v,47
+2217,Jermaine Jackson,6,u,46
+2218,Keith Washington,2,u,46
+2219,Ray Brown,11,u,46
+2220,Bobby Hutcherson,3,u,46
+2221,Milt Jackson,7,v,47
+2222,Biosphere,0,u,46
+2223,The Orb,8,u,46
+2224,Cher,12,u,46
+2225,Mel Tillis,6,v,47
+2226,Hawkshaw Hawkins,4,v,47
+2227,Michael Martin Murphey,3,u,46
+2228,Mac McAnally,3,u,46
+2229,Lee Greenwood,7,u,46
+2230,Richard Marx,4,u,46
+2231,Rick Springfield,9,u,46
+2232,The Mavericks,8,u,46
+2233,Bryan White,2,u,46
+2234,Black Uhuru,7,u,46
+2235,The Heptones,11,T,19
+2236,Culture,2,u,46
+2237,Billy Currington,0,u,46
+2238,Roy Eldridge,17,v,47
+2239,Kenny Loggins,0,u,46
+2240,Alex de Grassi,1,u,46
+2241,Duke Jordan,3,v,47
+2242,Kenny Drew,0,u,46
+2243,John Lewis,14,v,47
+2244,Hampton Hawes,5,u,46
+2245,Boney James,0,u,46
+2246,Donald Byrd,6,u,46
+2247,Ike Quebec,1,u,46
+2248,Kenny Lattimore,0,u,46
+2249,The Intruders,0,u,46
+2250,Commissioned,5,u,46
+2251,The Winans,9,u,46
+2252,The Clark Sisters,3,v,47
+2253,Charlie Walker,0,v,47
+2254,Boyzone,7,u,46
+2255,Jason Donovan,6,u,46
+2256,Ian Dury,9,N,13
+2257,Kevin Coyne,8,u,46
+2258,The Foundations,1,v,47
+2259,The Creation,9,u,46
+2260,The Outsiders,1,u,46
+2261,Sweet,24,u,46
+2262,Argent,5,u,46
+2263,Kirsty MacColl,1,u,46
+2264,Maddy Prior,6,u,46
+2265,Sandie Shaw,11,u,46
+2266,Richard & Linda Thompson,6,u,46
+2267,LCD Soundsystem,5,T,19
+2268,Kele,0,u,46
+2269,India.Arie,1,u,46
+2270,Dionne Farris,1,v,47
+2271,Cassandra Wilson,6,J,9
+2272,Meshell Ndegeocello,6,u,46
+2273,Michael Hedges,6,u,46
+2274,Keller Williams,0,u,46
+2275,Freddie Mercury,20,l,37
+2276,Kleeer,1,u,46
+2277,Iron and Wine,2,u,46
+2278,Cat Power,19,m,38
+2279,Bongzilla,0,u,46
+2280,Crowbar,4,u,46
+2281,Kelis,5,u,46
+2282,Rick James,13,u,46
+2283,Raphael Saadiq,15,u,46
+2284,Millie Jackson,4,u,46
+2285,Gene Pitney,12,u,46
+2286,Aaron Neville,6,u,46
+2287,The Gaylads,2,v,47
+2288,Mighty Sparrow,7,u,46
+2289,Lord Kitchener,8,v,47
+2290,Wolfmother,0,u,46
+2291,Cinderella,3,u,46
+2292,Queens of the Stone Age,1,u,46
+2293,Karla Bonoff,2,u,46
+2294,Barbara Mandrell,9,u,46
+2295,Irene Cara,4,u,46
+2296,Children of Bodom,0,u,46
+2297,Kelly Clarkson,4,t,45
+2298,Deborah Cox,2,u,46
+2299,Lita Ford,7,u,46
+2300,Alanis Morissette,22,G,6
+2301,P!nk,13,t,45
+2302,The Knack,8,u,46
+2303,The Knickerbockers,1,u,46
+2304,Bay City Rollers,11,u,46
+2305,Graham Parker,4,u,46
+2306,The Nerves,5,u,46
+2307,"Dave Dee, Dozy, Beaky, Mick & Tich",7,u,46
+2308,The McCoys,1,v,47
+2309,Sonny Bono,1,v,47
+2310,Kem,0,u,46
+2311,Al Jarreau,3,L,11
+2312,Ill NiÃ±o,0,u,46
+2313,Nada Surf,10,u,46
+2314,The Juliana Theory,1,u,46
+2315,Hank Ballard,9,v,47
+2316,Kelly Price,2,u,46
+2317,Foghat,3,u,46
+2318,Hoobastank,1,u,46
+2319,Tuck & Patti,6,u,46
+2320,Kindred the Family Soul,0,u,46
+2321,Womack & Womack,3,v,47
+2322,The Jayhawks,9,u,46
+2323,Gene Clark,9,u,46
+2324,Michael Nesmith,6,u,46
+2325,Billy Ocean,1,u,46
+2326,King,0,u,46
+2327,The Jesus Lizard,4,u,46
+2328,The Jets,0,u,46
+2329,The Osmonds,12,u,46
+2330,The Five Stairsteps,3,u,46
+2331,Sun,1,v,47
+2332,Alla Rakha,3,v,47
+2333,Collin Walcott,0,u,46
+2334,Ali Akbar Khan,2,v,47
+2335,The Legendary Pink Dots,7,u,46
+2336,Amanda Palmer,0,t,45
+2337,Christian Death,9,u,46
+2338,Nina Hagen,9,u,46
+2339,Chris Knight,0,u,46
+2340,The Last Poets,2,J,9
+2341,Archie Shepp,3,u,46
+2342,Chely Wright,2,u,46
+2343,Wynonna,12,u,46
+2344,Todd Terry,8,u,46
+2345,Black Box,1,u,46
+2346,Giorgio Moroder,27,u,46
+2347,Loleatta Holloway,1,u,46
+2348,King Floyd,1,u,46
+2349,Hawk Nelson,0,u,46
+2350,Third Day,5,u,46
+2351,Eddie & the Hot Rods,5,u,46
+2352,Colosseum,1,u,46
+2353,Freddie King,18,u,46
+2354,James Horner,1,u,46
+2355,Patrick Doyle,0,u,46
+2356,John Williams,6,u,46
+2357,The Dictators,8,u,46
+2358,Chevelle,0,u,46
+2359,Clutch,3,u,46
+2360,Joe Strummer,8,u,46
+2361,Black Grape,0,u,46
+2362,Black Ivory,0,u,46
+2363,King Radio,0,u,46
+2364,Keyshia Cole,1,u,46
+2365,Monica,11,u,46
+2366,Aaliyah,27,u,46
+2367,Xscape,4,u,46
+2368,Christina Aguilera,23,t,45
+2369,The Bottle Rockets,0,u,46
+2370,Harold Melvin,8,v,47
+2371,Black Label Society,0,u,46
+2372,Monster Magnet,1,u,46
+2373,Fu Manchu,1,u,46
+2374,Inspiral Carpets,10,u,46
+2375,The Stranglers,13,u,46
+2376,Robert Palmer,8,u,46
+2377,James Booker,5,u,46
+2378,Harry Belafonte,12,v,47
+2379,Black Oak Arkansas,3,u,46
+2380,Bowery Electric,0,H,7
+2381,Spiritualized,20,u,46
+2382,Koffee Brown,0,u,46
+2383,Tony! Toni! TonÃ©!,6,u,46
+2384,Mint Condition,1,u,46
+2385,Bow Wow Wow,7,u,46
+2386,Adam Ant,8,u,46
+2387,Mother Maybelle Carter,8,v,47
+2388,Hank Thompson,17,v,47
+2389,Clark Terry,8,v,47
+2390,Zoot Sims,6,u,46
+2391,Kenny Dorham,5,u,46
+2392,Mickey & Sylvia,1,v,47
+2393,The Rance Allen Group,2,u,46
+2394,Imogen Heap,3,W,22
+2395,Flora Purim,2,u,46
+2396,Todd Edwards,3,u,46
+2397,Laurie Anderson,5,u,46
+2398,Kings of Convenience,1,u,46
+2399,a-ha,4,u,46
+2400,The Sea and Cake,5,u,46
+2401,Art Garfunkel,8,u,46
+2402,Aimee Mann,16,u,46
+2403,Gong,9,I,8
+2404,Bonobo,1,u,46
+2405,Chico Buarque,8,u,46
+2406,JoÃ£o Donato,2,v,47
+2407,Dori Caymmi,3,u,46
+2408,Luiz BonfÃ¡,7,v,47
+2409,VinÃ­cius de Moraes,9,v,47
+2410,Roberto Menescal,6,u,46
+2411,Astrud Gilberto,21,u,46
+2412,Interpol,2,h,33
+2413,Catherine Wheel,7,u,46
+2414,ESG,8,u,46
+2415,Josef K,11,u,46
+2416,Jerry Garcia,10,u,46
+2417,A.C. Reed,1,u,46
+2418,Son House,22,v,47
+2419,Mississippi Fred McDowell,17,v,47
+2420,Blackfoot,0,u,46
+2421,Kinky,0,u,46
+2422,Hubert Sumlin,12,v,47
+2423,Kingdom Come,0,u,46
+2424,Chris Hillman,1,u,46
+2425,Pestilence,1,v,47
+2426,Freedy Johnston,5,h,33
+2427,Birdy,0,u,46
+2428,Bonnie Tyler,5,u,46
+2429,Bracket,0,h,33
+2430,Superdrag,2,u,46
+2431,The Muffs,6,u,46
+2432,BlackHawk,0,u,46
+2433,Carnivore,1,v,47
+2434,Kings of Leon,7,u,46
+2435,The Georgia Satellites,1,u,46
+2436,Colin Hay,1,u,46
+2437,Booker Ervin,0,u,46
+2438,Kittie,1,u,46
+2439,Con Funk Shun,0,u,46
+2440,Kim Carnes,0,u,46
+2441,Samiam,3,u,46
+2442,BoySetsFire,1,u,46
+2443,The International Submarine Band,1,u,46
+2444,Ed Ames,1,v,47
+2445,Lenny Welch,1,u,46
+2446,Jerry Vale,1,u,46
+2447,Al Martino,1,u,46
+2448,Hawthorne Heights,0,u,46
+2449,AFI,14,b,27
+2450,Thursday,3,u,46
+2451,Death Cab for Cutie,10,u,46
+2452,Nazareth,8,u,46
+2453,Atomic Rooster,7,u,46
+2454,Uriah Heep,11,u,46
+2455,Klaatu,1,u,46
+2456,Jack Ingram,0,u,46
+2457,Lionel Cartwright,1,v,47
+2458,Radney Foster,1,u,46
+2459,Hal Ketchum,1,v,47
+2460,Henry Lee Summer,1,v,47
+2461,kidneythieves,0,u,46
+2462,Kix,1,u,46
+2463,Vashti Bunyan,8,u,46
+2464,Scandal,1,u,46
+2465,Cornelius,4,p,41
+2466,The Kills,1,n,39
+2467,The Jon Spencer Blues Explosion,2,u,46
+2468,India,0,u,46
+2469,RubÃ©n Blades,13,u,46
+2470,La Lupe,2,v,47
+2471,The Long Winters,0,u,46
+2472,Charlie Wilson,3,u,46
+2473,Levi Stubbs,1,v,47
+2474,Willie Hutch,2,u,46
+2475,LaShun Pace,0,u,46
+2476,Book of Love,0,u,46
+2477,Chris Tomlin,0,u,46
+2478,Mark Harris,1,v,47
+2479,Michael Card,1,u,46
+2480,Newsboys,5,u,46
+2481,Labradford,1,u,46
+2482,Chase,0,u,46
+2483,Jay McShann,6,v,47
+2484,Buck Clayton,3,v,47
+2485,The Pussycat Dolls,0,u,46
+2486,Wendy & Lisa,4,u,46
+2487,Pharrell Williams,10,u,46
+2488,Larry Heard,6,u,46
+2489,LFO,1,u,46
+2490,Ivy,1,u,46
+2491,Control,0,u,46
+2492,Charlie Ventura,1,v,47
+2493,Jack Nitzsche,4,u,46
+2494,Level 42,4,u,46
+2495,The Rippingtons,1,u,46
+2496,Gregory Abbott,1,u,46
+2497,Ralph Tresvant,1,u,46
+2498,Joe Pass,2,u,46
+2499,Santo & Johnny,1,v,47
+2500,Jack Off Jill,0,u,46
+2501,Choking Victim,0,d,29
+2502,Julio Iglesias,16,u,46
+2503,Astor Piazzolla,4,v,47
+2504,Bobby Vinton,4,u,46
+2505,Jack Jones,1,u,46
+2506,Robert Goulet,2,v,47
+2507,Chuck Jackson,2,u,46
+2508,Chris Kenner,3,v,47
+2509,Gloria Lynne,1,v,47
+2510,Hellhammer,6,u,46
+2511,Raven,2,v,47
+2512,Lani Hall,0,v,47
+2513,Kate Wolf,1,u,46
+2514,Christian McBride,0,u,46
+2515,Charlie Haden,8,u,46
+2516,Scott LaFaro,5,v,47
+2517,Ron Carter,10,u,46
+2518,Dave Holland,3,u,46
+2519,Stanley Clarke,9,u,46
+2520,Paul Chambers,4,v,47
+2521,Hank Mobley,4,u,46
+2522,Jaci Velasquez,0,u,46
+2523,Jack DeJohnette,2,u,46
+2524,Tony Williams,7,u,46
+2525,The Easybeats,3,u,46
+2526,Kottonmouth Kings,0,u,46
+2527,The Mighty Mighty Bosstones,11,u,46
+2528,Moondog,16,v,47
+2529,Sun Ra,32,u,46
+2530,Coheed and Cambria,1,u,46
+2531,QueensrÃ¿che,5,u,46
+2532,Every Avenue,3,v,47
+2533,Dream Theater,6,u,46
+2534,Collective Soul,12,u,46
+2535,King's X,2,u,46
+2536,Chris Botti,0,u,46
+2537,Michael Bolton,8,u,46
+2538,Fourplay,2,u,46
+2539,Dave Koz,6,u,46
+2540,Wizzard,4,v,47
+2541,Cody ChesnuTT,1,u,46
+2542,Cold,0,u,46
+2543,Limp Bizkit,13,u,46
+2544,Godsmack,3,u,46
+2545,Krokus,0,u,46
+2546,Colby O'Donis,0,u,46
+2547,Usher,29,u,46
+2548,Justin Timberlake,22,t,45
+2549,*NSYNC,9,t,45
+2550,Jonathan Winters,3,v,47
+2551,Chris Cagle,1,u,46
+2552,Cilla Black,4,u,46
+2553,Lulu,4,u,46
+2554,Rufus Thomas,23,u,46
+2555,Kruder & Dorfmeister,1,u,46
+2556,Orbital,5,u,46
+2557,Aphex Twin,24,u,46
+2558,William Orbit,5,u,46
+2559,Lakeside,1,u,46
+2560,Chris LeDoux,4,u,46
+2561,Kimya Dawson,1,u,46
+2562,Tullycraft,3,u,46
+2563,The Mountain Goats,10,u,46
+2564,DJ Nelson,1,v,47
+2565,Luny Tunes,0,v,47
+2566,El General,5,v,47
+2567,Jane Birkin,11,u,46
+2568,Isobel Campbell,0,u,46
+2569,Mazzy Star,6,u,46
+2570,Cherrelle,2,u,46
+2571,"Evelyn ""Champagne"" King",5,u,46
+2572,Melba Moore,2,u,46
+2573,Kristin Chenoweth,0,u,46
+2574,Sandi Patty,8,u,46
+2575,Bebe Neuwirth,1,v,47
+2576,Mitzi Gaynor,1,v,47
+2577,Israel & New Breed,1,u,46
+2578,Fred Hammond,8,u,46
+2579,Lalo RodrÃ­guez,0,u,46
+2580,The Zutons,0,u,46
+2581,Dexys Midnight Runners,7,u,46
+2582,The Boomtown Rats,9,u,46
+2583,Edie Brickell & New Bohemians,2,v,47
+2584,Cheryl Wheeler,0,u,46
+2585,It's a Beautiful Day,0,u,46
+2586,Chemlab,0,u,46
+2587,Chris Duarte,0,u,46
+2588,Chris Montez,1,u,46
+2589,The Psychedelic Furs,11,u,46
+2590,The Adverts,8,u,46
+2591,Veruca Salt,4,u,46
+2592,Jackyl,0,u,46
+2593,Panda Bear,1,u,46
+2594,Boards of Canada,12,u,46
+2595,The Abyssinians,6,u,46
+2596,IsmaÃ«l LÃ´,1,u,46
+2597,Garland Jeffreys,2,u,46
+2598,Jain,0,u,46
+2599,Oumou Sangare,2,u,46
+2600,Crazy Town,0,u,46
+2601,The Ides of March,2,v,47
+2602,Chico CÃ©sar,0,u,46
+2603,Gal Costa,8,u,46
+2604,Chick Corea,11,u,46
+2605,Ivan Lins,1,u,46
+2606,Citizen Cope,0,u,46
+2607,Ben Harper,9,u,46
+2608,O.A.R.,2,u,46
+2609,City Boy,0,u,46
+2610,Chico DeBarge,0,u,46
+2611,Chris Whitley,2,u,46
+2612,Donnie McClurkin,3,u,46
+2613,Tye Tribbett,0,u,46
+2614,Israel Houghton,1,u,46
+2615,Helen Ward,9,v,47
+2616,Crimson Glory,1,u,46
+2617,Tom Morello,2,h,33
+2618,Colin James,0,u,46
+2619,Jimmie Vaughan,1,u,46
+2620,John Entwistle,5,u,46
+2621,Noel Redding,4,u,46
+2622,Eric Darius,0,u,46
+2623,David Johansen,3,u,46
+2624,Joe Hill Louis,0,v,47
+2625,Commander Cody and His Lost Planet Airmen,0,v,47
+2626,Christopher Williams,1,u,46
+2627,Jeffrey Osborne,2,u,46
+2628,Alexander O'Neal,2,u,46
+2629,Sylvester,10,l,37
+2630,Chromeo,0,u,46
+2631,George Clinton,14,u,46
+2632,Zapp,4,u,46
+2633,Daft Punk,26,u,46
+2634,Daryl Hall & John Oates,23,u,46
+2635,Yazoo,2,u,46
+2636,Jah Cure,0,u,46
+2637,Morgan Heritage,4,u,46
+2638,Harvey Fuqua,1,v,47
+2639,Connie Francis,8,u,46
+2640,Ledisi,0,u,46
+2641,Karyn White,1,u,46
+2642,Porter Wagoner,7,u,46
+2643,PÃ©rez Prado,16,v,47
+2644,Joe Bataan,3,v,47
+2645,Clay Walker,6,u,46
+2646,Joe Bonamassa,0,u,46
+2647,Diana Ross & the Supremes,2,v,47
+2648,Comus,4,u,46
+2649,Claus Ogerman,1,v,47
+2650,Johnny Guarnieri,1,v,47
+2651,Luiz Gonzaga,2,v,47
+2652,Lacy J. Dalton,0,u,46
+2653,Karen Dalton,10,u,46
+2654,Billy Ward & the Dominoes,5,v,47
+2655,The Delta Rhythm Boys,3,v,47
+2656,Basia,5,u,46
+2657,Nancy Sinatra,13,u,46
+2658,Basic Black,0,u,46
+2659,LeAnn Rimes,2,u,46
+2660,Chromatics,0,u,46
+2661,Arthur Russell,7,u,46
+2662,Marc Almond,2,u,46
+2663,Visage,4,u,46
+2664,Liquid Liquid,10,u,46
+2665,Jack McDuff,5,v,47
+2666,The Dandy Warhols,1,u,46
+2667,Confederate Railroad,0,u,46
+2668,Corey Hart,0,u,46
+2669,Gato Barbieri,4,u,46
+2670,Joe Maphis,7,v,47
+2671,Jimmy Bryant,6,v,47
+2672,Chris Thomas,0,u,46
+2673,David Gray,12,u,46
+2674,Rusted Root,3,u,46
+2675,Marc Cohn,5,u,46
+2676,Dave Matthews,7,u,46
+2677,Taj Mahal,4,u,46
+2678,Huey Lewis & the News,6,l,37
+2679,Len,0,u,46
+2680,Cowboy,0,u,46
+2681,Camper Van Beethoven,11,u,46
+2682,Cowboy Mouth,1,u,46
+2683,The All-American Rejects,11,u,46
+2684,Cartel,0,u,46
+2685,Chris Squire,2,u,46
+2686,Laraaji,0,u,46
+2687,Jan Garbarek,6,u,46
+2688,Charles TrÃ©net,4,v,47
+2689,Cornershop,1,u,46
+2690,Asha Bhosle,4,v,47
+2691,The Sugarcubes,9,u,46
+2692,Cibo Matto,0,u,46
+2693,Coyote Shivers,0,u,46
+2694,Craig David,1,K,10
+2695,Seal,7,u,46
+2696,Goldie,4,H,7
+2697,Simply Red,5,u,46
+2698,Lady Saw,5,u,46
+2699,Patra,1,v,47
+2700,Sister Nancy,1,v,47
+2701,Jacques Dutronc,1,u,46
+2702,Johnny Hallyday,2,l,37
+2703,Chris Thomas King,0,u,46
+2704,Debbie Harry,8,u,46
+2705,L.T.D.,0,u,46
+2706,Converge,6,a,26
+2707,ChristiÃ³n,1,u,46
+2708,Christopher Cross,1,u,46
+2709,Laidback Luke,1,u,46
+2710,Gary Wilson,1,v,47
+2711,David Byrne,8,u,46
+2712,Johnny Jenkins,7,u,46
+2713,R.L. Burnside,6,u,46
+2714,Craig Morgan,0,u,46
+2715,Chuck Prophet,0,h,33
+2716,Lucinda Williams,14,u,46
+2717,Nick Lowe,12,j,35
+2718,Jagged Edge,3,u,46
+2719,Dru Hill,5,u,46
+2720,Ratt,4,u,46
+2721,Exodus,3,u,46
+2722,Coralie ClÃ©ment,1,u,46
+2723,Vanessa Paradis,1,t,45
+2724,Brigitte Bardot,3,v,47
+2725,Jeanne Moreau,2,v,47
+2726,El Gran Silencio,0,u,46
+2727,The Fabulous Thunderbirds,2,u,46
+2728,Christina Milian,0,t,45
+2729,Richard Swift,0,h,33
+2730,Harry Nilsson,18,u,46
+2731,Dave Stewart,5,u,46
+2732,The Disco Biscuits,0,u,46
+2733,Widespread Panic,12,u,46
+2734,Lambchop,4,u,46
+2735,Frederick Knight,1,u,46
+2736,Lee Hazlewood,14,u,46
+2737,Luna,5,u,46
+2738,Wynn Stewart,6,v,47
+2739,Al Stewart,4,u,46
+2740,Jaguares,1,u,46
+2741,Cindy Walker,1,v,47
+2742,Lamb,1,H,7
+2743,Billy Strayhorn,10,v,47
+2744,Billy Taylor,1,u,46
+2745,Jackie DeShannon,10,u,46
+2746,Randy Crawford,6,v,47
+2747,Angela Bofill,6,u,46
+2748,Angela Winbush,1,v,47
+2749,Jackie Paris,3,u,46
+2750,BeBe Winans,2,u,46
+2751,Eyeless in Gaza,0,u,46
+2752,Benny Golson,8,u,46
+2753,The Highway Q.C.'s,3,v,47
+2754,Cranes,2,u,46
+2755,Trey Songz,3,u,46
+2756,Jack Wagner,0,u,46
+2757,Marvin Hamlisch,1,v,47
+2758,The Beloved,0,u,46
+2759,Country Joe & the Fish,3,u,46
+2760,The Charlatans,4,v,47
+2761,The Dirty Dozen Brass Band,6,u,46
+2762,Preservation Hall Jazz Band,2,v,47
+2763,Robbie Robertson,2,u,46
+2764,Mark Knopfler,7,u,46
+2765,Jack White,2,u,46
+2766,The Grascals,0,u,46
+2767,The Del McCoury Band,4,u,46
+2768,John Abercrombie,2,u,46
+2769,Tantric,5,u,46
+2770,Crossfade,0,u,46
+2771,"Clarence ""Frogman"" Henry",0,v,47
+2772,Crass,15,u,46
+2773,The Deviants,2,v,47
+2774,Arrow,6,u,46
+2775,Admiral Bailey,2,v,47
+2776,Big Youth,8,O,14
+2777,Josey Wales,4,u,46
+2778,Larry Gatlin,0,u,46
+2779,Roger Daltrey,3,u,46
+2780,"Crosby, Stills, Nash & Young",4,u,46
+2781,Cross Canadian Ragweed,1,u,46
+2782,The Highwaymen,3,v,47
+2783,Pirates of the Mississippi,2,u,46
+2784,Spragga Benz,0,u,46
+2785,Tal Bachman,0,u,46
+2786,Jacky Terrasson,0,u,46
+2787,Tony Rice,2,u,46
+2788,John Hartford,2,u,46
+2789,Del McCoury,11,u,46
+2790,Lester Flatt,3,v,47
+2791,The Dillards,16,u,46
+2792,Jai Uttal,0,u,46
+2793,Zakir Hussain,2,v,47
+2794,Don Cherry,9,u,46
+2795,Nusrat Fateh Ali Khan,5,v,47
+2796,The Youngbloods,3,u,46
+2797,Spoon,3,u,46
+2798,James Burton,12,v,47
+2799,The Searchers,9,u,46
+2800,Squirrel Nut Zippers,0,A,0
+2801,Asleep at the Wheel,5,v,47
+2802,Bohannon,2,v,47
+2803,Jean Shepard,4,v,47
+2804,Crystal Lewis,1,u,46
+2805,Crystal Waters,0,u,46
+2806,Woody Herman,8,v,47
+2807,Tamar Braxton,0,u,46
+2808,SWV,10,t,45
+2809,Dwarves,0,u,46
+2810,Jo Jo Gunne,2,v,47
+2811,Fatboy Slim,10,u,46
+2812,Camille Yarbrough,1,v,47
+2813,Lalo Schifrin,17,u,46
+2814,Cristian Castro,0,u,46
+2815,Juan Gabriel,10,u,46
+2816,Jamelia,0,u,46
+2817,Garnett Silk,1,u,46
+2818,Missy Elliott,15,u,46
+2819,Carter Burwell,2,u,46
+2820,Clint Mansell,0,Y,24
+2821,Barry Adamson,3,H,7
+2822,Elbow,1,u,46
+2823,Geggy Tah,2,u,46
+2824,Blind Faith,9,u,46
+2825,Pat Green,3,u,46
+2826,Lou Donaldson,6,u,46
+2827,Gigi Gryce,2,v,47
+2828,Midlake,0,u,46
+2829,The Crystal Method,2,u,46
+2830,Front 242,9,u,46
+2831,Frankie Knuckles,10,u,46
+2832,The Wilburn Brothers,2,v,47
+2833,The Cyrkle,1,u,46
+2834,The Cover Girls,0,u,46
+2835,Champion Jack Dupree,6,v,47
+2836,Fefe Dobson,0,h,33
+2837,Nelly Furtado,5,G,6
+2838,The Creatures,0,u,46
+2839,The Dresden Dolls,1,m,38
+2840,Zucchero,5,l,37
+2841,Laura Pausini,0,u,46
+2842,Cursive,5,u,46
+2843,Polvo,3,u,46
+2844,Archers of Loaf,5,u,46
+2845,Dobie Gray,0,u,46
+2846,The Dramatics,2,u,46
+2847,Joe Liggins,4,v,47
+2848,Raymond Scott,14,v,47
+2849,Babatunde Olatunji,3,v,47
+2850,Spirit,7,u,46
+2851,Oingo Boingo,3,u,46
+2852,BarlowGirl,0,u,46
+2853,JoÃ£o Bosco,0,u,46
+2854,Curtis Fuller,0,u,46
+2855,Urbie Green,1,v,47
+2856,Laura Branigan,0,u,46
+2857,The Country Gentlemen,4,u,46
+2858,Frankie Goes to Hollywood,9,u,46
+2859,Malcolm McLaren,3,u,46
+2860,Yello,10,u,46
+2861,Esther Phillips,8,u,46
+2862,The Friends of Distinction,1,v,47
+2863,Dokken,5,u,46
+2864,The Darkness,0,u,46
+2865,Warrant,4,u,46
+2866,Diamond Head,4,u,46
+2867,Urge Overkill,2,u,46
+2868,Poison,4,u,46
+2869,King Diamond,4,u,46
+2870,L.A. Guns,2,u,46
+2871,Great White,4,u,46
+2872,Turbonegro,1,u,46
+2873,W.A.S.P.,8,u,46
+2874,Curtis Stigers,0,u,46
+2875,Tom Jones,8,u,46
+2876,Paul Revere & the Raiders,1,j,35
+2877,Cut Copy,0,u,46
+2878,Erasure,9,u,46
+2879,Carl Smith,11,v,47
+2880,Eddie Murphy,4,u,46
+2881,Robin Williams,2,u,46
+2882,Basement Jaxx,9,H,7
+2883,Inner City,1,v,47
+2884,Junior Vasquez,3,u,46
+2885,Jimmy Castor,3,u,46
+2886,The Prodigy,7,u,46
+2887,The Future Sound of London,2,u,46
+2888,Underworld,11,u,46
+2889,Nightmares on Wax,4,u,46
+2890,The Dukes of Stratosphear,0,u,46
+2891,Strawberry Alarm Clock,3,u,46
+2892,Cusco,0,u,46
+2893,fIREHOSE,1,u,46
+2894,The Del Fuegos,0,u,46
+2895,Mink DeVille,2,u,46
+2896,Faron Young,15,u,46
+2897,Fever Tree,0,u,46
+2898,New Riders of the Purple Sage,7,u,46
+2899,Bastille,1,u,46
+2900,Mike Laure,1,u,46
+2901,Carl Allen,0,v,47
+2902,Bang Tango,0,u,46
+2903,Michael Penn,3,u,46
+2904,Translator,2,u,46
+2905,20/20,5,u,46
+2906,Tommy Bolin,1,u,46
+2907,Cybotron,1,u,46
+2908,Cutting Crew,0,u,46
+2909,The Deele,1,u,46
+2910,James Ingram,4,u,46
+2911,The Charioteers,1,v,47
+2912,Eddy Raven,0,u,46
+2913,Le Tigre,4,u,46
+2914,Luscious Jackson,4,u,46
+2915,Clay Aiken,0,u,46
+2916,Eric Carmen,1,u,46
+2917,Leo Sayer,8,u,46
+2918,Air Supply,7,u,46
+2919,Cutty Ranks,1,u,46
+2920,Eve 6,0,h,33
+2921,Matchbox Twenty,11,u,46
+2922,Better Than Ezra,4,u,46
+2923,Dirty Projectors,0,u,46
+2924,Anthony Green,0,u,46
+2925,Taking Back Sunday,5,R,17
+2926,Pedro the Lion,1,u,46
+2927,Glassjaw,5,u,46
+2928,The Presidents of the United States of America,4,u,46
+2929,Howard Tate,5,u,46
+2930,Little Milton,8,u,46
+2931,The Distillers,0,u,46
+2932,Carolyn Hester,4,v,47
+2933,Jerry Goldsmith,9,u,46
+2934,The Box Tops,2,u,46
+2935,Chapterhouse,1,u,46
+2936,Dead Can Dance,6,u,46
+2937,Johnny Shines,7,v,47
+2938,Leaf Hound,0,u,46
+2939,Elmer Bernstein,12,v,47
+2940,Earl Klugh,0,u,46
+2941,Charlie Byrd,1,v,47
+2942,Herb Ellis,1,v,47
+2943,Tony Trischka,1,u,46
+2944,Old & In the Way,1,u,46
+2945,Sting,23,u,46
+2946,Don Gibson,7,u,46
+2947,Webb Pierce,20,v,47
+2948,Tommy Collins,2,v,47
+2949,Earl King,7,v,47
+2950,Bayside,0,u,46
+2951,Good Charlotte,7,B,1
+2952,Belinda Carlisle,1,u,46
+2953,Mercyful Fate,17,u,46
+2954,The Gentrys,1,v,47
+2955,Cliff Richard,14,u,46
+2956,Freddy Fender,9,u,46
+2957,John Mayall & the Bluesbreakers,3,v,47
+2958,Bill Evans Trio,2,v,47
+2959,ExposÃ©,0,t,45
+2960,Donald Fagen,0,u,46
+2961,Grayson Hugh,0,u,46
+2962,Maze,1,u,46
+2963,Wilbur Ware,2,v,47
+2964,Gary Peacock,2,u,46
+2965,Frente!,0,u,46
+2966,Duncan Sheik,1,u,46
+2967,David Sylvian,4,u,46
+2968,Jeff Wayne,1,v,47
+2969,Geddy Lee,0,u,46
+2970,Roger Waters,1,v,47
+2971,Anna Nalick,0,u,46
+2972,John Mayer,10,u,46
+2973,Joey Ramone,3,u,46
+2974,Tsunami Bomb,1,h,33
+2975,The Rezillos,4,u,46
+2976,"Eddie ""Cleanhead"" Vinson",3,v,47
+2977,Ekoostik Hookah,0,u,46
+2978,Jerry Garcia Band,2,v,47
+2979,Every Time I Die,0,u,46
+2980,Bebo Norman,2,v,47
+2981,Passion,0,u,46
+2982,Rich Mullins,3,u,46
+2983,Caedmon's Call,1,u,46
+2984,Flo & Eddie,0,u,46
+2985,Cock Sparrer,10,u,46
+2986,Fozzy,0,u,46
+2987,Sponge,0,u,46
+2988,Eric Heatherly,0,u,46
+2989,Shaggy,2,u,46
+2990,Ini Kamoze,1,v,47
+2991,Junior Reid,2,u,46
+2992,Maxi Priest,1,u,46
+2993,Chad Brock,0,u,46
+2994,Greg Phillinganes,0,u,46
+2995,Ottmar Liebert,0,u,46
+2996,Dope,0,u,46
+2997,Gavin DeGraw,2,u,46
+2998,Captain & Tennille,7,u,46
+2999,Modest Mouse,14,h,33
+3000,Gavin Friday,0,u,46
+3001,Squarepusher,6,u,46
+3002,A Guy Called Gerald,5,v,47
+3003,Gas,2,u,46
+3004,Michel Legrand,4,u,46
+3005,Timi Yuro,1,v,47
+3006,Dwele,2,u,46
+3007,Color Me Badd,5,u,46
+3008,Shadows Fall,2,u,46
+3009,Toots Thielemans,1,u,46
+3010,Club Nouveau,3,v,47
+3011,Odyssey,1,u,46
+3012,Stacey Kent,0,u,46
+3013,The Melodians,5,u,46
+3014,Wet Willie,3,u,46
+3015,Sea Level,1,u,46
+3016,Chaka Demus & Pliers,0,u,46
+3017,Frank Foster,0,u,46
+3018,Wardell Gray,6,u,46
+3019,Suzy Bogguss,5,u,46
+3020,Loudon Wainwright III,9,u,46
+3021,The dB's,11,u,46
+3022,Toad the Wet Sprocket,10,u,46
+3023,Yanni,4,u,46
+3024,Franco De Vita,0,u,46
+3025,K.T. Oslin,2,u,46
+3026,Bobby Hackett,3,v,47
+3027,Shankar,0,u,46
+3028,Cass McCombs,0,u,46
+3029,Electric Six,0,u,46
+3030,Cake,8,u,46
+3031,Tweet,0,u,46
+3032,Bebel Gilberto,0,u,46
+3033,Djavan,1,u,46
+3034,Aterciopelados,4,u,46
+3035,Ben Lee,8,u,46
+3036,Mark Lanegan,8,h,33
+3037,Doug Kershaw,1,v,47
+3038,Shannon,0,u,46
+3039,ChantÃ© Moore,1,u,46
+3040,Electric Wizard,0,u,46
+3041,Candlemass,4,u,46
+3042,Cast,1,u,46
+3043,Dream Evil,0,u,46
+3044,Yngwie Malmsteen,7,u,46
+3045,Al Bowlly,2,v,47
+3046,Ben Folds Five,4,u,46
+3047,Bruce Hornsby,9,u,46
+3048,Sugar Minott,4,u,46
+3049,Stacey Q,0,t,45
+3050,Missing Persons,5,u,46
+3051,Stacie Orrico,0,u,46
+3052,Tamia,0,u,46
+3053,Gentle Giant,6,u,46
+3054,Franke & the Knockouts,0,u,46
+3055,Eagles of Death Metal,0,u,46
+3056,Rick Derringer,2,v,47
+3057,Ram Jam,1,v,47
+3058,David Houston,1,u,46
+3059,Johnny Osbourne,1,v,47
+3060,Mario Lanza,5,v,47
+3061,"Eddie ""Lockjaw"" Davis",0,v,47
+3062,ToÃ±o Rosario,1,v,47
+3063,Elvis Crespo,0,u,46
+3064,Jon Secada,6,u,46
+3065,JosÃ© Feliciano,10,u,46
+3066,Miami Sound Machine,2,u,46
+3067,Marc Anthony,5,u,46
+3068,Grupo ManÃ­a,1,v,47
+3069,Eagle-Eye Cherry,6,u,46
+3070,Hootie & the Blowfish,5,u,46
+3071,Gin Blossoms,3,u,46
+3072,Feist,1,o,40
+3073,Sam Phillips,6,u,46
+3074,Hum,2,u,46
+3075,Charlie Barnet,3,v,47
+3076,Caravan,1,u,46
+3077,Ace,3,u,46
+3078,Drowning Pool,0,u,46
+3079,Downset,1,u,46
+3080,Ben Kweller,0,u,46
+3081,Nils Lofgren,6,j,35
+3082,Eva Cassidy,4,u,46
+3083,June Tabor,2,u,46
+3084,Dr. Buzzard's Original Savannah Band,0,u,46
+3085,Annie Ross,4,u,46
+3086,Lush,3,u,46
+3087,Robin Guthrie,4,u,46
+3088,Eddie Harris,2,u,46
+3089,Down,0,u,46
+3090,Felix da Housecat,4,u,46
+3091,Melanie,9,u,46
+3092,Carl Thomas,0,u,46
+3093,Luther Allison,3,u,46
+3094,Jimmy Dawkins,1,u,46
+3095,Eddie Henderson,0,u,46
+3096,Ferrante & Teicher,0,u,46
+3097,Finley Quaye,0,u,46
+3098,Abbey Lincoln,7,u,46
+3099,Fall Out Boy,6,u,46
+3100,Rites of Spring,17,u,46
+3101,Strung Out,9,u,46
+3102,Jets to Brazil,5,u,46
+3103,Lyle Mays,0,u,46
+3104,Annette Peacock,3,u,46
+3105,Eliane Elias,0,u,46
+3106,Marian McPartland,6,u,46
+3107,Bill Justis,2,v,47
+3108,Eddie Santiago,0,u,46
+3109,Easy Star All-Stars,0,u,46
+3110,Elephant Man,0,u,46
+3111,Mad Cobra,5,u,46
+3112,Joe South,2,u,46
+3113,Dodgy,0,u,46
+3114,Franz Ferdinand,4,h,33
+3115,Ned's Atomic Dustbin,8,u,46
+3116,The Monochrome Set,6,u,46
+3117,Neutral Milk Hotel,12,u,46
+3118,Charlie Palmieri,1,v,47
+3119,Mon Rivera,2,v,47
+3120,Beny MorÃ©,13,v,47
+3121,Carl Butler,0,v,47
+3122,Frank Morgan,0,u,46
+3123,Firefall,0,u,46
+3124,Ugly Kid Joe,0,u,46
+3125,Jesse Winchester,4,u,46
+3126,Tuxedomoon,2,u,46
+3127,Edwin McCain,0,u,46
+3128,James Spaulding,0,u,46
+3129,The Heartbeats,1,u,46
+3130,World Party,3,u,46
+3131,Eddie Vedder,1,u,46
+3132,Bono,2,v,47
+3133,Firehouse,0,u,46
+3134,Franz Waxman,6,v,47
+3135,Victor Young,1,v,47
+3136,Unearth,2,u,46
+3137,Poison the Well,1,u,46
+3138,Lamb of God,1,u,46
+3139,The Dillinger Escape Plan,2,u,46
+3140,Dispatch,0,u,46
+3141,M83,0,u,46
+3142,MFSB,8,u,46
+3143,First Choice,0,u,46
+3144,George Russell,10,u,46
+3145,Disturbed,0,u,46
+3146,Life of Agony,1,u,46
+3147,Prong,1,u,46
+3148,D.R.I.,4,u,46
+3149,Ibrahim Ferrer,7,v,47
+3150,Cachao,8,v,47
+3151,Gabby Pahinui,2,v,47
+3152,Rise Against,0,C,2
+3153,MDC,5,u,46
+3154,Cap'n Jazz,1,u,46
+3155,Anti-Flag,5,C,2
+3156,Jeri Southern,3,u,46
+3157,Ruth Cameron,0,u,46
+3158,Riders in the Sky,0,v,47
+3159,Elisa,1,p,41
+3160,Right Said Fred,3,t,45
+3161,Laid Back,1,v,47
+3162,Divine,1,u,46
+3163,Leon Ware,7,u,46
+3164,Nile Rodgers,1,u,46
+3165,The Style Council,2,u,46
+3166,Gino Vannelli,7,u,46
+3167,Charlie Robison,2,u,46
+3168,Joe Zawinul,0,u,46
+3169,Faster Pussycat,0,u,46
+3170,August Burns Red,0,u,46
+3171,Killswitch Engage,4,u,46
+3172,Don Chezina,0,u,46
+3173,Jon Hassell,5,u,46
+3174,Yma Sumac,5,v,47
+3175,Little Jimmy Scott,18,u,46
+3176,Carlos Ponce,0,u,46
+3177,Phil Collins,8,u,46
+3178,Don Carlos,0,u,46
+3179,The Pioneers,4,v,47
+3180,The Uniques,4,v,47
+3181,Fischerspooner,0,u,46
+3182,John Foxx,3,u,46
+3183,Tom Tom Club,9,u,46
+3184,Gina X Performance,1,v,47
+3185,Clan of Xymox,4,u,46
+3186,Eloy,0,u,46
+3187,Camel,4,u,46
+3188,Jane Child,0,t,45
+3189,The Edge,0,u,46
+3190,Tom Verlaine,6,u,46
+3191,Ultra Vivid Scene,2,u,46
+3192,Altered Images,1,u,46
+3193,The Dave Brubeck Quartet,1,v,47
+3194,Pat Metheny Group,0,u,46
+3195,John Coltrane Quartet,1,u,46
+3196,Miles Davis Quintet,1,v,47
+3197,Thelonious Monk Quartet,1,v,47
+3198,Stacy Lattisaw,0,u,46
+3199,Staind,3,u,46
+3200,Fred Eaglesmith,0,u,46
+3201,Edie Brickell,0,u,46
+3202,Ritchie Valens,19,d,29
+3203,Flaco JimÃ©nez,5,u,46
+3204,Jason Becker,0,u,46
+3205,Pat Metheny,5,u,46
+3206,Eileen Farrell,0,u,46
+3207,Tortoise,6,u,46
+3208,Graham Parker & the Rumour,0,u,46
+3209,Dave Grohl,1,u,46
+3210,Peter Criss,2,u,46
+3211,Bryan Ferry,11,u,46
+3212,Lord Creator,3,v,47
+3213,Eric Donaldson,2,v,47
+3214,Hopeton Lewis,1,v,47
+3215,The Paragons,9,v,47
+3216,Flaw,0,u,46
+3217,Caron Wheeler,1,u,46
+3218,Ray LaMontagne,2,u,46
+3219,Keb' Mo',5,u,46
+3220,James McMurtry,2,u,46
+3221,Brian Hyland,1,u,46
+3222,David Cassidy,2,u,46
+3223,Fine Young Cannibals,0,u,46
+3224,DÃ³nal Lunny,0,v,47
+3225,John Cafferty,0,u,46
+3226,Flipper,7,u,46
+3227,Roger McGuinn,10,u,46
+3228,Emerson Drive,0,u,46
+3229,Exile,5,v,47
+3230,Sawyer Brown,4,u,46
+3231,Great Big Sea,0,u,46
+3232,Hothouse Flowers,4,u,46
+3233,Donald Harrison,0,u,46
+3234,Greater Vision,0,u,46
+3235,Unsane,5,u,46
+3236,RX Bandits,1,u,46
+3237,Maceo Parker,1,u,46
+3238,French Kicks,1,u,46
+3239,Elvis Costello & the Attractions,3,v,47
+3240,Penguin Cafe Orchestra,4,u,46
+3241,David Lanz,2,u,46
+3242,Green Jelly,1,u,46
+3243,Arcade Fire,1,r,43
+3244,Phosphorescent,3,u,46
+3245,Jim Ford,4,u,46
+3246,Fun Boy Three,0,u,46
+3247,Mac Davis,2,u,46
+3248,Voodoo Glow Skulls,1,u,46
+3249,Voivod,7,u,46
+3250,Donny Osmond,1,u,46
+3251,Deadsy,0,u,46
+3252,Godhead,1,u,46
+3253,Dos,0,u,46
+3254,Flogging Molly,0,u,46
+3255,Angelic Upstarts,8,u,46
+3256,Funeral for a Friend,1,u,46
+3257,Buckwheat Zydeco,7,u,46
+3258,Sean Paul,2,u,46
+3259,Floetry,0,u,46
+3260,Eric Johnson,0,u,46
+3261,Billy Gibbons,1,v,47
+3262,Bud Shank,2,u,46
+3263,Phil Woods,6,u,46
+3264,John Parr,0,u,46
+3265,Foxy Brown,0,u,46
+3266,Eric Serra,0,u,46
+3267,Lee Roy Parnell,0,u,46
+3268,Martha Raye,2,v,47
+3269,Helen Forrest,10,v,47
+3270,Helen O'Connell,6,v,47
+3271,John Taylor,0,u,46
+3272,Frank Butler,0,v,47
+3273,George Winston,9,u,46
+3274,Beres Hammond,2,u,46
+3275,LeftÃ¶ver Crack,0,d,29
+3276,Dave Grusin,10,u,46
+3277,Wang Chung,1,u,46
+3278,Wall of Voodoo,0,u,46
+3279,Art Pepper,5,u,46
+3280,Chico Hamilton,4,u,46
+3281,Galactic,0,u,46
+3282,Warne Marsh,1,v,47
+3283,John Travolta,0,u,46
+3284,Cassie,0,u,46
+3285,Cassius,1,u,46
+3286,Madeleine Peyroux,1,u,46
+3287,Deicide,0,u,46
+3288,Lee Ann Womack,5,u,46
+3289,Garbage,3,h,33
+3290,Grace Slick,4,u,46
+3291,Judy Henske,3,v,47
+3292,Focus,4,u,46
+3293,AmÃ¡lia Rodrigues,4,v,47
+3294,CesÃ¡ria Ã‰vora,0,u,46
+3295,Dazz Band,0,u,46
+3296,Ernest Ranglin,2,v,47
+3297,Dorothy Loudon,0,v,47
+3298,The Flying Luttenbachers,0,a,26
+3299,Della Reese,1,u,46
+3300,Ed Bruce,1,v,47
+3301,Gretchen Wilson,0,u,46
+3302,Willie ColÃ³n,7,u,46
+3303,Javier SolÃ­s,3,v,47
+3304,Jorge Negrete,1,v,47
+3305,JosÃ© Alfredo JimÃ©nez,1,v,47
+3306,Los Alegres de TerÃ¡n,1,v,47
+3307,Pedro Infante,4,v,47
+3308,Gene Loves Jezebel,0,u,46
+3309,Dee Clark,0,u,46
+3310,Warren Haynes,0,u,46
+3311,Duane Allman,4,u,46
+3312,The Dream Syndicate,8,u,46
+3313,Changing Faces,1,u,46
+3314,Esquerita,3,v,47
+3315,Halifax,0,u,46
+3316,Dougie MacLean,0,v,47
+3317,Chantal Kreviazuk,1,u,46
+3318,"Johnny ""Hammond"" Smith",0,v,47
+3319,Ernestine Anderson,3,v,47
+3320,Destruction,0,u,46
+3321,Drive-By Truckers,0,u,46
+3322,Donna the Buffalo,4,u,46
+3323,Red Garland,4,u,46
+3324,Ty Herndon,0,u,46
+3325,Jon Hendricks,7,A,0
+3326,General Public,1,u,46
+3327,Westlife,5,u,46
+3328,East 17,4,u,46
+3329,Nouvelle Vague,0,u,46
+3330,Charles & Eddie,0,u,46
+3331,Derek Trucks,0,u,46
+3332,Elvin Bishop,4,u,46
+3333,Ginger Baker,5,u,46
+3334,Max Richter,0,u,46
+3335,Arvo PÃ¤rt,3,v,47
+3336,"Huey ""Piano"" Smith",6,u,46
+3337,Wet,0,u,46
+3338,Wet Wet Wet,0,u,46
+3339,Wheatus,0,u,46
+3340,Charles Earland,0,u,46
+3341,Amy Millan,0,m,38
+3342,The Vaselines,4,u,46
+3343,Charlie Chaplin,1,u,46
+3344,DragonForce,0,u,46
+3345,Savatage,2,u,46
+3346,Overkill,1,u,46
+3347,Helloween,5,u,46
+3348,Seefeel,2,u,46
+3349,Tycho,0,u,46
+3350,Zero 7,1,G,6
+3351,Casino Versus Japan,1,v,47
+3352,Dramarama,0,u,46
+3353,Type O Negative,6,u,46
+3354,Alien Sex Fiend,9,u,46
+3355,Charles Lloyd,3,u,46
+3356,Des'ree,0,u,46
+3357,Moe Bandy,6,u,46
+3358,DeVotchKa,1,h,33
+3359,Dub Pistols,0,u,46
+3360,Junior Kimbrough,6,u,46
+3361,Tyrone Davis,6,u,46
+3362,Linda Perhacs,6,u,46
+3363,Vetiver,0,u,46
+3364,Norman Greenbaum,1,v,47
+3365,Ian Matthews,4,u,46
+3366,Ghost,3,u,46
+3367,Rita Coolidge,1,u,46
+3368,Drake Bell,0,u,46
+3369,Joe Brown,2,v,47
+3370,Lou Ann Barton,0,u,46
+3371,Eros Ramazzotti,7,u,46
+3372,Lou Bega,0,u,46
+3373,Wesley Willis,0,Y,24
+3374,The Contours,3,v,47
+3375,Donna Fargo,1,u,46
+3376,Jamie Foxx,0,u,46
+3377,Johnny Gill,2,u,46
+3378,Jon B.,4,u,46
+3379,Vanessa Williams,7,u,46
+3380,David Lindley,0,u,46
+3381,Alfred Newman,6,v,47
+3382,Percy Heath,2,v,47
+3383,Dianne Reeves,3,u,46
+3384,Jamie Cullum,0,U,20
+3385,Diana Krall,4,u,46
+3386,Michael Franks,9,u,46
+3387,Norah Jones,5,u,46
+3388,Ricochet,0,u,46
+3389,The Silhouettes,1,v,47
+3390,Danny & the Juniors,1,v,47
+3391,Johnny Griffin,4,u,46
+3392,David Guetta,0,u,46
+3393,David Morales,1,v,47
+3394,Roger Sanchez,1,u,46
+3395,Utah Saints,4,u,46
+3396,Roy Clark,4,u,46
+3397,U.K.,1,u,46
+3398,Dimmu Borgir,0,u,46
+3399,Mayhem,5,u,46
+3400,Ralph McTell,1,u,46
+3401,Charlie Sexton,5,u,46
+3402,Rilo Kiley,0,u,46
+3403,Wilco,6,u,46
+3404,Lone Justice,2,u,46
+3405,Neko Case,2,u,46
+3406,Ciara,1,u,46
+3407,K.P. & Envyi,1,v,47
+3408,Carla Bruni,0,H,7
+3409,John Conlee,1,u,46
+3410,Dido,0,o,40
+3411,Djivan Gasparyan,1,v,47
+3412,M. Ward,1,h,33
+3413,Grandaddy,4,u,46
+3414,Chris Isaak,6,u,46
+3415,Ringo Starr,5,l,37
+3416,John D. Loudermilk,1,v,47
+3417,Life Without Buildings,0,u,46
+3418,Scritti Politti,3,u,46
+3419,Umphrey's McGee,0,u,46
+3420,moe.,1,u,46
+3421,Jonathan Butler,0,u,46
+3422,The Silvertones,1,u,46
+3423,Pixinguinha,5,v,47
+3424,Dalva de Oliveira,3,v,47
+3425,Clannad,8,u,46
+3426,Jane Olivor,0,u,46
+3427,Uncle Kracker,1,u,46
+3428,Little River Band,2,u,46
+3429,Judge,1,v,47
+3430,Vitalic,0,u,46
+3431,Hombres G,0,u,46
+3432,Jason Mraz,5,u,46
+3433,Hot Action Cop,0,u,46
+3434,Machine Head,6,u,46
+3435,John Handy,0,u,46
+3436,UNKLE,8,G,6
+3437,Hot Hot Heat,1,u,46
+3438,M.I.A.,4,j,35
+3439,Hot Rize,2,u,46
+3440,Vixen,0,u,46
+3441,MC 900 Ft. Jesus,3,u,46
+3442,Leatherface,2,v,47
+3443,Dead Meadow,0,u,46
+3444,Randy Rhoads,5,u,46
+3445,Machel Montano,0,u,46
+3446,Bloc Party,0,h,33
+3447,Vitamin C,0,u,46
+3448,Tiffany,8,t,45
+3449,Joseph Arthur,1,u,46
+3450,Lizz Wright,0,u,46
+3451,Jeff Foxworthy,0,u,46
+3452,Robert Klein,3,v,47
+3453,Rodney Dangerfield,3,v,47
+3454,Hound Dog Taylor,1,v,47
+3455,Shadow,0,u,46
+3456,Planxty,5,u,46
+3457,Blue Mitchell,1,u,46
+3458,Vivian Green,0,u,46
+3459,Dead or Alive,1,u,46
+3460,Boy George,1,u,46
+3461,Big John Patton,0,u,46
+3462,David Crosby,6,u,46
+3463,Steve Forbert,5,u,46
+3464,Robbie Williams,5,s,44
+3465,Go West,2,u,46
+3466,Walter Hawkins,0,u,46
+3467,Lonnie Liston Smith,1,u,46
+3468,Al Cohn,4,u,46
+3469,Artie Shaw,6,v,47
+3470,Keith Emerson,1,u,46
+3471,Howard Huntsberry,0,u,46
+3472,Svend Asmussen,1,v,47
+3473,Death in June,0,u,46
+3474,Howard Roberts,2,v,47
+3475,Jobriath,0,u,46
+3476,Howard Stern,0,u,46
+3477,David Wilcox,1,u,46
+3478,Local H,0,u,46
+3479,Walk the Moon,0,u,46
+3480,Adriano Celentano,1,v,47
+3481,Death Angel,0,u,46
+3482,Roaring Lion,2,v,47
+3483,John P. Kee,1,u,46
+3484,Marisela,0,u,46
+3485,The Wannadies,0,u,46
+3486,Deee-Lite,0,u,46
+3487,Lil' Mo,0,u,46
+3488,Days of the New,1,u,46
+3489,Chris Cornell,3,h,33
+3490,Josh Ritter,1,u,46
+3491,Gillian Welch,5,u,46
+3492,Alejandro Escovedo,6,u,46
+3493,Ryan Adams,7,u,46
+3494,Damien Jurado,1,u,46
+3495,Howie Day,1,u,46
+3496,Richard Ashcroft,3,u,46
+3497,Hugh Mundell,0,u,46
+3498,Danny Thompson,1,u,46
+3499,John Kay,0,u,46
+3500,Keith Relf,1,v,47
+3501,Hubert Laws,1,u,46
+3502,Homer & Jethro,3,v,47
+3503,Paul Stanley,5,j,35
+3504,Tommy Sands,1,u,46
+3505,Deacon Blue,0,u,46
+3506,Salaam Remi,1,u,46
+3507,Mark Ronson,1,u,46
+3508,Kid Koala,1,p,41
+3509,Sam Kinison,4,u,46
+3510,Denis Leary,3,u,46
+3511,Robin Thicke,0,u,46
+3512,Joan Osborne,11,u,46
+3513,Gerald Levert,10,u,46
+3514,Johnny Hates Jazz,0,u,46
+3515,Anita Bryant,1,v,47
+3516,Dallas Holm,1,u,46
+3517,Lisa Loeb,4,u,46
+3518,Third Eye Blind,5,u,46
+3519,Tonic,5,u,46
+3520,Fad Gadget,4,u,46
+3521,"Johnny ""Big Moose"" Walker",0,u,46
+3522,Kitty Kallen,1,v,47
+3523,The Chordettes,2,v,47
+3524,Lola BeltrÃ¡n,1,v,47
+3525,Antonio Aguilar,1,v,47
+3526,Johnny Lee,0,u,46
+3527,Jerry Byrd,1,v,47
+3528,Speedy West,5,v,47
+3529,Leon Redbone,0,u,46
+3530,Dennis DeYoung,0,u,46
+3531,Lemon Jelly,0,p,41
+3532,Johnny Adams,2,u,46
+3533,Razorlight,0,u,46
+3534,Pop Will Eat Itself,3,u,46
+3535,Wayman Tisdale,0,u,46
+3536,Najee,2,u,46
+3537,The Records,4,u,46
+3538,The Feelies,8,u,46
+3539,Rockpile,1,u,46
+3540,Johnny Clegg,0,u,46
+3541,Wayne Hancock,1,u,46
+3542,Tracy Lawrence,6,u,46
+3543,Sammie,0,u,46
+3544,The Derek Trucks Band,0,u,46
+3545,Les Brown,2,v,47
+3546,Harry James,10,v,47
+3547,Juanes,0,u,46
+3548,Ozomatli,1,u,46
+3549,Molotov,1,u,46
+3550,Gustavo Santaolalla,1,u,46
+3551,Manu Chao,5,u,46
+3552,Enrique Iglesias,6,u,46
+3553,Soda Stereo,1,u,46
+3554,Carlos Vives,7,u,46
+3555,Liquid Tension Experiment,0,u,46
+3556,Johnny Rodriguez,0,u,46
+3557,Bobby Timmons,2,u,46
+3558,Devendra Banhart,0,u,46
+3559,Les Nubians,0,u,46
+3560,Whiskeytown,3,u,46
+3561,Junior Brown,3,u,46
+3562,Lenny White,0,u,46
+3563,Destroyer,0,u,46
+3564,We Are Scientists,0,u,46
+3565,Lisa Lisa,1,t,45
+3566,Jocelyn Brown,1,v,47
+3567,Love Battery,0,u,46
+3568,Johnny Pacheco,2,v,47
+3569,Sara Evans,6,u,46
+3570,Grupo Mojado,0,u,46
+3571,RocÃ­o DÃºrcal,1,v,47
+3572,Los Bukis,2,v,47
+3573,DevilDriver,0,u,46
+3574,White Town,0,u,46
+3575,Low,7,u,46
+3576,Julie Roberts,0,u,46
+3577,Pee Wee Crayton,2,v,47
+3578,People Like Us,0,O,14
+3579,Joi,0,u,46
+3580,Half Pint,1,u,46
+3581,Junior Mance,1,u,46
+3582,Dion & the Belmonts,3,u,46
+3583,Diana King,0,t,45
+3584,Wayne Newton,0,u,46
+3585,Jackie Gleason,1,v,47
+3586,Leon Haywood,0,v,47
+3587,Wayne Watson,0,u,46
+3588,Scooter,0,u,46
+3589,Junior Senior,0,u,46
+3590,Leroy Van Dyke,0,v,47
+3591,Dick Gaughan,2,v,47
+3592,White Lion,4,u,46
+3593,JoJo,0,u,46
+3594,Jessica Simpson,6,t,45
+3595,Mandy Moore,8,t,45
+3596,Ashanti,3,u,46
+3597,Howard Hewett,7,u,46
+3598,Wayne Toups,0,u,46
+3599,Wayne Wonder,0,u,46
+3600,Capleton,1,u,46
+3601,The Academy Is...,0,u,46
+3602,Marvelous 3,1,u,46
+3603,Dashboard Confessional,15,d,29
+3604,Diamond Rio,0,u,46
+3605,Julee Cruise,0,u,46
+3606,RÃ³isÃ­n Murphy,0,u,46
+3607,Helen Merrill,2,u,46
+3608,Lucky Dube,1,u,46
+3609,Pepper Adams,0,u,46
+3610,Honeymoon Suite,0,u,46
+3611,Brand X,1,u,46
+3612,Lee Wiley,8,v,47
+3613,Diane Schuur,0,u,46
+3614,Lucy Pearl,0,u,46
+3615,Department S,0,u,46
+3616,Say Anything,0,u,46
+3617,Wild Cherry,0,u,46
+3618,Rebirth Brass Band,2,u,46
+3619,Jon Brion,4,u,46
+3620,Justin Adams,0,u,46
+3621,Little Big Town,1,u,46
+3622,Aaron Tippin,6,u,46
+3623,T-Pain,3,u,46
+3624,Nate Dogg,2,u,46
+3625,Ginuwine,7,u,46
+3626,Jordan Rudess,0,u,46
+3627,Dillinger Four,0,B,1
+3628,Various Artists,0,u,46
+3629,Lord Invader,4,v,47
+3630,Lord Melody,2,v,47
+3631,Dinah Shore,0,v,47
+3632,Golden Earring,8,u,46
+3633,Julian Lennon,0,u,46
+3634,Hoodoo Gurus,0,u,46
+3635,Jonah Jones,1,v,47
+3636,Bunny Berigan,5,v,47
+3637,Pete Droge,0,u,46
+3638,54-40,1,u,46
+3639,Lifehouse,0,u,46
+3640,Elf,3,v,47
+3641,Jeffrey Lewis,0,u,46
+3642,Hooverphonic,0,G,6
+3643,Amos Lee,0,u,46
+3644,Lighthouse,0,u,46
+3645,Chris Brown,3,u,46
+3646,112,7,u,46
+3647,Jennifer Hudson,0,u,46
+3648,Phyllis Hyman,2,v,47
+3649,Little Texas,0,u,46
+3650,Pete Steele,1,v,47
+3651,Los Panchos,1,v,47
+3652,Marilyn McCoo,0,u,46
+3653,Jonny Lang,0,u,46
+3654,George Thorogood,3,j,35
+3655,Titus Turner,1,v,47
+3656,Marie Osmond,0,u,46
+3657,Maria Rita,0,u,46
+3658,Rita Lee,2,v,47
+3659,Celtic Woman,0,u,46
+3660,Bobby CapÃ³,1,v,47
+3661,S Club 7,0,u,46
+3662,Peter Knight,0,v,47
+3663,Dr. Lonnie Smith,5,u,46
+3664,Mary Martin,2,v,47
+3665,Kay Thompson,1,v,47
+3666,Mario,1,u,46
+3667,Lonnie Mack,4,u,46
+3668,Josh Groban,0,u,46
+3669,JosÃ© Carreras,3,v,47
+3670,Jim Brickman,5,u,46
+3671,Mandy Patinkin,1,u,46
+3672,PlÃ¡cido Domingo,3,v,47
+3673,David Foster,1,u,46
+3674,Rod Temperton,1,v,47
+3675,Don Blackman,1,v,47
+3676,Gawvi,1,u,46
+3677,Rob Halford,1,u,46
+3678,Howard McGhee,0,u,46
+3679,Josh Kelley,0,u,46
+3680,Michael McDonald,5,u,46
+3681,The Wallflowers,2,u,46
+3682,Rodriguez,6,u,46
+3683,Roachford,0,u,46
+3684,Phoenix,3,u,46
+3685,Josh Turner,0,u,46
+3686,Howard Shore,1,u,46
+3687,Lila McCann,0,u,46
+3688,Josh Rouse,0,u,46
+3689,Gyptian,0,u,46
+3690,Jill Sobule,2,u,46
+3691,Deerhunter,1,u,46
+3692,Rooney,0,u,46
+3693,Marion Meadows,0,u,46
+3694,Robbie Dupree,0,u,46
+3695,Frank Loesser,4,v,47
+3696,Robert Mirabal,0,u,46
+3697,Jesse Powell,0,u,46
+3698,Saga,0,u,46
+3699,Ronan Keating,0,u,46
+3700,Phil Lynott,0,u,46
+3701,Maroon 5,5,u,46
+3702,Robert Gordon,2,u,46
+3703,Philip Aaberg,0,u,46
+3704,George Morgan,1,v,47
+3705,Ismael Rivera,3,v,47
+3706,Calle 13,0,v,47
+3707,Oscar D'LeÃ³n,3,v,47
+3708,Platinum Blonde,0,u,46
+3709,Jessica Andrews,3,u,46
+3710,Joss Stone,0,u,46
+3711,Denise LaSalle,1,v,47
+3712,Damian Marley,1,S,18
+3713,Play,0,u,46
+3714,Dave Alvin,2,h,33
+3715,No Doubt,10,G,6
+3716,Wilson Phillips,1,u,46
+3717,CeCe Winans,2,u,46
+3718,Charly GarcÃ­a,2,v,47
+3719,Rose Tattoo,5,u,46
+3720,Robert Randolph,0,u,46
+3721,Sneaky Pete Kleinow,1,v,47
+3722,Mulgrew Miller,1,u,46
+3723,Robert Glasper,0,u,46
+3724,Saigon Kick,0,u,46
+3725,Racer X,1,u,46
+3726,Linkin Park,6,u,46
+3727,Linton Kwesi Johnson,3,u,46
+3728,Sam Rivers,1,u,46
+3729,Rockwell,0,u,46
+3730,Mark O'Connor,1,u,46
+3731,Rossington Collins Band,0,u,46
+3732,RÃ¶yksopp,0,u,46
+3733,Sammy,0,u,46
+3734,Los Lonely Boys,0,u,46
+3735,Lisa Gerrard,0,u,46
+3736,Judy Kuhn,0,u,46
+3737,Linda Eder,1,u,46
+3738,Ismael Miranda,3,v,47
+3739,Cheo Feliciano,4,v,47
+3740,HÃ©ctor Lavoe,10,u,46
+3741,Joe Cuba,6,v,47
+3742,Plastilina Mosh,0,u,46
+3743,Plastic Bertrand,3,u,46
+3744,Possessed,3,u,46
+3745,The Soul Survivors,1,u,46
+3746,Glenn Gould,1,v,47
+3747,Blitzen Trapper,0,u,46
+3748,Running Wild,0,u,46
+3749,Martha Wash,1,u,46
+3750,Keith Hudson,1,v,47
+3751,Junior Kelly,0,u,46
+3752,Lucky Ali,0,v,47
+3753,Curved Air,3,v,47
+3754,Scientist,1,u,46
+3755,Lisette Melendez,0,u,46
+3756,Paul Weston,1,v,47
+3757,Junkie XL,0,u,46
+3758,Junkyard,0,u,46
+3759,Puddle of Mudd,1,u,46
+3760,Bush,11,u,46
+3761,Martin Sexton,0,u,46
+3762,"Jump, Little Children",0,u,46
+3763,John Adams,2,u,46
+3764,Justin Tubb,0,v,47
+3765,Penetration,0,u,46
+3766,Lucero,0,u,46
+3767,The Blasters,1,d,29
+3768,The Young Rascals,2,u,46
+3769,Emmanuel,2,v,47
+3770,Ricardo Montaner,2,v,47
+3771,JosÃ© JosÃ©,2,v,47
+3772,Luis Fonsi,0,u,46
+3773,Diego Torres,1,v,47
+3774,Alexandre Pires,1,v,47
+3775,Marvin Sease,1,u,46
+3776,K-Ci & JoJo,1,u,46
+3777,Pierre Bachelet,0,v,47
+3778,Blindside,0,u,46
+3779,Mary Black,2,u,46
+3780,The West Coast Pop Art Experimental Band,1,u,46
+3781,VAST,0,u,46
+3782,Little Jimmy Dickens,6,v,47
+3783,Atlanta Rhythm Section,1,u,46
+3784,Mary Gauthier,0,u,46
+3785,Quantic,0,g,32
+3786,Luis Enrique,0,u,46
+3787,Jimmy Yancey,1,v,47
+3788,Pete Johnson,4,v,47
+3789,Jennifer Holliday,0,u,46
+3790,Charlie Parr,0,h,33
+3791,Adolescents,3,u,46
+3792,Jennifer Love Hewitt,1,u,46
+3793,RocÃ­o Jurado,4,v,47
+3794,Panic! At the Disco,3,u,46
+3795,The Killers,8,u,46
+3796,Jason Aldean,1,u,46
+3797,Emitt Rhodes,6,u,46
+3798,Jens Lekman,0,u,46
+3799,Charlie Watts,1,u,46
+3800,Company,0,u,46
+3801,Lumidee,0,u,46
+3802,Secret Weapon,0,u,46
+3803,Matt Redman,0,u,46
+3804,Paul Carrack,1,u,46
+3805,Peter Rowan,2,u,46
+3806,Jem,0,D,3
+3807,Morcheeba,9,G,6
+3808,Jello Biafra,3,u,46
+3809,Jermaine Stewart,0,u,46
+3810,Matchbook Romance,0,P,15
+3811,Arctic Monkeys,1,U,20
+3812,John Cooper Clarke,1,v,47
+3813,The Streets,2,H,7
+3814,Autechre,3,u,46
+3815,Jerry Douglas,2,u,46
+3816,She Wants Revenge,0,u,46
+3817,Placebo,10,m,38
+3818,Mitch Miller & the Sing-Along Gang,1,v,47
+3819,Rahsaan Patterson,0,u,46
+3820,Matt Bianco,0,u,46
+3821,New Found Glory,6,B,1
+3822,Jonathan Coulton,0,u,46
+3823,Eluveitie,0,u,46
+3824,Rage,0,u,46
+3825,El DeBarge,5,u,46
+3826,Harold Land,1,u,46
+3827,James Moody,3,u,46
+3828,MiklÃ³s RÃ³zsa,3,v,47
+3829,Leonard Rosenman,1,v,47
+3830,10 Years,0,u,46
+3831,3 Doors Down,3,u,46
+3832,Paco de LucÃ­a,2,v,47
+3833,Jesse Cook,0,u,46
+3834,Gipsy Kings,2,v,47
+3835,Floyd Cramer,2,v,47
+3836,Ronnie Foster,1,u,46
+3837,Will Ackerman,3,u,46
+3838,Oscar Brand,1,v,47
+3839,Rammstein,0,u,46
+3840,Nitzer Ebb,6,u,46
+3841,New Model Army,1,u,46
+3842,Naked Eyes,2,u,46
+3843,New Musik,1,u,46
+3844,Mark Wills,0,u,46
+3845,Marmalade,0,u,46
+3846,Hollywood Undead,0,u,46
+3847,Mitch Miller,2,v,47
+3848,Phil Ramone,1,v,47
+3849,Nicholas Payton,0,u,46
+3850,Peter Sarstedt,1,v,47
+3851,Frankie Ruiz,2,v,47
+3852,Jerry Rivera,1,u,46
+3853,Rey Ruiz,1,u,46
+3854,Wilfrido Vargas,1,v,47
+3855,Pieces of a Dream,0,u,46
+3856,CÃ©u,0,u,46
+3857,Buddy Clark,1,v,47
+3858,Raul Malo,0,u,46
+3859,Phil Vassar,0,u,46
+3860,Pilot,1,u,46
+3861,Rose Royce,0,u,46
+3862,Pinback,2,u,46
+3863,No Use for a Name,0,u,46
+3864,Jim Ed Brown,0,u,46
+3865,Jesus Jones,0,u,46
+3866,Nikki Jean,0,u,46
+3867,Roy Hargrove,0,u,46
+3868,Pink Martini,0,u,46
+3869,Buena Vista Social Club,3,v,47
+3870,Richard Hawley,0,u,46
+3871,Tindersticks,2,Z,25
+3872,Edwyn Collins,1,u,46
+3873,Jet,0,u,46
+3874,The Brian Jonestown Massacre,3,u,46
+3875,Jewel,3,u,46
+3876,Dar Williams,2,u,46
+3877,Plumb,1,u,46
+3878,Poe,1,u,46
+3879,Rebecca Lynn Howard,0,u,46
+3880,Ray Stevens,0,u,46
+3881,Plain White T's,0,u,46
+3882,Sugar Ray,2,u,46
+3883,Pure Prairie League,1,u,46
+3884,Jimmy Cobb,0,u,46
+3885,Ryuichi Sakamoto,8,u,46
+3886,Kai Winding,0,u,46
+3887,Men at Large,0,u,46
+3888,Planet P Project,0,u,46
+3889,Kajagoogoo,0,u,46
+3890,Haircut 100,1,u,46
+3891,Rick Braun,0,u,46
+3892,Porno for Pyros,0,u,46
+3893,Ruben Studdard,0,u,46
+3894,Dave Hollister,3,u,46
+3895,Karen Akers,0,u,46
+3896,Ruby Braff,0,v,47
+3897,Jimmy McPartland,1,v,47
+3898,Rick Trevino,0,u,46
+3899,Ricky Martin,3,u,46
+3900,Royal Crown Revue,0,A,0
+3901,The Mothers of Invention,4,u,46
+3902,Oysterhead,1,u,46
+3903,Karunesh,1,u,46
+3904,The Chantays,1,u,46
+3905,Rupee,0,u,46
+3906,Jimmy Giuffre,1,u,46
+3907,Larry Graham,5,v,47
+3908,Michael Henderson,2,u,46
+3909,Kasabian,0,u,46
+3910,New Grass Revival,1,u,46
+3911,Marta SÃ¡nchez,0,u,46
+3912,Mecano,1,v,47
+3913,Propellerheads,0,u,46
+3914,Rudy Ray Moore,1,v,47
+3915,Katrina & the Waves,1,u,46
+3916,Kano,0,u,46
+3917,Paramore,1,d,29
+3918,Yeah Yeah Yeahs,4,j,35
+3919,Avril Lavigne,14,u,46
+3920,Dropkick Murphys,4,B,1
+3921,Martin Rev,0,u,46
+3922,Rihanna,9,t,45
+3923,BeyoncÃ©,14,t,45
+3924,Shakira,2,t,45
+3925,Martha Wainwright,0,u,46
+3926,Lata Mangeshkar,2,v,47
+3927,Kavita Krishnamurthy,0,v,47
+3928,Manos Hadjidakis,1,v,47
+3929,Wolf Parade,0,u,46
+3930,Ugly Casanova,1,v,47
+3931,Kathryn Williams,0,u,46
+3932,Sara Bareilles,0,o,40
+3933,Nara LeÃ£o,1,u,46
+3934,Natalie Grant,0,u,46
+3935,Bananarama,9,u,46
+3936,Philip Wesley,0,u,46
+3937,Masters of Reality,2,u,46
+3938,Trouble,1,u,46
+3939,Brandi Carlile,1,u,46
+3940,Nappy Brown,0,v,47
+3941,Mass Production,0,u,46
+3942,Nat Adderley,0,u,46
+3943,Meredith Monk,3,v,47
+3944,Ronnie Self,1,v,47
+3945,The Monotones,1,v,47
+3946,The Wild Tchoupitoulas,1,v,47
+3947,Metric,1,u,46
+3948,mewithoutYou,0,u,46
+3949,Mastodon,1,u,46
+3950,Chiodos,0,B,1
+3951,Red Rat,0,u,46
+3952,The Click Five,0,u,46
+3953,Neal McCoy,0,u,46
+3954,Seven Mary Three,3,u,46
+3955,Vikki Carr,1,v,47
+3956,North Mississippi Allstars,0,u,46
+3957,Rachelle Ferrell,1,u,46
+3958,Matt Nathanson,0,u,46
+3959,Five for Fighting,1,u,46
+3960,Regina Spektor,2,Y,24
+3961,Reel Big Fish,3,Q,16
+3962,El Michels Affair,0,u,46
+3963,Lafayette Afro Rock Band,1,v,47
+3964,Cymande,1,v,47
+3965,Mandrill,1,u,46
+3966,Norma Jean,0,u,46
+3967,Norman Blake,0,u,46
+3968,Norman Brown,0,u,46
+3969,Material Issue,1,u,46
+3970,Mason Jennings,0,u,46
+3971,Aly & AJ,0,u,46
+3972,Atomic Kitten,8,t,45
+3973,Michelle Branch,2,u,46
+3974,Hilary Duff,5,u,46
+3975,OK Go,0,u,46
+3976,Fountains of Wayne,5,u,46
+3977,Railroad Earth,0,u,46
+3978,Next,1,u,46
+3979,James Blunt,0,u,46
+3980,Be Your Own Pet,0,u,46
+3981,Zac Brown,0,u,46
+3982,Brad Paisley,3,u,46
+3983,Rascal Flatts,4,u,46
+3984,Ohio Express,2,u,46
+3985,Ryan Leslie,0,u,46
+3986,Esperanza Spalding,0,t,45
+3987,Nena,1,u,46
+3988,Nick Heyward,0,u,46
+3989,Maxine Brown,1,u,46
+3990,Cat Anderson,1,v,47
+3991,Randy Scruggs,0,u,46
+3992,The Go! Team,0,G,6
+3993,Michelle Williams,0,u,46
+3994,Yolanda Adams,4,u,46
+3995,Michael Ruff,0,u,46
+3996,Randy Waldman,0,u,46
+3997,Michael White,0,u,46
+3998,Alvin & the Chipmunks,3,v,47
+3999,Crazy Frog,0,u,46
+4000,Nickel Creek,2,u,46
+4001,Rhonda Vincent,2,u,46
+4002,Tim O'Brien,1,u,46
+4003,Alison Krauss,5,u,46
+4004,Scott Nygaard,1,u,46
+4005,Stuart Duncan,1,u,46
+4006,Opeth,0,u,46
+4007,Nerf Herder,1,u,46
+4008,Mclusky,0,u,46
+4009,Shellac,3,u,46
+4010,Jessie Hill,1,v,47
+4011,Patty Duke,3,v,47
+4012,Lecrae,0,u,46
+4013,Men of Standard,1,v,47
+4014,TobyMac,2,u,46
+4015,Ratatat,0,p,41
+4016,Mike Birbiglia,0,u,46
+4017,Adam Sandler,2,u,46
+4018,Brian Regan,2,u,46
+4019,Mitch Hedberg,2,u,46
+4020,Me First and the Gimme Gimmes,0,B,1
+4021,Ray Anthony,0,v,47
+4022,Ray J,1,u,46
+4023,The Motors,0,u,46
+4024,The Microphones,0,u,46
+4025,Tygers of Pan Tang,1,v,47
+4026,John Scofield,3,u,46
+4027,The Lounge Lizards,2,u,46
+4028,Medicine,0,u,46
+4029,Meredith Brooks,1,u,46
+4030,Maria Callas,1,v,47
+4031,Nicolette Larson,0,u,46
+4032,Meli'sa Morgan,0,u,46
+4033,Medwyn Goodall,0,u,46
+4034,Ready for the World,0,u,46
+4035,Ray Nance,1,v,47
+4036,The Peasall Sisters,0,u,46
+4037,The RH Factor,0,u,46
+4038,The Radiators,4,u,46
+4039,Phil Manzanera,2,u,46
+4040,Milli Vanilli,3,t,45
+4041,Ralfi Pagan,0,u,46
+4042,Mike Stern,0,u,46
+4043,Otis Taylor,1,u,46
+4044,The Expendables,0,u,46
+4045,The Slackers,4,u,46
+4046,Dance Hall Crashers,3,u,46
+4047,The Tubes,2,u,46
+4048,Mingus Big Band,0,u,46
+4049,The Marcels,1,v,47
+4050,The Shins,4,u,46
+4051,Miracle Legion,4,u,46
+4052,Marconi Union,0,u,46
+4053,The Godz,5,u,46
+4054,The Six Parts Seven,0,u,46
+4055,Nivea,0,u,46
+4056,Mista,0,u,46
+4057,Matt Costa,0,u,46
+4058,Donavon Frankenreiter,1,h,33
+4059,The Miracles,2,u,46
+4060,2 Brothers on the 4th Floor,0,u,46
+4061,DÃ³ris Monteiro,1,v,47
+4062,The Naked Brothers Band,0,u,46
+4063,The King Khan & BBQ Show,0,u,46
+4064,Reckless Kelly,0,u,46
+4065,Methods of Mayhem,0,u,46
+4066,Donna Lewis,0,u,46
+4067,Messiah,1,u,46
+4068,CSS,0,u,46
+4069,The Rapture,4,F,5
+4070,The Weepies,1,u,46
+4071,The Kooks,0,u,46
+4072,Mest,0,u,46
+4073,Red Simpson,0,u,46
+4074,Red Sovine,0,v,47
+4075,Off Broadway,0,u,46
+4076,Editors,0,u,46
+4077,Okkervil River,1,u,46
+4078,Belanova,0,u,46
+4079,Nuclear Assault,0,u,46
+4080,Old 97's,0,u,46
+4081,Nuyorican Soul,0,v,47
+4082,Old Crow Medicine Show,0,u,46
+4083,Olga TaÃ±Ã³n,0,u,46
+4084,Gene Kelly,4,v,47
+4085,Of Montreal,1,u,46
+4086,Omarion,2,u,46
+4087,Ashley Tisdale,1,u,46
+4088,Lindsay Lohan,4,u,46
+4089,Mick Taylor,1,u,46
+4090,Klaxons,0,S,18
+4091,The Shamen,1,v,47
+4092,Taylor Swift,1,u,46
+4093,Michel Berger,0,u,46
+4094,The Matches,0,B,1
+4095,The National,0,u,46
+4096,The Moldy Peaches,0,u,46
+4097,The Subdudes,0,u,46
+4098,The Outfield,0,u,46
+4099,The Mooney Suzuki,0,u,46
+4100,A Skylit Drive,0,u,46
+4101,Mika,0,u,46
+4102,Scissor Sisters,2,t,45
+4103,Rufus Wainwright,2,u,46
+4104,Corbin Bleu,0,u,46
+4105,Madina Lake,0,u,46
+4106,Collie Buddz,0,u,46
+4107,3LW,0,u,46
+4108,Texas Tornados,2,u,46
+4109,Big Jay McNeely,3,v,47
+4110,Boots Randolph,1,v,47
+4111,The New Pornographers,0,u,46
+4112,The String Cheese Incident,0,u,46
+4113,Marsha Ambrosius,2,u,46
+4114,A Perfect Circle,1,u,46
+4115,Anita Ward,0,u,46
+4116,The Motels,0,u,46
+4117,Dance Gavin Dance,0,u,46
+4118,Midtown,1,i,34
+4119,Millencolin,1,Q,16
+4120,Off with Their Heads,0,u,46
+4121,Crucifix,1,v,47
+4122,Hula,1,v,47
+4123,The Tractors,0,u,46
+4124,The Pietasters,0,u,46
+4125,The Verve Pipe,0,u,46
+4126,Sugar,2,v,47
+4127,The Vapors,1,u,46
+4128,Harpers Bizarre,1,u,46
+4129,Red Mitchell,1,v,47
+4130,Sugarland,0,u,46
+4131,The Witnesses,0,u,46
+4132,Mike Shinoda,0,u,46
+4133,Ingrid Michaelson,0,p,41
+4134,Thirty Seconds to Mars,1,u,46
+4135,The Starting Line,2,u,46
+4136,MoKenStef,0,u,46
+4137,La Sonora Dinamita,2,v,47
+4138,Orquesta AragÃ³n,2,v,47
+4139,The Rockin' Berries,0,u,46
+4140,The Ocean Blue,0,u,46
+4141,Memphis Slim,4,v,47
+4142,Sunnyland Slim,1,v,47
+4143,The Pop Group,3,u,46
+4144,Fifty Foot Hose,1,v,47
+4145,The Wonder Stuff,1,u,46
+4146,Anthony B,0,u,46
+4147,Caifanes,1,v,47
+4148,La Ley,1,v,47
+4149,El Tri,1,u,46
+4150,Mano Negra,1,v,47
+4151,Moloko,0,G,6
+4152,The Cave Singers,0,u,46
+4153,Silver Jews,2,u,46
+4154,The Walkmen,0,h,33
+4155,Steeleye Span,9,u,46
+4156,The Rivieras,1,u,46
+4157,Joey Dee,2,v,47
+4158,The Remains,2,j,35
+4159,Guadalcanal Diary,2,u,46
+4160,The Royal Guardsmen,0,v,47
+4161,Our Lady Peace,3,u,46
+4162,Three Days Grace,2,u,46
+4163,Toadies,1,u,46
+4164,Machines of Loving Grace,3,u,46
+4165,Suffocation,1,u,46
+4166,The Power Station,0,u,46
+4167,Franco,2,v,47
+4168,Mr. Fingers,1,v,47
+4169,The Samples,0,u,46
+4170,Thrice,0,u,46
+4171,Eddie Safranski,1,v,47
+4172,Another Bad Creation,1,u,46
+4173,Anouk,0,u,46
+4174,The Rentals,1,u,46
+4175,Captain Beyond,2,u,46
+4176,Mindless Self Indulgence,0,u,46
+4177,The Salsoul Orchestra,0,u,46
+4178,Wolfgang Amadeus Mozart,1,v,47
+4179,Adina Howard,1,u,46
+4180,Adema,0,u,46
+4181,Minus the Bear,0,u,46
+4182,The Rembrandts,0,u,46
+4183,Miroslav Vitous,0,u,46
+4184,Mirwais,0,u,46
+4185,Adriana Calcanhotto,0,u,46
+4186,Zap Pow,1,v,47
+4187,Brownsville Station,1,j,35
+4188,12 Stones,0,u,46
+4189,The Hondells,1,v,47
+4190,Against Me!,0,a,26
+4191,Seaweed,2,v,47
+4192,Luke Bryan,0,u,46
+4193,Mother Love Bone,0,u,46
+4194,Yo-Yo,1,v,47
+4195,Miranda Lambert,1,u,46
+4196,Tift Merritt,2,u,46
+4197,Miri Ben-Ari,0,u,46
+4198,Adele,3,o,40
+4199,Tito Nieves,0,u,46
+4200,The Sounds,0,u,46
+4201,Al Hirt,0,v,47
+4202,Mudvayne,1,u,46
+4203,Al Kooper,1,u,46
+4204,Audio Adrenaline,2,u,46
+4205,Carman,1,u,46
+4206,As I Lay Dying,0,u,46
+4207,Cannibal Corpse,3,u,46
+4208,Snapcase,2,u,46
+4209,The Soup Dragons,1,u,46
+4210,Flight of the Conchords,0,O,14
+4211,Muse,4,u,46
+4212,Porcupine Tree,1,u,46
+4213,Tom Russell,0,I,8
+4214,Thelma Houston,0,u,46
+4215,Alcatrazz,0,u,46
+4216,Albertina Walker,0,v,47
+4217,Alex Bugnon,0,u,46
+4218,Lenny Williams,1,u,46
+4219,Piebald,1,u,46
+4220,Brian Poole & the Tremeloes,0,u,46
+4221,Mr. Scruff,0,u,46
+4222,Tommy Flanagan,2,v,47
+4223,Brian Tyler,0,u,46
+4224,Danny Elfman,1,O,14
+4225,Cactus,2,u,46
+4226,Peter Murphy,2,u,46
+4227,My Morning Jacket,4,u,46
+4228,Brian Culbertson,0,u,46
+4229,Gerald Albright,1,u,46
+4230,The Brecker Brothers,1,u,46
+4231,Camila,0,u,46
+4232,Alejandra GuzmÃ¡n,1,v,47
+4233,Stonewall Jackson,1,v,47
+4234,The Bucketheads,0,u,46
+4235,Bruce Dickinson,1,u,46
+4236,Mystery Jets,1,u,46
+4237,Bright Eyes,7,u,46
+4238,Girls Aloud,0,u,46
+4239,Busted,2,u,46
+4240,The Raconteurs,0,u,46
+4241,The Dead Weather,1,u,46
+4242,Anthony Newley,1,u,46
+4243,Chrisette Michele,0,u,46
+4244,Jill Scott,5,u,46
+4245,Cabas,0,u,46
+4246,Flyleaf,0,u,46
+4247,Skillet,1,u,46
+4248,Buckcherry,0,u,46
+4249,Magnus Karlsson,0,u,46
+4250,Buddy Emmons,0,v,47
+4251,MGMT,0,u,46
+4252,Bring Me the Horizon,0,Z,25
+4253,BBMak,1,v,47
+4254,Joe Arroyo,0,v,47
+4255,Sasha,1,v,47
+4256,Basshunter,0,u,46
+4257,Armin van Buuren,1,v,47
+4258,TiÃ«sto,3,u,46
+4259,Hellyeah,0,u,46
+4260,Dailey & Vincent,0,v,47
+4261,Serge Chaloff,1,v,47
+4262,Gustavo Cerati,0,u,46
+4263,Daniel Powter,0,u,46
+4264,Labi Siffre,1,v,47
+4265,Melody Gardot,0,h,33
+4266,Puffy AmiYumi,1,v,47
+4267,The Time,3,u,46
+4268,Gilbert O'Sullivan,0,u,46
+4269,Jazmine Sullivan,1,u,46
+4270,Matt and Kim,0,t,45
+4271,Cold War Kids,0,h,33
+4272,Gilberto Santa Rosa,1,u,46
+4273,El Gran Combo de Puerto Rico,3,v,47
+4274,Tito Rodriguez,1,v,47
+4275,"Pete ""El Conde"" RodrÃ­guez",1,v,47
+4276,The Gaslight Anthem,0,h,33
+4277,Jonas Brothers,1,u,46
+4278,Jesse McCartney,4,u,46
+4279,Hanson,6,u,46
+4280,Witch,0,u,46
+4281,J. Holiday,1,u,46
+4282,Cousin Emmy,1,v,47
+4283,Miley Cyrus,0,u,46
+4284,Ashlee Simpson,4,u,46
+4285,The Bird and the Bee,0,u,46
+4286,April March,1,u,46
+4287,"Orlando ""Cachaito"" Lopez",1,v,47
+4288,Man Parrish,3,u,46
+4289,The Wreckers,0,u,46
+4290,CamarÃ³n de la Isla,2,v,47
+4291,HammerFall,0,u,46
+4292,Veil of Maya,0,u,46
+4293,Hot Chip,0,F,5
+4294,Hardline,0,u,46
+4295,Natasha Bedingfield,1,u,46
+4296,Fred Anderson,0,u,46
+4297,Damn Yankees,0,u,46
+4298,Maktub,0,u,46
+4299,Glass Candy,0,u,46
+4300,MaxÃ¯mo Park,0,u,46
+4301,Hayes Carll,0,u,46
+4302,Ray Wylie Hubbard,1,v,47
+4303,Steve Young,1,u,46
+4304,Blaze Foley,2,u,46
+4305,Rogue Wave,0,u,46
+4306,Jason Isbell,0,u,46
+4307,Kenny Wayne Shepherd,1,u,46
+4308,Lily Allen,1,T,19
+4309,Colbie Caillat,0,u,46
+4310,Daniel Santos,1,v,47
+4311,Kat DeLuna,0,u,46
+4312,Milly Quezada,1,v,47
+4313,Justin Townes Earle,0,u,46
+4314,Son Volt,3,u,46
+4315,Dangerous Toys,0,u,46
+4316,Daughtry,0,u,46
+4317,Nickelback,6,u,46
+4318,Fuel,2,u,46
+4319,Dalis Car,0,u,46
+4320,Saving Abel,0,u,46
+4321,Stuff,0,u,46
+4322,The Cookies,1,v,47
+4323,Ocean,0,u,46
+4324,Angels & Airwaves,1,u,46
+4325,David Ruffin,1,v,47
+4326,Taio Cruz,0,u,46
+4327,Frightened Rabbit,0,u,46
+4328,Hepcat,0,u,46
+4329,4Him,0,u,46
+4330,Marcy Playground,0,u,46
+4331,Animotion,0,u,46
+4332,Paolo Nutini,1,u,46
+4333,Damien Rice,4,u,46
+4334,Freda Payne,1,u,46
+4335,Modern English,2,u,46
+4336,St. Vincent,0,o,40
+4337,A Taste of Honey,0,u,46
+4338,Adamski,1,v,47
+4339,The Edwin Hawkins Singers,2,v,47
+4340,The Used,4,d,29
+4341,Bappi Lahiri,1,v,47
+4342,A.R. Rahman,0,v,47
+4343,Sun Kil Moon,0,u,46
+4344,Rhiannon Giddens,0,u,46
+4345,Giuseppe di Stefano,1,v,47
+4346,Sufjan Stevens,3,u,46
+4347,Camera Obscura,1,u,46
+4348,Anthony Hamilton,1,u,46
+4349,The Vogues,0,u,46
+4350,Subhumans,0,u,46
+4351,The Vines,0,u,46
+4352,The Subways,0,u,46
+4353,Ash,2,u,46
+4354,Girls at Our Best!,1,v,47
+4355,Buffalo Tom,5,u,46
+4356,APB,0,u,46
+4357,Willie Johnson,1,v,47
+4358,The Waitresses,0,u,46
+4359,Acoustic Alchemy,0,u,46
+4360,MÃ³nica Naranjo,0,t,45
+4361,Mina,1,v,47
+4362,The Dangerous Summer,1,u,46
+4363,Moodymann,1,u,46
+4364,Crookers,0,u,46
+4365,Armand Van Helden,2,u,46
+4366,Los Campesinos!,1,u,46
+4367,Broken Social Scene,2,u,46
+4368,Thom Yorke,1,u,46
+4369,Yonder Mountain String Band,0,u,46
+4370,Monica Zetterlund,0,v,47
+4371,Monty Alexander,0,u,46
+4372,The Weakerthans,0,u,46
+4373,Yarbrough & Peoples,0,u,46
+4374,Lecuona Cuban Boys,2,v,47
+4375,Noro Morales,2,v,47
+4376,Theory of a Deadman,0,u,46
+4377,April Wine,0,u,46
+4378,Acceptance,0,u,46
+4379,Tiger Army,0,u,46
+4380,Buckethead,0,u,46
+4381,Motion City Soundtrack,3,u,46
+4382,Afro-Cuban All Stars,0,v,47
+4383,Against All Authority,0,u,46
+4384,Arch Enemy,0,u,46
+4385,A.R. Kane,4,u,46
+4386,After 7,0,u,46
+4387,The Originals,1,v,47
+4388,Julian Bream,1,v,47
+4389,Mr. Big,0,u,46
+4390,Steve Perry,1,u,46
+4391,John Waite,1,u,46
+4392,Mother Earth,0,u,46
+4393,Aqua,0,t,45
+4394,Ziggy Marley & the Melody Makers,0,u,46
+4395,Taken by Trees,0,p,41
+4396,Todd Rhodes,1,u,46
+4397,Dirty Heads,0,u,46
+4398,Tippa Irie,1,v,47
+4399,The Upsetters,1,v,47
+4400,The Ethiopians,2,v,47
+4401,The Techniques,3,v,47
+4402,Tinariwen,1,u,46
+4403,Toumani DiabatÃ©,2,v,47
+4404,Tiny Tim,0,v,47
+4405,Aim,0,u,46
+4406,Afro Celt Sound System,0,u,46
+4407,Arthur Conley,1,v,47
+4408,Gene Watson,1,u,46
+4409,Classics IV,1,v,47
+4410,Aida Cuevas,0,v,47
+4411,Caribou,2,j,35
+4412,MK,1,v,47
+4413,Timmy Regisford,1,v,47
+4414,Kim Wilde,1,v,47
+4415,Tomahawk,0,u,46
+4416,Metro Station,0,u,46
+4417,Mae,1,v,47
+4418,Four Year Strong,1,u,46
+4419,The Fratellis,0,u,46
+4420,Melanie C,1,v,47
+4421,Todd Snider,0,V,21
+4422,Brainstorm,0,u,46
+4423,The Tokens,1,v,47
+4424,Los del Rio,1,u,46
+4425,My Life with the Thrill Kill Kult,0,u,46
+4426,Mushroomhead,0,u,46
+4427,Billy Thorpe,2,v,47
+4428,Aldo Nova,0,u,46
+4429,The Infamous Stringdusters,0,u,46
+4430,JoaquÃ­n Sabina,1,v,47
+4431,Mr. Mister,0,u,46
+4432,Pretty Ricky,1,u,46
+4433,The Bothy Band,1,v,47
+4434,Alain Bashung,0,u,46
+4435,The Bouncing Souls,1,a,26
+4436,Mya,0,u,46
+4437,TonÃ©x,0,u,46
+4438,Brick,0,u,46
+4439,"Bernard ""Pretty"" Purdie",1,v,47
+4440,Brian Blade,0,u,46
+4441,Bronski Beat,0,u,46
+4442,The Bravery,0,u,46
+4443,Joshua Radin,0,u,46
+4444,Britny Fox,0,u,46
+4445,Seether,0,u,46
+4446,The Brooklyn Tabernacle Choir,0,u,46
+4447,Aslan,0,u,46
+4448,Bulletboys,0,u,46
+4449,Stone Sour,0,u,46
+4450,Amy Winehouse,8,l,37
+4451,Jamey Johnson,0,u,46
+4452,Reik,0,u,46
+4453,Heatwave,1,v,47
+4454,James Mason,1,v,47
+4455,Strangefolk,0,u,46
+4456,Breakwater,0,u,46
+4457,Rufus & Chaka Khan,1,v,47
+4458,Buddy Tate,0,u,46
+4459,David Ball,0,u,46
+4460,YACHT,0,u,46
+4461,Eric Church,0,u,46
+4462,Jordan Pruitt,0,u,46
+4463,Strunz & Farah,0,v,47
+4464,Strawberry Switchblade,0,u,46
+4465,Dicks,1,v,47
+4466,Katharine McPhee,0,u,46
+4467,Danity Kane,0,u,46
+4468,CKY,0,u,46
+4469,Hot Lips Page,3,v,47
+4470,Atlas Sound,0,p,41
+4471,David Benoit,0,u,46
+4472,Buck-O-Nine,0,d,29
+4473,The Robins,1,v,47
+4474,The Balfa Brothers,1,v,47
+4475,Strike Anywhere,0,a,26
+4476,Ryan Bingham,0,h,33
+4477,David Bromberg,0,u,46
+4478,Shiny Toy Guns,0,u,46
+4479,Buddy DeFranco,0,v,47
+4480,Buddy Greco,0,u,46
+4481,Jackson Do Pandeiro,2,v,47
+4482,Five Finger Death Punch,0,u,46
+4483,Coal Chamber,1,u,46
+4484,Powerman 5000,1,u,46
+4485,Buster Brown,0,v,47
+4486,Bushman,0,u,46
+4487,Jason Derulo,0,t,45
+4488,Burial,0,M,12
+4489,Yeasayer,0,u,46
+4490,Animal Collective,7,r,43
+4491,David Cross,0,u,46
+4492,Burzum,0,u,46
+4493,C.W. McCall,0,u,46
+4494,The Menzingers,0,u,46
+4495,Swingin' Utters,1,h,33
+4496,Camouflage,0,u,46
+4497,Justice,2,j,35
+4498,Cute Is What We Aim For,0,u,46
+4499,Guaco,0,u,46
+4500,Poncho Sanchez,1,u,46
+4501,H-Town,0,u,46
+4502,Guttermouth,0,d,29
+4503,Memphis May Fire,0,u,46
+4504,Gianluca Grignani,0,u,46
+4505,Vasco Rossi,1,v,47
+4506,OneRepublic,0,u,46
+4507,Glenn Frey,0,u,46
+4508,Patrick Cowley,2,v,47
+4509,Hercules & Love Affair,0,u,46
+4510,Gino Soccio,1,v,47
+4511,Cassius Clay,1,v,47
+4512,Girl Talk,0,u,46
+4513,Caviar,0,u,46
+4514,Gary McFarland,0,u,46
+4515,H2O,0,C,2
+4516,Vampire Weekend,3,u,46
+4517,The Budos Band,1,u,46
+4518,Glenn Lewis,0,u,46
+4519,The Dodos,0,u,46
+4520,Poi Dog Pondering,1,v,47
+4521,Bon Iver,6,u,46
+4522,Calexico,3,h,33
+4523,Keri Hilson,2,u,46
+4524,Missy Higgins,0,u,46
+4525,Playero,2,v,47
+4526,Gorillaz,1,F,5
+4527,Vicki Sue Robinson,1,v,47
+4528,Mal Waldron,0,v,47
+4529,Mad Season,3,u,46
+4530,Godspeed You! Black Emperor,0,u,46
+4531,The Jesters,1,v,47
+4532,Cascada,0,t,45
+4533,The Knife,2,q,42
+4534,Teenage Bottlerocket,0,u,46
+4535,The Maine,0,u,46
+4536,Dan Hill,0,u,46
+4537,The Cribs,0,u,46
+4538,Dan Tyminski,0,u,46
+4539,Jack's Mannequin,0,u,46
+4540,Los Huracanes del Norte,1,v,47
+4541,Enrique GuzmÃ¡n,1,v,47
+4542,Gogol Bordello,0,u,46
+4543,"Harry ""Sweets"" Edison",1,v,47
+4544,Goldfinger,1,h,33
+4545,Aunt Molly Jackson,1,v,47
+4546,Rose Maddox,1,v,47
+4547,Within Temptation,0,u,46
+4548,Iced Earth,3,u,46
+4549,The Felice Brothers,0,u,46
+4550,Golden Smog,0,u,46
+4551,Hella,0,u,46
+4552,HÃ©ctor Montemayor,0,v,47
+4553,Marcus Roberts,0,u,46
+4554,Chuck Rainey,1,v,47
+4555,Verdine White,1,v,47
+4556,The Sapphires,1,v,47
+4557,Lloyd,2,u,46
+4558,Marc Dorsey,0,u,46
+4559,Ray Conniff,1,v,47
+4560,Acker Bilk,1,v,47
+4561,Dane Cook,0,u,46
+4562,The Manhattan Transfer,0,K,10
+4563,Three Dog Night,1,l,37
+4564,Daryl Coley,0,v,47
+4565,Day26,1,u,46
+4566,Jean-Jacques Perrey,1,v,47
+4567,Mason Williams,1,v,47
+4568,Yael NaÃ¯m,0,p,41
+4569,Hezekiah Walker,0,u,46
+4570,Glenn Jones,0,u,46
+4571,Michael Chapman,1,v,47
+4572,Hi-Five,0,u,46
+4573,Darryl Worley,1,u,46
+4574,Daniel O'Donnell,0,u,46
+4575,Lyfe Jennings,1,u,46
+4576,Tex Beneke,1,v,47
+4577,Marc Broussard,0,u,46
+4578,William Clarke,0,u,46
+4579,Winger,0,u,46
+4580,Darkthrone,0,u,46
+4581,Xavier Rudd,0,u,46
+4582,Romeo Void,2,u,46
+4583,Xiu Xiu,1,u,46
+4584,Yami Bolo,0,u,46
+4585,Yellowjackets,0,u,46
+4586,Bidu SayÃ£o,2,v,47
+4587,Yellowcard,0,B,1
+4588,Leroy Hutson,1,v,47
+4589,Sabu Martinez,1,v,47
+4590,Joel Rafael,0,u,46
+4591,Z.Z. Hill,0,u,46
+4592,Vickie Winans,1,v,47
+4593,Avenged Sevenfold,3,u,46
+4594,Ryan Cabrera,0,u,46
+4595,Zakk Wylde,0,u,46
+4596,Gheorghe Zamfir,0,u,46
+4597,Zion & Lennox,0,u,46
+4598,ZhanÃ©,0,u,46
+4599,Brandon Heath,0,u,46
+4600,The Black Angels,0,u,46
+4601,Portugal. The Man,0,u,46
+4602,Ane Brun,0,j,35
+4603,Flying Lotus,4,u,46
+4604,Four Tet,3,g,32
+4605,Hannah Montana,1,u,46
+4606,Gojira,0,b,27
+4607,Paris Hilton,0,t,45
+4608,Boys Like Girls,0,u,46
+4609,Relient K,1,h,33
+4610,Born of Osiris,0,u,46
+4611,Newton Faulkner,0,h,33
+4612,Crystal Castles,0,u,46
+4613,Volbeat,0,u,46
+4614,Hank Williams III,1,u,46
+4615,Motionless in White,0,u,46
+4616,As Blood Runs Black,0,u,46
+4617,We the Kings,0,u,46
+4618,Jordin Sparks,0,u,46
+4619,Kellie Pickler,0,u,46
+4620,Corinne Bailey Rae,0,G,6
+4621,All Time Low,2,u,46
+4622,Gary Bartz,0,u,46
+4623,The Antlers,0,u,46
+4624,Gravity Kills,0,u,46
+4625,Frida,0,u,46
+4626,From First to Last,0,u,46
+4627,Enuff Z'nuff,0,u,46
+4628,Palomo,0,u,46
+4629,Alexander Robotnick,0,u,46
+4630,Spacehog,0,u,46
+4631,Alien Ant Farm,0,d,29
+4632,Danielle Dax,2,v,47
+4633,Sharon Shannon,0,u,46
+4634,Matt Monro,1,v,47
+4635,Steelheart,0,u,46
+4636,Train,1,u,46
+4637,Travis Barker,0,u,46
+4638,Alex Van Halen,1,v,47
+4639,Tracey Ullman,0,u,46
+4640,Bettye Swann,1,v,47
+4641,Allure,0,u,46
+4642,Trevor Jones,0,u,46
+4643,Switch,1,v,47
+4644,Troop,0,u,46
+4645,LeVert,2,u,46
+4646,TÃ©lÃ©popmusik,0,V,21
+4647,Paul Gilbert,0,u,46
+4648,Slide Hampton,0,u,46
+4649,Slaid Cleaves,0,u,46
+4650,Paul Kelly,0,u,46
+4651,Paul Overstreet,1,u,46
+4652,Anberlin,0,u,46
+4653,Steps,1,u,46
+4654,Stephen Schwartz,0,u,46
+4655,Trivium,0,u,46
+4656,ThalÃ­a,0,t,45
+4657,Supersuckers,0,u,46
+4658,Supreme Beings of Leisure,0,G,6
+4659,Andrew Dice Clay,0,u,46
+4660,Shivaree,0,u,46
+4661,Smile Empty Soul,0,u,46
+4662,Steve Lacy,0,u,46
+4663,Something Corporate,0,u,46
+4664,Sigue Sigue Sputnik,0,u,46
+4665,Andy Irvine,1,u,46
+4666,Paul Williams,0,u,46
+4667,The Album Leaf,1,u,46
+4668,Luis Alberto Spinetta,1,v,47
+4669,Pescado Rabioso,1,v,47
+4670,Snooks Eaglin,0,u,46
+4671,Snow,0,u,46
+4672,Sia,0,E,4
+4673,Sigur RÃ³s,4,u,46
+4674,Steve Hackett,2,u,46
+4675,Steve Harley & Cockney Rebel,0,u,46
+4676,The Avett Brothers,1,u,46
+4677,The Black Keys,3,u,46
+4678,Silversun Pickups,0,u,46
+4679,Syleena Johnson,0,u,46
+4680,The Bluegrass Album Band,0,u,46
+4681,Antonio MachÃ­n,1,v,47
+4682,Bloodhound Gang,0,u,46
+4683,Manfred Mann's Earth Band,1,v,47
+4684,Richard Adler,0,v,47
+4685,Blaque,0,u,46
+4686,Big D and the Kids Table,0,d,29
+4687,999,2,u,46
+4688,Bob Berg,0,u,46
+4689,Freestyle,1,v,47
+4690,Dr. Dog,1,u,46
+4691,Great Lake Swimmers,0,u,46
+4692,The Firm,0,u,46
+4693,The Fall of Troy,0,u,46
+4694,Blue Mountain,0,u,46
+4695,Erma Franklin,1,v,47
+4696,Tripping Daisy,1,v,47
+4697,Blue October,0,u,46
+4698,Folk Implosion,0,u,46
+4699,Clint Eastwood,1,v,47
+4700,The Cheetah Girls,0,u,46
+4701,Bill Charlap,0,u,46
+4702,The Gourds,0,u,46
+4703,Bob Luman,0,u,46
+4704,Bobby Watson,0,u,46
+4705,Johnny Bond,1,v,47
+4706,Bobby ValentÃ­n,0,v,47
+4707,The Connection,0,u,46
+4708,The Horrors,0,Y,24
+4709,Baha Men,0,u,46
+4710,Steve Arrington,1,v,47
+4711,Kenny Garrett,0,u,46
+4712,All Shall Perish,0,u,46
+4713,Kid Loco,0,u,46
+4714,Jimmy Barnes,1,v,47
+4715,Bobby McFerrin,0,L,11
+4716,Bonham,0,u,46
+4717,Billy Talent,0,u,46
+4718,Icehouse,0,u,46
+4719,Idina Menzel,0,u,46
+4720,Billy Walker,0,u,46
+4721,Pete Brown,1,v,47
+4722,The Kendalls,0,u,46
+4723,Black Rebel Motorcycle Club,0,u,46
+4724,Immature,1,u,46
+4725,Pearl Bailey,1,v,47
+4726,Ronnie Laws,1,v,47
+4727,Kim Waters,0,u,46
+4728,Klaus Badelt,0,u,46
+4729,The Wailin' Jennys,0,u,46
+4730,Nicole Scherzinger,0,u,46
+4731,Krishna Das,0,v,47
+4732,Kronos Quartet,0,u,46
+4733,Infectious Grooves,0,u,46
+4734,Chris Lord-Alge,0,u,46
+4735,Cherish,0,u,46
+4736,Cherry Poppin' Daddies,0,A,0
+4737,The Futureheads,0,u,46
+4738,Issac Delgado,0,u,46
+4739,Chris de Burgh,0,u,46
+4740,Koop,0,u,46
+4741,Kula Shaker,0,u,46
+4742,Kurt Elling,0,A,0
+4743,The Jazz Crusaders,2,v,47
+4744,La Bouche,0,u,46
+4745,J.K. & Co.,0,u,46
+4746,Compound Red,0,u,46
+4747,Lacuna Coil,0,u,46
+4748,Hellogoodbye,0,G,6
+4749,Battles,0,u,46
+4750,Chris Thile,0,u,46
+4751,Lara Fabian,0,u,46
+4752,Ladytron,1,p,41
+4753,The Normal,1,v,47
+4754,Aqualung,0,u,46
+4755,Jagjit Singh,0,v,47
+4756,Alec Wilder,1,v,47
+4757,Billy May,1,v,47
+4758,Jaheim,1,u,46
+4759,Eric BenÃ©t,2,u,46
+4760,Will Downing,1,u,46
+4761,Crumb,0,u,46
+4762,Clarence Clemons,0,u,46
+4763,Gym Class Heroes,0,u,46
+4764,Leela James,0,u,46
+4765,Cupid,0,u,46
+4766,The Donnas,0,u,46
+4767,Barney,0,u,46
+4768,Joanna Newsom,0,q,42
+4769,Dorival Caymmi,1,v,47
+4770,Jacob Do Bandolim,2,v,47
+4771,The Maytals,1,v,47
+4772,James Morrison,0,u,46
+4773,The Crests,0,u,46
+4774,James Newton Howard,0,u,46
+4775,Evanescence,0,j,35
+4776,The Decemberists,0,u,46
+4777,Barcelona,0,u,46
+4778,Explosions in the Sky,0,u,46
+4779,Dirty Vegas,0,u,46
+4780,Tony Vega,0,u,46
+4781,Bennie Maupin,0,u,46
+4782,Shai,0,u,46
+4783,Joey McIntyre,1,v,47
+4784,Dyke & the Blazers,0,u,46
+4785,E.U.,0,u,46
+4786,Shanice,0,u,46
+4787,Stabbing Westward,0,u,46
+4788,Cockney Rejects,1,u,46
+4789,Keren Ann,0,o,40
+4790,Diplo,1,D,3
+4791,Fila Brazillia,1,v,47
+4792,Electronic,1,u,46
+4793,Philip Bailey,1,v,47
+4794,Faithless,1,o,40
+4795,FM,0,u,46
+4796,CocoRosie,0,j,35
+4797,Fenix TX,0,h,33
+4798,EMF,0,u,46
+4799,Robert Francis,0,u,46
+4800,Doctor Ross,0,v,47
+4801,Fantasia,0,u,46
+4802,Kandi,2,v,47
+4803,Eddie Gale,0,u,46
+4804,Pierre Boulez,0,v,47
+4805,Eddie Shaw,0,v,47
+4806,Dolores Keane,0,v,47
+4807,Huey Lewis,1,u,46
+4808,Alfredo Gutierrez,1,v,47
+4809,Roberto Torres,1,v,47
+4810,Lisandro Meza,1,v,47
+4811,DiÃ³medes DÃ­az,1,v,47
+4812,Los Corraleros de Majagual,1,v,47
+4813,Laurindo Almeida,1,v,47
+4814,Toshiko Akiyoshi,0,u,46
+4815,Ralph Burns,1,v,47
+4816,Bobby Marchan,1,v,47
+4817,Finger Eleven,0,u,46
+4818,EmilÃ­ana Torrini,1,o,40
+4819,Flesh for Lulu,0,u,46
+4820,Dory Previn,0,v,47
+4821,Fun Lovin' Criminals,1,u,46
+4822,Gregory Hines,0,v,47
+4823,Casting Crowns,0,u,46
+4824,Catch 22,0,h,33
+4825,Grady Tate,3,u,46
+4826,Dream,0,u,46
+4827,The Dream Academy,0,u,46
+4828,Twila Paris,0,u,46
+4829,Drop Nineteens,0,u,46
+4830,Gang Green,2,v,47
+4831,LÃ©o FerrÃ©,1,v,47
+4832,Doves,0,u,46
+4833,Grim Reaper,0,u,46
+4834,Vertical Horizon,0,u,46
+4835,Luther Ingram,0,u,46
+4836,Alvin Lee,1,v,47
+4837,Cornelio Reyna,1,v,47
+4838,Los RelÃ¡mpagos del Norte,1,v,47
+4839,"Luther ""Guitar Junior"" Johnson",0,u,46
+4840,Charlie Hunter,0,u,46
+4841,Turtle Island String Quartet,0,u,46
+4842,JÃ³hann JÃ³hannsson,0,u,46
+4843,Tyrese,0,u,46
+4844,VÃ­ctor Manuelle,0,u,46
+4845,Joe Nichols,2,u,46
+4846,Jamie O'Neal,0,u,46
+4847,Jamie Principle,1,u,46
+4848,Lou Gramm,0,u,46
+4849,Vince Neil,0,u,46
+4850,Russell Malone,0,u,46
+4851,Joel Grey,0,v,47
+4852,Jane Monheit,0,u,46
+4853,Vonda Shepard,0,u,46
+4854,John Cafferty & the Beaver Brown Band,0,u,46
+4855,VolovÃ¡n,0,u,46
+4856,Uncle Sam,0,u,46
+4857,MÃºm,2,p,41
+4858,Jean Knight,0,u,46
+4859,Wade Bowen,1,u,46
+4860,Jenny Lewis,0,u,46
+4861,John Petrucci,0,u,46
+4862,Deep Blue Something,0,u,46
+4863,Bob Eberly,1,v,47
+4864,Jess Stacy,1,v,47
+4865,Leftover Salmon,0,u,46
+4866,The Millennium,0,u,46
+4867,John Legend,3,j,35
+4868,Deitrick Haddon,0,u,46
+4869,Debra Laws,0,u,46
+4870,Dawn Upshaw,0,u,46
+4871,The Sylvers,2,v,47
+4872,Hinder,0,u,46
+4873,Deva Premal,0,u,46
+4874,Devin Townsend,0,u,46
+4875,Grizzly Bear,1,u,46
+4876,Johnny Tillotson,0,v,47
+4877,Whoopi Goldberg,0,u,46
+4878,Dick Curless,0,v,47
+4879,Jon Bon Jovi,0,u,46
+4880,Frankie Carle,1,v,47
+4881,Bert Kaempfert,1,v,47
+4882,AndrÃ© Kostelanetz,1,v,47
+4883,LiberaciÃ³n,0,u,46
+4884,Horace Brown,0,u,46
+4885,Horace Parlan,0,u,46
+4886,El Chicano,0,u,46
+4887,Lightning Bolt,0,u,46
+4888,Maria McKee,0,u,46
+4889,Dierks Bentley,2,u,46
+4890,Liam Lynch,0,u,46
+4891,Louie Ramirez,0,v,47
+4892,Loose Ends,0,u,46
+4893,Lo Fidelity Allstars,0,u,46
+4894,Marisa Monte,0,u,46
+4895,Joyce,1,v,47
+4896,Loudness,0,u,46
+4897,Robben Ford,0,u,46
+4898,Lori McKenna,0,u,46
+4899,Rocket from the Crypt,2,u,46
+4900,Samantha Mumba,0,u,46
+4901,Chuckii Booker,1,v,47
+4902,Mark Morrison,0,v,47
+4903,Ron White,0,u,46
+4904,Lisa Fischer,0,u,46
+4905,The Babys,1,v,47
+4906,Pepe Aguilar,0,u,46
+4907,Junior Byles,1,v,47
+4908,Julieta Venegas,0,u,46
+4909,Jumbo,0,u,46
+4910,Julia Fordham,0,u,46
+4911,Rokia TraorÃ©,0,v,47
+4912,Save Ferris,0,u,46
+4913,Lit,0,u,46
+4914,Savage Garden,0,t,45
+4915,Nic Jones,1,v,47
+4916,Vanessa-Mae,0,u,46
+4917,Vanessa Bell Armstrong,0,u,46
+4918,Little Caesar,0,u,46
+4919,Vanessa Carlton,0,o,40
+4920,Velvet Revolver,0,u,46
+4921,SÃ©bastien Tellier,0,u,46
+4922,Jeffrey Gaines,0,u,46
+4923,Jennifer Paige,0,u,46
+4924,Michael Wycoff,0,u,46
+4925,D.J. Rogers,1,v,47
+4926,Section 25,0,u,46
+4927,Peter Erskine,0,u,46
+4928,Mel Lewis,1,u,46
+4929,Peter Bjorn and John,1,u,46
+4930,Pete Yorn,0,u,46
+4931,Phantom Planet,0,u,46
+4932,Norman Connors,0,u,46
+4933,Clap Your Hands Say Yeah,0,u,46
+4934,Ne-Yo,2,u,46
+4935,Mark-Almond,0,u,46
+4936,Lola Flores,1,v,47
+4937,Jerry Ross,0,v,47
+4938,Marlena Shaw,0,u,46
+4939,Marques Houston,1,u,46
+4940,Richard Cheese,0,T,19
+4941,Pitchshifter,0,u,46
+4942,Rotary Connection,1,u,46
+4943,RuPaul,0,t,45
+4944,Kaki King,0,u,46
+4945,Richard Elliot,0,u,46
+4946,Ruby,0,o,40
+4947,Kaskade,1,u,46
+4948,Powderfinger,0,u,46
+4949,Brooklyn Bridge,1,u,46
+4950,Primitive Radio Gods,1,u,46
+4951,Los Reyes del Camino,0,u,46
+4952,Egg Hunt,1,v,47
+4953,Keane,2,u,46
+4954,Pulse Ultra,0,u,46
+4955,Quarterflash,0,u,46
+4956,John Stewart,1,v,47
+4957,Keel,0,u,46
+4958,Natalia Lafourcade,0,u,46
+4959,Katy Perry,5,s,44
+4960,The Fray,3,u,46
+4961,Mary Mary,0,u,46
+4962,Corb Lund,0,u,46
+4963,Rachael Yamagata,0,h,33
+4964,Carrie Underwood,1,u,46
+4965,Nelson,0,u,46
+4966,Arif Mardin,1,v,47
+4967,Mat Kearney,0,u,46
+4968,Brett Dennen,0,u,46
+4969,KT Tunstall,0,h,33
+4970,Mary Youngblood,0,u,46
+4971,Raheem DeVaughn,1,u,46
+4972,Bullet for My Valentine,0,u,46
+4973,McFly,1,u,46
+4974,Randy VanWarmer,0,u,46
+4975,Mayday,0,u,46
+4976,Augustana,0,u,46
+4977,JosÃ© GonzÃ¡lez,0,u,46
+4978,Baby Rasta & Gringo,1,v,47
+4979,Nicky Jam,0,v,47
+4980,Janelle MonÃ¡e,0,t,45
+4981,The Browns,1,v,47
+4982,Nightwish,1,u,46
+4983,Nicole,0,u,46
+4984,Far East Movement,0,u,46
+4985,MercyMe,0,u,46
+4986,Russ Taff,1,v,47
+4987,Men at Work,0,u,46
+4988,TrentemÃ¸ller,1,v,47
+4989,Deadmau5,2,u,46
+4990,Metal Church,0,u,46
+4991,Merril Bainbridge,0,u,46
+4992,Red Rider,0,u,46
+4993,O-Town,0,u,46
+4994,Red Lorry Yellow Lorry,0,u,46
+4995,Reef,0,u,46
+4996,ReneÃ© Olstead,0,u,46
+4997,The O.C. Supertones,0,d,29
+4998,Michael BublÃ©,0,u,46
+4999,Republica,0,u,46
+5000,Revis,0,u,46
+5001,Michael Nyman,1,u,46
+5002,Michael Giacchino,0,u,46
+5003,Ocean Colour Scene,0,u,46
+5004,O'Bryan,0,u,46
+5005,The Muppets,0,u,46
+5006,Michal Urbaniak,0,u,46
+5007,The Olivia Tremor Control,1,u,46
+5008,Mijares,0,u,46
+5009,Midnight Star,0,u,46
+5010,The Radio Dept.,0,u,46
+5011,The Postal Service,4,u,46
+5012,The Romantics,0,u,46
+5013,The Producers,0,u,46
+5014,Mike Reid,0,u,46
+5015,Band of Horses,1,u,46
+5016,Los Secretos,0,u,46
+5017,Otep,0,u,46
+5018,The Saw Doctors,0,u,46
+5019,(hed) p.e.,0,u,46
+5020,Werly Fairburn,1,v,47
+5021,Alice Smith,0,p,41
+5022,Bat for Lashes,0,j,35
+5023,Hans Zimmer,3,u,46
+5024,Geoff Zanelli,0,u,46
+5025,Gnarls Barkley,2,u,46
+5026,Christian Finnegan,0,u,46
+5027,The Sword,0,u,46
+5028,Mayday Parade,0,u,46
+5029,Further Seems Forever,1,v,47
+5030,The Knocks,0,u,46
+5031,Someone Still Loves You Boris Yeltsin,0,u,46
+5032,4 Non Blondes,1,u,46
+5033,The Thermals,1,u,46
+5034,45 Grave,0,u,46
+5035,A Static Lullaby,0,u,46
+5036,The Tornados,0,u,46
+5037,The Veldt,0,u,46
+5038,The Tremeloes,1,u,46
+5039,The Whites,0,v,47
+5040,Alborosie,0,v,47
+5041,3 Inches of Blood,0,u,46
+5042,Sugababes,2,t,45
+5043,Escape the Fate,0,u,46
+5044,The Von Bondies,0,u,46
+5045,MUTEMATH,0,p,41
+5046,Thomas Newman,0,u,46
+5047,Aaron Carter,1,u,46
+5048,Thousand Foot Krutch,0,u,46
+5049,Sunshine Anderson,0,u,46
+5050,Therapy?,0,u,46
+5051,Monifah,0,u,46
+5052,Thunder,0,u,46
+5053,Adiemus,0,u,46
+5054,Armor for Sleep,0,u,46
+5055,Moxy FrÃ¼vous,0,u,46
+5056,Tim Hecker,0,u,46
+5057,Tom Cochrane,0,u,46
+5058,Alan Silvestri,0,u,46
+5059,Kaiser Chiefs,0,u,46
+5060,Brass Construction,0,u,46
+5061,Akon,2,u,46
+5062,Alannah Myles,0,u,46
+5063,Brant Bjork,0,u,46
+5064,Brad Mehldau,0,u,46
+5065,Breaking Benjamin,0,u,46
+5066,Brian Kennedy,0,u,46
+5067,N'Dea Davenport,0,u,46
+5068,Musical Youth,0,u,46
+5069,Musiq Soulchild,2,u,46
+5070,Cornelius Brothers & Sister Rose,1,v,47
+5071,Heather Headley,0,u,46
+5072,Tommy Edwards,0,u,46
+5073,Mychael Danna,0,u,46
+5074,Tom Robinson Band,1,v,47
+5075,Broadcast,1,l,37
+5076,Toninho Horta,0,u,46
+5077,The Brothers Four,0,v,47
+5078,The Easy Riders,1,v,47
+5079,Black Moth Super Rainbow,0,u,46
+5080,Mr. Vegas,0,u,46
+5081,A Day to Remember,0,Q,16
+5082,Sunny Sweeney,0,u,46
+5083,Holly Dunn,1,v,47
+5084,Mandisa,0,u,46
+5085,Streetlight Manifesto,0,Q,16
+5086,Morton Feldman,0,v,47
+5087,Georges Delerue,0,u,46
+5088,Leona Lewis,1,u,46
+5089,Guster,0,u,46
+5090,George Lopez,0,u,46
+5091,Candy Dulfer,0,u,46
+5092,Calvin Harris,3,g,32
+5093,Wilbert Harrison,1,v,47
+5094,Calvin Richardson,0,u,46
+5095,Giant,0,u,46
+5096,Gomez,0,h,33
+5097,Giorgia,0,u,46
+5098,Girls,0,u,46
+5099,Goldrush,0,u,46
+5100,Giuffria,0,u,46
+5101,Hank Cochran,0,v,47
+5102,Glass Tiger,0,u,46
+5103,Harvey Danger,0,u,46
+5104,Dan Bern,0,l,37
+5105,Mali Music,0,v,47
+5106,Goldfrapp,2,F,5
+5107,Nick Cave & the Bad Seeds,1,v,47
+5108,Dan the Automator,0,u,46
+5109,Danger Danger,0,u,46
+5110,Daniel Bedingfield,0,u,46
+5111,Man Man,0,h,33
+5112,Marc Johnson,0,u,46
+5113,Herb Alpert & the Tijuana Brass,0,v,47
+5114,Henry Gross,0,u,46
+5115,Marah,0,u,46
+5116,Darius Rucker,0,u,46
+5117,Alter Bridge,0,u,46
+5118,Hiroshima,0,u,46
+5119,Dave Barnes,0,u,46
+5120,Dave Dudley,0,u,46
+5121,Zack de la Rocha,0,u,46
+5122,Vanessa Hudgens,0,u,46
+5123,Dirty Pretty Things,0,u,46
+5124,The Veronicas,0,u,46
+5125,Tommy Trash,0,u,46
+5126,Beirut,0,u,46
+5127,Rodrigo Amarante,0,u,46
+5128,The Wonder Years,1,u,46
+5129,Comeback Kid,1,v,47
+5130,DÃ¢m-Funk,1,u,46
+5131,Mtume,1,v,47
+5132,The Red Jumpsuit Apparatus,0,u,46
+5133,Teddybears,0,u,46
+5134,Freur,0,u,46
+5135,Donell Jones,1,u,46
+5136,From Autumn to Ashes,0,u,46
+5137,Frou Frou,0,o,40
+5138,The White Tie Affair,0,u,46
+5139,Justin Nozuka,0,u,46
+5140,Fleet Foxes,1,u,46
+5141,Foals,1,u,46
+5142,Kodomo,0,u,46
+5143,Little Dragon,0,F,5
+5144,Duffy,0,u,46
+5145,Forever the Sickest Kids,0,u,46
+5146,Sharon Jones,0,u,46
+5147,Lady Gaga,3,t,45
+5148,Lykke Li,0,u,46
+5149,Selena Gomez,0,u,46
+5150,Demi Lovato,1,t,45
+5151,The Ting Tings,0,U,20
+5152,The War on Drugs,0,u,46
+5153,Karina,0,u,46
+5154,Rev Theory,0,u,46
+5155,Beach House,0,W,22
+5156,Bingo Players,0,u,46
+5157,3OH!3,0,u,46
+5158,Black Kids,0,u,46
+5159,Delta Spirit,0,u,46
+5160,Crystal Shawanda,0,u,46
+5161,Noah and the Whale,0,u,46
+5162,White Lies,0,u,46
+5163,Friendly Fires,0,u,46
+5164,Jake Owen,2,u,46
+5165,Passion Pit,0,u,46
+5166,Bag Raiders,0,u,46
+5167,STRFKR,0,u,46
+5168,El Guincho,0,u,46
+5169,Hey Monday,0,u,46
+5170,The Script,1,u,46
+5171,Never Shout Never,0,u,46
+5172,Matt Simons,0,u,46
+5173,The-Dream,3,u,46
+5174,Colt Ford,1,u,46
+5175,LMFAO,1,u,46
+5176,Bruno Mars,2,l,37
+5177,Stacy Barthe,0,u,46
+5178,Jigsaw,0,u,46
+5179,Cash Cash,1,u,46
+5180,Vengaboys,1,v,47
+5181,ATB,1,v,47
+5182,The Lonely Island,0,u,46
+5183,Melanie Fiona,0,u,46
+5184,Wavves,0,u,46
+5185,Shinyribs,0,u,46
+5186,Ida Maria,0,p,41
+5187,Cage the Elephant,0,u,46
+5188,Kristinia DeBarge,0,t,45
+5189,La Roux,0,u,46
+5190,Mumford & Sons,1,u,46
+5191,Matthew Halsall,0,u,46
+5192,Lukas Nelson,0,u,46
+5193,Nils Frahm,0,u,46
+5194,The Alan Parsons Project,0,u,46
+5195,Max Frost,0,u,46
+5196,Laura Bell Bundy,0,u,46
+5197,Ideal,0,u,46
+5198,Louis and Bebe Barron,0,v,47
+5199,Chris Young,0,u,46
+5200,Sheppard,0,u,46
+5201,Parkway Drive,0,u,46
+5202,Passenger,0,u,46
+5203,Slim,1,u,46
+5204,Karnivool,1,u,46
+5205,Christopher Tin,0,v,47
+5206,Jerrod Niemann,0,u,46
+5207,Cate Le Bon,0,m,38
+5208,Daniel Tosh,0,u,46
+5209,Josh Ward,0,u,46
+5210,Wisin & Yandel,1,u,46
+5211,Chino & Nacho,0,v,47
+5212,Tribal Seeds,0,u,46
+5213,Santigold,0,H,7
+5214,Daya,0,u,46
+5215,Tori Kelly,1,v,47
+5216,Jeremih,0,u,46
+5217,Trin-i-tee 5:7,0,u,46
+5218,Nosaj Thing,1,u,46
+5219,Brett Young,0,u,46
+5220,Miike Snow,0,u,46
+5221,She & Him,0,u,46
+5222,Asking Alexandria,0,u,46
+5223,Jesse Boykins III,0,u,46
+5224,Best Coast,0,u,46
+5225,Ellie Goulding,0,W,22
+5226,Florence + the Machine,2,f,31
+5227,Oneohtrix Point Never,0,u,46
+5228,Easton Corbin,1,u,46
+5229,Daley,0,u,46
+5230,Kat Graham,0,u,46
+5231,The Pretty Reckless,0,u,46
+5232,Swedish House Mafia,2,u,46
+5233,Mike Posner,0,u,46
+5234,Future Islands,0,u,46
+5235,Moe Bandy & Joe Stampley,0,v,47
+5236,Mulatu Astatke,0,u,46
+5237,Andy Grammer,0,u,46
+5238,X Japan,0,u,46
+5239,Elevation Worship,0,u,46
+5240,The Cab,0,u,46
+5241,Rationale,0,u,46
+5242,Deer Tick,0,h,33
+5243,The Dap-Kings Horns,0,u,46
+5244,William Michael Morgan,0,u,46
+5245,Teyana Taylor,0,u,46
+5246,Kurt Vile,0,u,46
+5247,Cory Morrow,1,v,47
+5248,Josh Abbott Band,0,u,46
+5249,One OK Rock,0,u,46
+5250,Tame Impala,0,u,46
+5251,Fever Ray,0,j,35
+5252,Local Natives,1,u,46
+5253,Surface,1,v,47
+5254,Kevin Lyttle,0,u,46
+5255,Broken Bells,0,u,46
+5256,Major Lazer,0,u,46
+5257,Imagine Dragons,0,u,46
+5258,Kevin Morby,0,u,46
+5259,Them Crooked Vultures,0,u,46
+5260,Sleigh Bells,1,u,46
+5261,The Summer Set,0,u,46
+5262,Sir Charles Jones,0,u,46
+5263,"Defiance, Ohio",0,v,47
+5264,The SteelDrivers,0,u,46
+5265,The Temper Trap,0,u,46
+5266,Laura Marling,0,o,40
+5267,The Bloody Beetroots,0,j,35
+5268,Carly Rae Jepsen,0,u,46
+5269,Katie Herzig,2,v,47
+5270,The Glitch Mob,0,u,46
+5271,Travis Greene,0,u,46
+5272,CHAPPO,0,u,46
+5273,Rita Ora,0,u,46
+5274,Rend Collective,0,u,46
+5275,Phantogram,0,G,6
+5276,Fun.,0,u,46
+5277,Hot Chelle Rae,0,o,40
+5278,The Civil Wars,0,u,46
+5279,Washed Out,0,u,46
+5280,Toro y Moi,0,u,46
+5281,Two Door Cinema Club,0,u,46
+5282,Verse Simmonds,0,u,46
+5283,Boyce Avenue,0,u,46
+5284,Justin Bieber,1,u,46
+5285,Ariana Grande,0,u,46
+5286,Lincoln,0,u,46
+5287,Grimes,1,p,41
+5288,Stateless,0,E,4
+5289,Curtis Grimes,0,u,46
+5290,Sky Ferreira,0,u,46
+5291,Skrillex,1,u,46
+5292,Terrace Martin,0,u,46
+5293,Frank Reyes,1,v,47
+5294,Romeo Santos,0,u,46
+5295,Camilo Sesto,1,v,47
+5296,RaulÃ­n RodrÃ­guez,1,v,47
+5297,Seasons After,0,u,46
+5298,The Band Perry,0,u,46
+5299,Eric Bellinger,0,u,46
+5300,Of Mice & Men,0,u,46
+5301,Emmure,1,v,47
+5302,Eric Paslay,0,u,46
+5303,K. Michelle,0,u,46
+5304,Eric Prydz,1,v,47
+5305,Avicii,2,u,46
+5306,Benny Benassi,1,v,47
+5307,Nick Jonas & the Administration,0,u,46
+5308,Small Black,0,u,46
+5309,Allstar Weekend,0,u,46
+5310,Neon Trees,0,u,46
+5311,Twenty One Pilots,0,u,46
+5312,Charles Bradley,0,u,46
+5313,Tink,0,u,46
+5314,Thundercat,0,u,46
+5315,Baths,0,p,41
+5316,James Blake,2,u,46
+5317,JÃ³nsi,0,u,46
+5318,Lianne La Havas,0,u,46
+5319,The Boys,0,u,46
+5320,Perfume Genius,0,m,38
+5321,Logan Mize,0,u,46
+5322,Black Veil Brides,0,X,23
+5323,The Head and the Heart,0,u,46
+5324,The Wanted,1,u,46
+5325,Blue,1,v,47
+5326,Christina Perri,0,u,46
+5327,Sam Smith,0,u,46
+5328,Nick Jonas,0,u,46
+5329,BJ the Chicago Kid,0,u,46
+5330,Olly Murs,0,u,46
+5331,Gigi Masin,0,u,46
+5332,Twin Shadow,0,u,46
+5333,Foster the People,0,u,46
+5334,Disclosure,0,u,46
+5335,Com Truise,0,u,46
+5336,Big Time Rush,0,u,46
+5337,A*Teens,1,u,46
+5338,Mindless Behavior,0,u,46
+5339,Canaan Smith,0,u,46
+5340,Miguel,3,u,46
+5341,Jonathan McReynolds,0,u,46
+5342,Lord Huron,0,u,46
+5343,Jamie Lawson,0,u,46
+5344,Jessie Ware,0,u,46
+5345,Young the Giant,0,u,46
+5346,Frank Ocean,3,u,46
+5347,Kimbra,0,p,41
+5348,Jessie J,0,h,33
+5349,Jeremy Soule,0,u,46
+5350,Skylar Grey,1,u,46
+5351,Kevin Garrett,0,u,46
+5352,Gallant,1,u,46
+5353,Absofacto,0,u,46
+5354,Ed Sheeran,2,u,46
+5355,Feed Me,0,u,46
+5356,Cher Lloyd,0,u,46
+5357,Mndsgn,0,u,46
+5358,The Weeknd,2,G,6
+5359,Sam Hunt,0,u,46
+5360,Periphery,0,u,46
+5361,Tedeschi Trucks Band,0,T,19
+5362,Tyler Farr,0,u,46
+5363,Jana Kramer,0,u,46
+5364,Scotty McCreery,0,u,46
+5365,Ronnie Dunn,1,v,47
+5366,Pham,0,u,46
+5367,Lorn,1,v,47
+5368,Flume,2,v,47
+5369,Zendaya,0,u,46
+5370,Bridgit Mendler,1,v,47
+5371,JhenÃ© Aiko,0,u,46
+5372,The Districts,0,u,46
+5373,Pistol Annies,0,u,46
+5374,A Winged Victory for the Sullen,0,u,46
+5375,Michael Kiwanuka,0,u,46
+5376,One Direction,1,u,46
+5377,Tory Lanez,0,u,46
+5378,Zedd,1,u,46
+5379,Lana Del Rey,0,u,46
+5380,Matthew Koma,0,u,46
+5381,Cole Swindell,0,u,46
+5382,Elle Varner,0,u,46
+5383,Kishi Bashi,0,u,46
+5384,Alabama Shakes,0,u,46
+5385,Steve Angello,1,v,47
+5386,3LAU,0,u,46
+5387,Allen Stone,0,u,46
+5388,Meghan Trainor,0,h,33
+5389,King Krule,1,u,46
+5390,Robert Glasper Experiment,0,u,46
+5391,Natural Child,0,u,46
+5392,The Internet,0,u,46
+5393,Electric Guest,0,u,46
+5394,Little Mix,0,u,46
+5395,Harry Styles,0,u,46
+5396,Niall Horan,0,u,46
+5397,Wild Party,0,u,46
+5398,Alt-J,2,u,46
+5399,WZRD,0,u,46
+5400,Mac DeMarco,0,u,46
+5401,The Lumineers,1,u,46
+5402,Father John Misty,0,u,46
+5403,Romare,0,u,46
+5404,The Piano Guys,0,u,46
+5405,Destructo,0,u,46
+5406,Jetta,0,u,46
+5407,Dan Croll,0,u,46
+5408,Cherub,0,u,46
+5409,Atlas Genius,0,u,46
+5410,Florida Georgia Line,0,u,46
+5411,Dallas Smith,0,u,46
+5412,The 1975,0,u,46
+5413,Northlane,0,u,46
+5414,R5,0,u,46
+5415,John Newman,0,u,46
+5416,Becky G,0,u,46
+5417,Jenni Rivera,1,v,47
+5418,Crown the Empire,0,u,46
+5419,Foxes,0,p,41
+5420,Baauer,0,D,3
+5421,Flosstradamus,1,v,47
+5422,Jonn Hart,0,u,46
+5423,Timeflies,0,u,46
+5424,Hiatus Kaiyote,0,u,46
+5425,A*M*E,0,u,46
+5426,Sevyn Streeter,0,u,46
+5427,Niagara,0,u,46
+5428,Echosmith,0,u,46
+5429,August Alsina,0,u,46
+5430,Lukas Graham,0,u,46
+5431,Upchurch,0,u,46
+5432,Cashmere Cat,0,u,46
+5433,Hudson Mohawke,1,v,47
+5434,TGT,0,u,46
+5435,LSG,1,v,47
+5436,Lorde,0,u,46
+5437,Vision,0,u,46
+5438,A Great Big World,0,u,46
+5439,Moose Blood,0,u,46
+5440,Kat Dahlia,0,h,33
+5441,Zara Larsson,0,u,46
+5442,The Cadillac Three,0,u,46
+5443,Real Friends,0,u,46
+5444,Adrian Marcel,0,u,46
+5445,Nick Hakim,0,u,46
+5446,Chastity Belt,0,u,46
+5447,Hozier,0,u,46
+5448,Mary Lambert,0,u,46
+5449,Fifth Harmony,0,u,46
+5450,FKA twigs,0,H,7
+5451,Together PANGEA,0,u,46
+5452,The Interrupters,0,h,33
+5453,Vance Joy,0,u,46
+5454,Twin Forks,0,u,46
+5455,George Ezra,0,h,33
+5456,Bombay Bicycle Club,1,v,47
+5457,Justine Skye,0,u,46
+5458,SoMo,0,u,46
+5459,Jordan Knight,1,v,47
+5460,Daniel Caesar,0,u,46
+5461,5 Seconds of Summer,0,u,46
+5462,Neck Deep,0,R,17
+5463,State Champs,0,u,46
+5464,Phoebe Ryan,0,u,46
+5465,Andra Day,0,u,46
+5466,Meg Myers,0,u,46
+5467,MisterWives,0,u,46
+5468,Starset,0,u,46
+5469,Magic!,0,u,46
+5470,Big Data,0,u,46
+5471,Moti,0,u,46
+5472,Kehlani,0,u,46
+5473,TeeFLii,0,u,46
+5474,Tinashe,0,u,46
+5475,Mickey Guyton,0,u,46
+5476,Bando Jonez,0,u,46
+5477,VEDO,0,u,46
+5478,Jessie James Decker,0,u,46
+5479,Anthony Lewis,0,u,46
+5480,Troye Sivan,0,u,46
+5481,Little May,0,u,46
+5482,Shawn Mendes,0,u,46
+5483,Francesco Yates,0,u,46
+5484,Chase Bryant,0,u,46
+5485,The Neptunes,1,v,47
+5486,Kaytranada,0,v,47
+5487,Karen Harding,0,u,46
+5488,Raury,0,u,46
+5489,Kygo,0,u,46
+5490,Jackie Lee,0,u,46
+5491,PVRIS,0,u,46
+5492,Jordan Rakei,0,u,46
+5493,Fat Freddy's Drop,1,v,47
+5494,BÃ˜RNS,0,u,46
+5495,Jack Garratt,0,K,10
+5496,The Marcus King Band,0,u,46
+5497,Charlie Puth,0,u,46
+5498,Luke Kaufman,0,u,46
+5499,Natalie La Rose,0,u,46
+5500,LANY,0,u,46
+5501,The Oh Hellos,0,u,46
+5502,The Middle East,1,v,47
+5503,Fleurie,0,u,46
+5504,Jordan Fisher,0,u,46
+5505,HONNE,0,u,46
+5506,Leon Bridges,0,u,46
+5507,Sarah Ross,0,u,46
+5508,Bibi Bourelly,0,u,46
+5509,Cheat Codes,0,u,46
+5510,Nicky Romero,1,v,47
+5511,Rainbow Kitten Surprise,0,u,46
+5512,Camila Cabello,0,u,46
+5513,Kaleo,0,u,46
+5514,Jon Langston,0,u,46
+5515,Izzy Bizu,0,u,46
+5516,Astrid S,0,V,21
+5517,Red Sun Rising,0,u,46
+5518,Rotimi,0,u,46
+5519,That Poppy,0,t,45
+5520,Petit Biscuit,0,u,46
+5521,Bryson Tiller,0,u,46
+5522,Jamila Woods,0,u,46
+5523,Roy Woods,0,V,21
+5524,Dua Lipa,0,h,33
+5525,Car Seat Headrest,0,u,46
+5526,Kadhja Bonet,0,u,46
+5527,Los Ãngeles Negros,1,v,47
+5528,Chicano Batman,0,u,46
+5529,With Confidence,0,u,46
+5530,La Dispute,1,v,47
+5531,Kali Uchis,0,u,46
+5532,Big Thief,0,u,46
+5533,James TW,0,u,46
+5534,Chris Lane,0,u,46
+5535,Jillian Jacqueline,0,u,46
+5536,Cloves,0,u,46
+5537,Luke Combs,0,u,46
+5538,gnash,0,u,46
+5539,Levitation Room,0,u,46
+5540,Declan McKenna,0,u,46
+5541,Crywank,0,u,46
+5542,Sports,0,u,46
+5543,Billie Eilish,0,u,46
+5544,ZAYN,0,u,46
+5545,CNCO,0,u,46
+5546,J Balvin,1,v,47
+5547,LANCO,0,u,46
+5548,Ella Mai,0,u,46
+5549,Noname,0,u,46
+5550,Buddy Brown,0,u,46
+5551,EDEN,0,u,46
+5552,24hrs,0,u,46
+5553,Ty Dolla $ign,1,v,47
+5554,Colter Wall,0,u,46
+5555,Xavier OmÃ¤r,0,u,46
+5556,Midland,0,u,46
+5557,Brent Faiyaz,0,u,46
+5558,Jeremy Zucker,0,u,46
+5559,Jon Bellion,1,v,47
+5560,Yungblud,0,u,46
+5561,Jaira Burns,0,u,46
+5562,Elohim,0,p,41
+5563,Rosemary & Garlic,0,u,46
+5564,Vybz Kartel,1,v,47
+5565,Trinidad Cardona,0,u,46
+5566,Popcaan,1,v,47
+5567,Tommy Lee,1,v,47
